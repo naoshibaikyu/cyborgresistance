@@ -38,5 +38,5 @@ function show(id) {
 	
 //At the start of the page, automatically executes a code.
 	window.onload = function(){
-		javascript:show('page0')
+		javascript:show('link0')
 };
