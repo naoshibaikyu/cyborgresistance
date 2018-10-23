@@ -55,7 +55,8 @@ body {
 </style>
 
 <span class="span" markdown="1">
-##Interactable Character Profile Selector	
+
+##Interactive Character Profile Select	
 
 </span>
 
@@ -102,10 +103,10 @@ body {
 </html>
 
 <script src="assets/js/scrollpage.js"></script>
-
+<p></p><p></p>
 <body>
-<span class="col-md-3"  markdown="1">
-	<p></p><p></p>
+<span class="col-md-3">
+
 	
 	
 	<span class="span" id="content0" markdown="1">
@@ -130,7 +131,7 @@ body {
 	
     <span class="span" id="content3" markdown="1">
 	
-	![](https://naoshibaikyu.github.io/cyborgresistance/assets/images/mugshots/hornetoriginal.png) **Hornet Man !**[](https://naoshibaikyu.github.io/cyborgresistance/assets/images/sprites/hornetstand.png)
+	![](https://naoshibaikyu.github.io/cyborgresistance/assets/images/mugshots/hornetoriginal.png) **Hornet Man** ![](https://naoshibaikyu.github.io/cyborgresistance/assets/images/sprites/hornetstand.png)
 	
 	Hornet Man - He is FUCKING PISSED. Also he has a sister named Honey Woman.
 	:s
