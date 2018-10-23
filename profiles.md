@@ -129,9 +129,12 @@ body {
 	
 	
     <span class="span" id="content3" markdown="1">
-	##![](https://naoshibaikyu.github.io/cyborgresistance/assets/images/mugshots/hornetoriginal.png) Hornet Man ![](https://naoshibaikyu.github.io/cyborgresistance/assets/images/sprites/hornetstand.png)
-=======
-        Hornet Man - He is FUCKING PISSED. Also he has a sister named Honey Woman.
+	
+	![](https://naoshibaikyu.github.io/cyborgresistance/assets/images/mugshots/hornetoriginal.png) **Hornet Man !**[](https://naoshibaikyu.github.io/cyborgresistance/assets/images/sprites/hornetstand.png)
+	
+	Hornet Man - He is FUCKING PISSED. Also he has a sister named Honey Woman.
+	:s
+	
 		
 		
     </span>
