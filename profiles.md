@@ -54,7 +54,7 @@ body {
 
 </style>
 
-<span  markdown="1">
+<span class="span" markdown="1">
 ##Interactable Character Profile Selector	
 
 </span>
