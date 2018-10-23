@@ -104,7 +104,7 @@ body {
 <script src="assets/js/scrollpage.js"></script>
 
 <body>
-<span class="col-md-3">
+<span class="col-md-3"  markdown="1">
 	<p></p><p></p>
 	
 	
