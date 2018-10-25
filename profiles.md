@@ -64,17 +64,10 @@ body {
 }
 
 #leftside {
-  border-radius: 12px;
-  background: #202020;
-  width: 48%;
-  height: 100%;
-  word-wrap: break-word;
-  min-height: 160px;
-  float: left;
-  padding-top: 8px;
-  padding-left: 8px;
-  padding-bottom: 8px;
-  color: white;
+    width: 100%;
+    font-size: 28px;
+    text-align: center;
+    padding-bottom: 8px;
 }
 #rightside {
   border-radius: 12px;
@@ -169,9 +162,9 @@ body {
 	
 <span class="container" id="content3" markdown="1">
 
-	<div id="profilename">Hornet Man</div>
+	<span id="profilename">Hornet Man</span>
 
-	<div id="leftside">*fuck* u</div>
+	<span id="leftside">*fuck* u</span>
 
 </span>
 	
