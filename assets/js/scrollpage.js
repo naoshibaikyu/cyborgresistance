@@ -39,4 +39,12 @@ function show(id) {
 //At the start of the page, automatically executes a code.
 	window.onload = function(){
 		javascript:show('link0')
+}
+
+{
+	//Format
+	document.body.style.backgroundColor = "#101010";
+	document.body.style.color = "#C0C0C0";
+	document.body.style.fontSize = "medium";
+	
 };

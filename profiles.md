@@ -77,7 +77,6 @@ body {
   color: white;
   font-size: 14px;
   margin: auto;
-  align-content: center;
 }
 #rightside {
   border-radius: 12px;
@@ -92,7 +91,6 @@ body {
   color: white;
   font-size: 14px;
   margin: auto;
-  align-content: center;
 }
 
 
