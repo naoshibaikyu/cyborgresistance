@@ -169,9 +169,9 @@ body {
 	
 <span class="container" id="content3" markdown="1">
 
-	<span id="profilename">Hornet Man</span>
+	<div id="profilename">Hornet Man</div>
 
-	<span id="leftside">*fuck* u</span>
+	<div id="leftside">*fuck* u</div>
 
 </span>
 	
