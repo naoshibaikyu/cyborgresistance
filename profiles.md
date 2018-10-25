@@ -170,20 +170,13 @@ body {
 	
 	<div class='container'>
 
-<div id="profilename">Hornet Man
-
-
-</div>
+<div id="profilename">Hornet Man</div>
 
     <span id="leftside" markdown="1">
     
     *fuck*
     
     </span>
-    
-    </div>
-:s
-	
 		
 		
     </span>
