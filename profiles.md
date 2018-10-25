@@ -170,13 +170,10 @@ body {
 
 <span id="profilename">Hornet Man</span>
 
-    <span id="leftside">
+    <span id="leftside" markdown="1">
     
     *fuck* u
     
-    </span>
-		
-		
     </span>
 	
 	
