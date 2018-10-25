@@ -172,7 +172,7 @@ body {
 
 <div id="profilename">Hornet Man</div>
 
-    <span id="leftside" markdown="1">
+    <span id="leftside">
     
     *fuck*
     
