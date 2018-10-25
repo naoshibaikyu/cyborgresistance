@@ -5,6 +5,11 @@ function showsub(id) {
         blocks[i].style.display = 'none';
     }
     document.querySelector('#subcontent' + number).style.display = 'block';
+	
+		//Format
+	document.body.style.backgroundColor = "#101010";
+	document.body.style.color = "#C0C0C0";
+	document.body.style.fontSize = "medium";
 }
 
 
@@ -40,11 +45,3 @@ function show(id) {
 	window.onload = function(){
 		javascript:show('link0')
 }
-
-{
-	//Format
-	document.body.style.backgroundColor = "#101010";
-	document.body.style.color = "#C0C0C0";
-	document.body.style.fontSize = "medium";
-	
-};
