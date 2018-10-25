@@ -53,7 +53,7 @@ body {
 
 .container {
     width: 90%;
-    margin: auto;
+
 }
 
 #profilename {
@@ -76,6 +76,8 @@ body {
   padding-bottom: 8px;
   color: white;
   font-size: 14px;
+  margin: auto;
+  align: center;
 }
 #rightside {
   border-radius: 12px;
@@ -89,6 +91,8 @@ body {
   padding-bottom: 8px;
   color: white;
   font-size: 14px;
+  margin: auto;
+  align: center;
 }
 
 
