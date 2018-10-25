@@ -51,6 +51,44 @@ body {
     box-shadow:  0px 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
+.container {
+    width: 90%;
+    margin: auto;
+}
+
+#profilename {
+    width: 100%;
+    font-size: 28px;
+    text-align: center;
+    padding-bottom: 8px;
+}
+
+#leftside {
+  border-radius: 12px;
+  background: #202020;
+  width: 48%;
+  height: 100%;
+  word-wrap: break-word;
+  min-height: 160px;
+  float: left;
+  padding-top: 8px;
+  padding-left: 8px;
+  padding-bottom: 8px;
+  color: white;
+}
+#rightside {
+  border-radius: 12px;
+  background: #202020;
+  width: 48%;
+  height: 100%;
+  word-wrap: break-word;
+  min-height: 160px;
+  float: right;
+  padding-left: 8px;
+  padding-bottom: 8px;
+  color: white;
+}
+
 
 </style>
 
@@ -130,11 +168,20 @@ body {
 	
     <span class="span" id="content3" markdown="1">
 	
-	<h1 markdown="1">![](https://naoshibaikyu.github.io/cyborgresistance/assets/images/mugshots/hornetoriginal.png) **Hornet Man** ![](https://naoshibaikyu.github.io/cyborgresistance/assets/images/sprites/hornetstand.png)</h1>
-	
+	<div class='container'>
 
-He is FUCKING PISSED. Also he has a sister named Honey Woman.
+<div id="profilename">Hornet Man
 
+
+</div>
+
+    <span id="leftside" markdown="1">
+    
+    *fuck*
+    
+    </span>
+    
+    </div>
 :s
 	
 		
