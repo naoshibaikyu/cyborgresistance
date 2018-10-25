@@ -77,7 +77,6 @@ body {
   color: white;
   font-size: 14px;
   margin: auto;
-  align-content: left;
 }
 #rightside {
   border-radius: 12px;
@@ -92,7 +91,6 @@ body {
   color: white;
   font-size: 14px;
   margin: auto;
-  align-content: right;
 }
 
 
@@ -175,9 +173,9 @@ body {
 	
 <span class="span" id="content3" markdown="1">
 
-	<span id="profilename">Hornet Man
+	<span id="profilename">Hornet Man</span>
 
-	<span id="leftside">*fuck* u
+	<span id="leftside">*fuck* u</span>
 	<span id="rightside" markdown="1"> what?
 
 </span>
