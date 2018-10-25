@@ -75,6 +75,7 @@ body {
   padding-left: 8px;
   padding-bottom: 8px;
   color: white;
+  font-size: 14px;
 }
 #rightside {
   border-radius: 12px;
@@ -87,6 +88,7 @@ body {
   padding-left: 8px;
   padding-bottom: 8px;
   color: white;
+  font-size: 14px;
 }
 
 
@@ -170,9 +172,11 @@ body {
 <span class="container" id="content3" markdown="1">
 
 	<span id="profilename">Hornet Man
-<p></p><p></p>
+
 	<span id="leftside">*fuck* u
 	<span id="rightside"> what?
+	
+	what is it?
 	
 	</span>
 
