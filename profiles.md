@@ -175,10 +175,8 @@ body {
 
 	<span id="profilename">Hornet Man
 
-	<span id="leftside">*fuck* u Dr. Light is fucking evil. Dr. Light is fucking evil. Dr. Light is fucking evil.
-	<span id="rightside" markdown="1"> what? Dr. Light is fucking evil. Dr. Light is fucking evil. Dr. Light is fucking evil.
-	
-	what is it?
+	<span id="leftside">*fuck* u
+	<span id="rightside" markdown="1"> what?
 
 </span>
 	
