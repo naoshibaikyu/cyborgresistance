@@ -174,11 +174,9 @@ body {
 	<span id="profilename">Hornet Man
 
 	<span id="leftside">*fuck* u
-	<span id="rightside"> what?
+	<span id="rightside" markdown="1"> what?
 	
 	what is it?
-	
-	</span>
 
 </span>
 	
