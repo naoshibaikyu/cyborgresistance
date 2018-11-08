@@ -16,11 +16,6 @@ img#double
 
 }
 
-@font-face {
-font-family: "Ace Attorney";
-src: url("../fonts/Ace-Attorney.ttf");
-}
-
 .dialogue 
 {  
   margin: auto;
@@ -47,7 +42,7 @@ src: url("../fonts/Ace-Attorney.ttf");
 
 .dialogue b
 { 
-  font-size: 75%
+  font-size: 75%;
   color: lightslategray;
   text-shadow: black -1px 1px;
 }
