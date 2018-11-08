@@ -160,7 +160,7 @@ function insertMugshots()
 			var find = new RegExp(str, "gi");
 			var imagePath = directory + nameKey + emoteKey + ".png"; 
 
-			replace = "<test><img id=double src=" + imagePath + "> <p><hhh>" + prefix + suffix + "</hhh></br></test>";
+			replace = "<test><img id=double src=" + imagePath + "> <p><profilename>" + prefix + suffix + "</profilename></br></test>";
 			
 			//TODO: check and see if replace path exists, if not, bold name and continue, else...
 			document.body.innerHTML = document.body.innerHTML.replace(find, replace);	
