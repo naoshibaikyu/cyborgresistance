@@ -43,8 +43,6 @@ src: url("../fonts/Ace-Attorney.ttf");
   height: 100%;
   word-wrap: break-word;
   min-height: 72px;
-  font-family: 'Ace Attorney';
-  font-size: 16px;
 }
 
 .dialogue b
@@ -52,7 +50,6 @@ src: url("../fonts/Ace-Attorney.ttf");
   font-size: 75%
   color: lightslategray;
   text-shadow: black -1px 1px;
-  font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .narration
