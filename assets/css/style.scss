@@ -18,7 +18,7 @@ img#double
 
 @font-face {
 font-family: "Ace Attorney";
-src: url("../../assets/fonts/Ace-Attorney.ttf");
+src: url("../fonts/Ace-Attorney.ttf");
 }
 
 .dialogue 
@@ -43,14 +43,14 @@ src: url("../../assets/fonts/Ace-Attorney.ttf");
   height: 100%;
   word-wrap: break-word;
   min-height: 72px;
+  font-family: 'Ace Attorney';
 }
 
 .dialogue b
 { 
-  font-size: 100%;
+  font-size: 75%;
   color: lightslategray;
   text-shadow: black -1px 1px;
-  font-family: 'Ace Attorney';
 }
 
 .narration
