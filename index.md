@@ -2,6 +2,8 @@
 
 EpStart
 
+@LOCATION: Team Base
+
 HornetGlare: We're still working on this site. Go away! Gosh. Nosh Bsoh Yosh Gosh. Nosh Bsoh YoshGosh. Nosh Bsoh YoshGosh. Nosh Bsoh YoshGosh. Nosh Bsoh YoshGosh. Nosh Bsoh YoshGosh. Nosh Bsoh YoshGosh. Nosh Bsoh YoshGosh. Nosh Bsoh YoshGosh. Nosh Bsoh Yosh
 
 Fake: Hey, don't be rude to our guests!
