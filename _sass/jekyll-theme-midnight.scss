@@ -31,6 +31,9 @@ h1, h2, h3 {
 h1 {
   font-size:28px;
   margin:0 0 0px;
+  text-shadow: black -2px 1px;
+  font-family: 'Mega Man 9';
+  text-transform: uppercase;
 }
 
 h2 {
@@ -242,10 +245,6 @@ section {
       font-size: 40px;
       text-align: center;
       line-height: 36px;
-	  color: #FFFFFF;
-      text-shadow: black -2px 1px;
-      font-family: 'Mega Man 9';
-      text-transform: uppercase;
     }
 
     p {
