@@ -38,6 +38,18 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   float: left;
 }
 
+.dialogue profilename
+{ 
+  color: lightslategray;
+  text-shadow: black -1px 1px;
+  font-family: 'Mega Man 6 Stats';
+  font-smooth: never;
+  font-size: 50%;
+  float: left;
+  padding-top: 8px;
+}
+
+
 .dialogue p
 {  
   border-radius: 12px;
@@ -52,16 +64,6 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   font-family: 'Nintendo DS';
 }
 
-.dialogue profilename
-{ 
-  color: lightslategray;
-  text-shadow: black -1px 1px;
-  font-family: 'Mega Man 6 Stats';
-  font-smooth: never;
-  font-size: 50%;
-  float: left;
-  padding-top: 8px;
-}
 
 .narration
 { 
