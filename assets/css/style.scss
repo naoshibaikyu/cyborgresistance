@@ -53,10 +53,11 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 
 .dialogue profilename
 { 
-  color: lightslategray;
+  color: #99AABB;
   text-shadow: black -2px 1px;
   font-family: 'Mega Man 6 Stats';
   font-size: 100%;
+  padding-top: 8px;
 }
 
 .narration
