@@ -48,12 +48,12 @@ function insertMugshots()
 		//Cyborg Resistance Members
 		concrete:"Concrete",
 		spike:"Spike",
-		magma:"MAGMA",
-		hornet:"HORNET",
-		galaxy:"GALAXY",
+		magma:"Magma",
+		hornet:"Hornet",
+		galaxy:"Galaxy",
 		plug:"Plug",
 		tornado:"Tornado",
-		fake:"FAKE",
+		fake:"Fake",
 		jewel:"Jewel",
 		splash:"Splash",
 		//Supporting Characters
@@ -117,17 +117,17 @@ function insertMugshots()
 				case "galaxy":
 				case "plug":
 				case "tornado":
-					suffix = " MAN";
+					suffix = " Man";
 					break;
 				case "jewel":
-					suffix = " WOMAN";
+					suffix = " Woman";
 					break;
 				case "concrete":
 					prefix = "Con";
 					suffix = "critter";
 					break;
 				case "fake":
-					suffix = "TTE";
+					suffix = "tte";
 					break;
 				case "spike":
 					prefix = "Concrete";
