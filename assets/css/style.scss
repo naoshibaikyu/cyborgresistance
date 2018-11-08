@@ -21,6 +21,11 @@ font-family: "Mega Man 6 Stats";
 src: url("../fonts/MM6Stats.ttf");
 }
 
+@font-face {
+font-family: "Nintendo DS";
+src: url("../fonts/Nintendo-DS-BIOS.ttf");
+}
+
 .dialogue 
 {  
   margin: auto;
@@ -44,6 +49,7 @@ src: url("../fonts/MM6Stats.ttf");
   height: 100%;
   word-wrap: break-word;
   min-height: 72px;
+  font-family: 'Nintendo DS';
 }
 
 .dialogue profilename
