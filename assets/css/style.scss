@@ -47,10 +47,11 @@ src: url("../fonts/MM6Stats.ttf");
 
 .dialogue b
 { 
-  color: white;
+  color: lightslategray;
   text-shadow: black -1px 1px;
   font-family: 'Ace Attorney';
   font-smooth: never;
+  font-size: 75%;
 }
 
 .narration
