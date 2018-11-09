@@ -174,7 +174,6 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 
 .location p
 { 
-  background-image: url("../../../cyborgresistance/assets/images/misc/cobaltcity.png");
   font-size: 200%;
   text-align: center;
   text-shadow: -4px 3px #123;
@@ -186,6 +185,12 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 
 .location:before{
   content: "Location:";
+  font-size: 50%;
+  text-align: center;
+  text-shadow: -4px 3px #123;
+  color: #CCDDEE;
+  border-radius: 4px;
+  font-family: 'Mega Man 6 Stats';
 }
 
 
