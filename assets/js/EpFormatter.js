@@ -20,7 +20,7 @@ function insertDivs()
 	    	div.className = "location";
 	    	line.innerHTML = line.innerHTML.substr(10);
 	    }
-		if (line.innerHTML.startsWith("@ACTNUM:"))
+		else if (line.innerHTML.startsWith("@ACTNUM:"))
 	    {
 	    	div.className = "actnum";
 	    	line.innerHTML = line.innerHTML.substr(8);
