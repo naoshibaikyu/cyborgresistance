@@ -37,3 +37,5 @@ GalaxyHappy: Yeah! Let's welcome them to our forums while things are being set u
 MagmaHappy: That's right! [Join our forums!](http://cyborgresistance.proboards.com/)
 
 EpFin
+
+<script src="{{ '/assets/js/EpFormatter.js' | relative_url }}"></script>
