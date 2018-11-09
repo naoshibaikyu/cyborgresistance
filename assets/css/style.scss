@@ -119,30 +119,30 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 { 
   font-size: 18px;
   text-align: center;
-  text-shadow: -4px 3px #000000;
+  text-shadow: -3px 2px #444;
   color: #e8e8e8;
   width: 98%;
   text-transform: uppercase;
-  margin-bottom: 10px;
+  margin: 0px;
 }
 
 .eptitle
 { 
   font-size: 24px;
   text-align: center;
-  text-shadow: -4px 3px #000000;
+  text-shadow: -4px 3px #444;
   color: #e8e8e8;
   width: 98%;
   font-family: 'Mega Man 9';
   text-transform: uppercase;
-  margin-bottom: 10px;
+  margin: 0px;
 }
 
 .author
 { 
   font-size: 14px;
   text-align: center;
-  text-shadow: -4px 3px #000000;
+  text-shadow: -2px 1px #444;
   color: #e8e8e8;
   width: 98%;
   margin-bottom: 60px;
@@ -153,7 +153,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 { 
   font-size: 200%;
   text-align: center;
-  text-shadow: -4px 3px #000000;
+  text-shadow: -4px 3px #444;
   color: #e8e8e8;
   width: 98%;
   font-family: 'Mega Man 6 Stats';
@@ -164,7 +164,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   background-image: url("/cyborgresistance/assets/images/misc/simcitysnesdesktop_poisonmushroomdotorgsmol.jpg");
   font-size: 200%;
   text-align: center;
-  text-shadow: -4px 3px #000000;
+  text-shadow: -4px 3px #345;
   color: #CCDDEE;
   margin-bottom: 20px;
   max-width: 1280px;
