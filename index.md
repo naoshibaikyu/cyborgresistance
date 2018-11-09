@@ -8,7 +8,7 @@ EpStart
 
 @ACTNUM: ACT 1
 
-@LOCATION: Team Base
+@LOCATION: DR. LIGHT'S LAB
 
 HornetGlare: We're still working on this site. Go away!
 
