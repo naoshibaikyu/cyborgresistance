@@ -1,3 +1,19 @@
+<a id="top"></a>
+<center>
+<h4>Season 1 Episode ?</h4>
+<h2>PIEASS</h2>
+<h6>Written by Psycho The Mantis</h6>
+</center>
+
+<center>
+<a href="#prologue" class="EpButtons">Prologue</a>
+<a href="#act-1" class="EpButtons">Act 1</a>
+<a href="#act-2" class="EpButtons">Act 2</a>
+<a href="#act-3" class="EpButtons">Act 3</a>
+<a href="#epilogue" class="EpButtons">Epilogue</a>
+</center>
+
+
 
 EpStart
 
