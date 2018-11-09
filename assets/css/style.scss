@@ -164,21 +164,25 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 .location
 { 
   background-image: url("../../../cyborgresistance/assets/images/misc/cobaltcity.png");
+  margin-bottom: 20px;
+  max-width: 1280px;
+  border-radius: 4px;
+  padding-left: 8px;
+  width: 98%;
+  height: 128px;
+}
+
+.location p
+{ 
+  background-image: url("../../../cyborgresistance/assets/images/misc/cobaltcity.png");
   font-size: 200%;
   text-align: center;
   text-shadow: -4px 3px #123;
   color: #CCDDEE;
-  margin-bottom: 20px;
-  max-width: 1280px;
   border-radius: 4px;
-  background-color: #202020;
-  padding-left: 8px;
-  width: 98%;
-  height: 128px;
+  padding-top: 8px;
   font-family: 'Mega Man 6 Stats';
 }
-
-
 
 
 
