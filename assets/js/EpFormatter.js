@@ -20,6 +20,21 @@ function insertDivs()
 	    	div.className = "location";
 	    	line.innerHTML = line.innerHTML.substr(10);
 	    }
+		else if (line.innerHTML.startsWith("@EPNUM:"))
+	    {
+	    	div.className = "epnum";
+	    	line.innerHTML = line.innerHTML.substr(7);
+	    }
+		else if (line.innerHTML.startsWith("@TITLE:"))
+	    {
+	    	div.className = "title";
+	    	line.innerHTML = line.innerHTML.substr(7);
+	    }
+		else if (line.innerHTML.startsWith("@AUTHOR:"))
+	    {
+	    	div.className = "author";
+	    	line.innerHTML = line.innerHTML.substr(8);
+	    }
 		else if (line.innerHTML.startsWith("@ACTNUM:"))
 	    {
 	    	div.className = "actnum";
