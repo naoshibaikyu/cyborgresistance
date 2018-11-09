@@ -122,6 +122,10 @@ N/A
 </div>
 
 <script>
+body {
+  background: #080808;
+}
+
 var directory = "./assets/images/mugshots/";
 
 //Instances of where a character has an image attached to their name. Along with bolding the name.
@@ -180,10 +184,6 @@ for (var nameKey in names)
 	}
 	
 
-}
-
-body {
-  background: #080808;
 }
 </script>
 
