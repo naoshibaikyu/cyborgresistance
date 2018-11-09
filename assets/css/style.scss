@@ -124,6 +124,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   width: 98%;
   text-transform: uppercase;
   margin: 0px;
+  height: 4px;
 }
 
 .eptitle
@@ -136,6 +137,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   font-family: 'Mega Man 9';
   text-transform: uppercase;
   margin: 0px;
+  height: 14px;
 }
 
 .author
@@ -171,6 +173,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   border-radius: 4px;
   background-color: #202020;
   padding-left: 8px;
+  padding-top:8px;
   width: 98%;
   height: 128px;
   font-family: 'Mega Man 6 Stats';
