@@ -170,6 +170,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   padding-left: 8px;
   width: 98%;
   height: 128px;
+  text-align: center;
 }
 
 .location p
@@ -179,18 +180,18 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   text-shadow: -4px 3px #123;
   color: #CCDDEE;
   border-radius: 4px;
-  padding-top: 8px;
+  padding-top: 4px;
   font-family: 'Mega Man 6 Stats';
 }
 
 .location:before{
-  content: "Location:";
   font-size: 50%;
   text-align: center;
-  text-shadow: -4px 3px #123;
+  text-shadow: -2px 1px #123;
   color: #CCDDEE;
   border-radius: 4px;
   font-family: 'Mega Man 6 Stats';
+  content: "Location...";
 }
 
 
