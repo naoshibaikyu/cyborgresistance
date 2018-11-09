@@ -1,4 +1,11 @@
 
+<div class=""><center>
+<h4>Season 1 Episode ??</h4>
+<h2>Concritter Heavy Hitter</h2>
+<h6>Written by Raes</h6>
+<hr>
+</center></div>
+
 EpStart
 
 Narrator: We find ourselves currently overseeing the machinations of Concrete Man within the confines of the team's base! Concrete Man who is... ...just... ...standing there.. ...doing absolutely.. ...nothing interesting.
