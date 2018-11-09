@@ -4,7 +4,7 @@ EpStart
 
 @EPNUM: Season 0 Episode 0
 @TITLE: Title Sample
-@AUTHOR: Huh Man and Sinistar's Cousin Joe
+@AUTHOR: By Huh Man and Sinistar's Cousin Joe
 
 @ACTNUM: ACT 1
 

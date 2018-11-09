@@ -27,7 +27,7 @@ function insertDivs()
 	    }
 		else if (line.innerHTML.startsWith("@TITLE:"))
 	    {
-	    	div.className = "title";
+	    	div.className = "eptitle";
 	    	line.innerHTML = line.innerHTML.substr(7);
 	    }
 		else if (line.innerHTML.startsWith("@AUTHOR:"))
