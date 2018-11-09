@@ -18,7 +18,7 @@ function insertDivs()
 	    if (line.innerHTML.startsWith("@LOCATION:"))
 	    {
 	    	div.className = "location";
-	    	line.innerHTML = line.innerHTML.substr(1);
+	    	line.innerHTML = line.innerHTML.substr(10);
 	    }
 	    else if (line.innerHTML.startsWith("%"))
 	    {
