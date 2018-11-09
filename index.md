@@ -3,7 +3,9 @@
 EpStart
 
 @EPNUM: Season 0 Episode 0
+
 @TITLE: Title Sample
+
 @AUTHOR: By Huh Man and Sinistar's Cousin Joe
 
 @ACTNUM: ACT 1
@@ -11,6 +13,7 @@ EpStart
 @LOCATION: DR. LIGHT'S LAB
 
 HornetGlare: We're still working on this site. Go away!
+fuck
 
 Fake: Hey, don't be rude to our guests!
 
