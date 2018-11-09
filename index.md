@@ -13,7 +13,6 @@ EpStart
 @LOCATION: DR. LIGHT'S LAB
 
 HornetGlare: We're still working on this site. Go away!
-fuck
 
 Fake: Hey, don't be rude to our guests!
 
