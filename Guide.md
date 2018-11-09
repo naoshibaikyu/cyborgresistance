@@ -182,4 +182,6 @@ for (var nameKey in names)
 
 }</script>
 
-background-color: #222
+body {
+  background: #080808;
+}
