@@ -180,8 +180,9 @@ for (var nameKey in names)
 	}
 	
 
-}</script>
+}
 
 body {
   background: #080808;
-}
+}</script>
+
