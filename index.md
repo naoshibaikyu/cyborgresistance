@@ -4,21 +4,11 @@ EpStart
 
 @LOCATION: Team Base
 
-HornetGlare: We're still working on this site. Go away!
+@CATS
 
-Fake: Hey, don't be rude to our guests!
+@LOCATION hi
 
-GalaxyHappy: Yeah! Let's welcome them to our forums while things are being set up!
-
-MagmaHappy: That's right! [Join our forums!](http://cyborgresistance.proboards.com/)
-
-HornetGlare: We're still working on this site. Go away!
-
-Fake: Hey, don't be rude to our guests!
-
-GalaxyHappy: Yeah! Let's welcome them to our forums while things are being set up!
-
-MagmaHappy: That's right! [Join our forums!](http://cyborgresistance.proboards.com/)
+@Location: hi
 
 HornetGlare: We're still working on this site. Go away!
 
