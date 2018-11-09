@@ -117,12 +117,13 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 
 .epnum
 { 
-  font-size: 14px;
+  font-size: 18px;
   text-align: center;
   text-shadow: -4px 3px #000000;
   color: #e8e8e8;
   width: 98%;
   text-transform: uppercase;
+  margin-bottom: 10px;
 }
 
 .eptitle
@@ -133,15 +134,18 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   color: #e8e8e8;
   width: 98%;
   font-family: 'Mega Man 9';
+  text-transform: uppercase;
+  margin-bottom: 10px;
 }
 
 .author
 { 
-  font-size: 10px;
+  font-size: 14px;
   text-align: center;
   text-shadow: -4px 3px #000000;
   color: #e8e8e8;
   width: 98%;
+  margin-bottom: 60px;
 }
 
 
