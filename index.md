@@ -2,21 +2,13 @@
 
 EpStart
 
+@EPNUM: Season 0 Episode 0
+@TITLE: Title Sample
+@AUTHOR: Huh Man and Sinistar's Cousin Joe
+
+@ACTNUM: ACT 1
+
 @LOCATION: Team Base
-
-@CATS
-
-@LOCATION hi
-
-@Location: hi
-
-HornetGlare: We're still working on this site. Go away!
-
-Fake: Hey, don't be rude to our guests!
-
-GalaxyHappy: Yeah! Let's welcome them to our forums while things are being set up!
-
-MagmaHappy: That's right! [Join our forums!](http://cyborgresistance.proboards.com/)
 
 HornetGlare: We're still working on this site. Go away!
 

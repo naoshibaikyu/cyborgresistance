@@ -113,6 +113,8 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   word-wrap: break-word;
 }
 
+//Misc Epilogue Formatting
+
 .location
 { 
   background-image: url("/cyborgresistance/assets/images/misc/simcitysnesdesktop_poisonmushroomdotorgsmol.jpg");
@@ -127,6 +129,18 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   padding-left: 8px;
   padding-bottom: 8px;
   padding-top: 8px;
+  width: 98%;
+  height: 100px;
+  font-family: 'Mega Man 6 Stats';
+}
+
+
+.actnum
+{ 
+  font-size: 200%;
+  text-align: center;
+  text-shadow: -4px 3px #000000;
+  color: #C0C0C0;
   width: 98%;
   height: 100px;
   font-family: 'Mega Man 6 Stats';
