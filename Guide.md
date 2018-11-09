@@ -122,11 +122,6 @@ N/A
 </div>
 
 
-<script>
-body {
-  background: #080808;
-}
-</script>
 
 
 <script>
