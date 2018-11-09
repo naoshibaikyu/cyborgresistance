@@ -5,12 +5,12 @@ Usually, Mega Man Team epilogues have their dialog accompanied with a full sized
 Since the dialog is done in script style format, it'll look very simplistic.
 
 <h5>Example of what you've wrote:</h5>
-<div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">Magma: Farts...</div><br>
+<div style="background-color:#202020; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">Magma: Farts...</div><br>
 
 When the site loads the dialog, it will automatically format the characters name (like "Magma:") by replacing the text with a mugshot that is accompanied by the respective full character name and dialog.
 
 <h5>Example of what the site converts your writing into:</h5>
-<div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;"><img src="assets/images/guide/example1.png"></div>
+<div style="background-color:#202020; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;"><img src="assets/images/guide/example1.png"></div>
 <br><br>
 <h1>How to Use Expressions</h1>
 
@@ -19,12 +19,12 @@ With Mugshots being used in epilogues, they are often done with variations of em
 The process to use expressions for a mugshot is actually very simple. Note how just typing "Magma" would only display the Neutral expression of the mugshot. To give him a different expression, you'd have to type the name of the expression right next to his name (no spaces) like Giddy.
 
 <h5>Example of what you've wrote:</h5>
-<div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">MagmaGiddy: Farts...</div><br>
+<div style="background-color:#202020; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">MagmaGiddy: Farts...</div><br>
 
 With the name of the expression being added right beside the character's name, it'll autmoatically use the variation of the mugshot based on the expression you've wrote.
 
 <h5>Example of what the site converts your writing into:</h5>
-<div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;"><img src="assets/images/guide/example2.png"></div>
+<div style="background-color:#202020; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;"><img src="assets/images/guide/example2.png"></div>
 <h5>(Note: The example shown is an expression exclusive to Magma Man)</h5>
 <br><br>
 <h1>Mugshot References</h1>
@@ -57,29 +57,29 @@ Usually these are exclusive expressions to a character due to their unique perso
 <br><br>
 
 <div style="margin-top:24px;"><h5>Magma Man</h5></div>
-<div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
+<div style="background-color:#202020; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 MagmaGiddy:: MagmaGiddy
 </div>
 
 
 <div style="margin-top:24px;"><h5>Hornet Man</h5></div>
-<div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
+<div style="background-color:#202020; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 HornetGlare:: HornetGlare<br>
 HornetPissed:: HornetPissed
 </div>
 
 <div style="margin-top:24px;"><h5>Concrete Woman</h5></div>
-<div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
+<div style="background-color:#202020; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 N/A
 </div>
 
 <div style="margin-top:24px;"><h5>Plug Man</h5></div>
-<div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
+<div style="background-color:#202020; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 PlugScared:: PlugScared 
 </div>
 
 <div style="margin-top:24px;"><h5>Galaxy Man</h5></div>
-<div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
+<div style="background-color:#202020; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 GalaxyScared:: GalaxyScared <br>
 GalaxyPissed:: GalaxyPissed <br>
 GalaxyLenny:: GalaxyLenny <br>
@@ -88,22 +88,22 @@ GalaxySleep:: GalaxySleep
 </div>
 
 <div style="margin-top:24px;"><h5>Splash Man</h5></div>
-<div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
+<div style="background-color:#202020; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 SplashNani:: SplashNani
 </div>
 
 <div style="margin-top:24px;"><h5>Tornado Man</h5></div>
-<div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
+<div style="background-color:#202020; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 TornadoHotdog:: TornadoHotdog
 </div>
 
 <div style="margin-top:24px;"><h5>Fakette</h5></div>
-<div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
+<div style="background-color:#202020; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 FakeSnicker:: FakeSnicker
 </div>
 
 <div style="margin-top:24px;"><h5>Concrete Man</h5></div>
-<div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
+<div style="background-color:#202020; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 SpikeAloof:: SpikeAloof
 </div>
 
@@ -112,12 +112,12 @@ SpikeAloof:: SpikeAloof
 Well ok, "NPC" is pretty redundant in this because it's not a game. But just pretend NPCs refers to non-team mates and you're better off.
 
 <div style="margin-top:24px;"><h5>Narrator</h5></div>
-<div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
+<div style="background-color:#202020; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 Narrator:: Narrator
 </div>
 
 <div style="margin-top:24px;"><h5>Robotropolis Police Force</h5></div>
-<div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
+<div style="background-color:#202020; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">
 N/A
 </div>
 
