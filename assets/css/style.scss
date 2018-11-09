@@ -41,30 +41,37 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 .dialogue img 
 {
   float: left;
-  border:2px solid #C0C0C0;
+  border:1px solid #AAA;
+  margin-top: 23px;
+  margin-right: 25px;
+  margin-left: 25px;
 }
 
 .dialogue p
 {  
-  border-radius: 12px;
-  background: #202020;
-  margin-bottom: 24px;
-  padding-left: 8px;
-  padding-bottom: 8px;
-  width: 98%;
-  height: 50%;
-  word-wrap: break-word;
-  min-height: 72px;
+    border-radius: 12px;
+    background: #202020;
+    margin-bottom: 12px;
+    padding-left: 8px;
+    padding-bottom: 8px;
+    width: 98%;
+    height: 50%;
+    word-wrap: break-word;
+    min-height: 72px;
 }
 
 .dialogue profilename
 { 
-  color: #BBCCDD;
-  text-shadow: black -2px 1px;
-  font-family: 'Mega Man 9';
-  font-size: 50%;
-  padding-top: 4px;
-  text-transform: uppercase;
+    color: #BBCCDD;
+    text-shadow: black -2px 1px;
+    font-family: 'Mega Man 9';
+    font-size: 50%;
+    padding-left: 4px;
+    text-transform: uppercase;
+    float: left;
+    margin-left: -4px;
+    margin-top: 4px;
+    word-break: break-word;
 }
 
 .narration
