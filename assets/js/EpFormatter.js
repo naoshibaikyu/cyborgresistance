@@ -15,7 +15,7 @@ function insertDivs()
 	    var p = document.createElement('p');
 	    var div = document.createElement('div');
 
-	    if (line.innerHTML.startsWith("@"))
+	    if (line.innerHTML.startsWith("@LOCATION:"))
 	    {
 	    	div.className = "location";
 	    	line.innerHTML = line.innerHTML.substr(1);
