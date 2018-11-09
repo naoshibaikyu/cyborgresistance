@@ -115,6 +115,46 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 
 //Misc Epilogue Formatting
 
+.epnum
+{ 
+  font-size: 14px;
+  text-align: center;
+  text-shadow: -4px 3px #000000;
+  color: #e8e8e8;
+  width: 98%;
+  text-transform: uppercase;
+}
+
+.eptitle
+{ 
+  font-size: 24px;
+  text-align: center;
+  text-shadow: -4px 3px #000000;
+  color: #e8e8e8;
+  width: 98%;
+  font-family: 'Mega Man 9';
+}
+
+.author
+{ 
+  font-size: 10px;
+  text-align: center;
+  text-shadow: -4px 3px #000000;
+  color: #e8e8e8;
+  width: 98%;
+}
+
+
+.actnum
+{ 
+  font-size: 200%;
+  text-align: center;
+  text-shadow: -4px 3px #000000;
+  color: #e8e8e8;
+  width: 98%;
+  font-family: 'Mega Man 6 Stats';
+}
+
 .location
 { 
   background-image: url("/cyborgresistance/assets/images/misc/simcitysnesdesktop_poisonmushroomdotorgsmol.jpg");
@@ -135,15 +175,8 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 }
 
 
-.actnum
-{ 
-  font-size: 200%;
-  text-align: center;
-  text-shadow: -4px 3px #000000;
-  color: #C0C0C0;
-  width: 98%;
-  font-family: 'Mega Man 6 Stats';
-}
+
+
 
 .EpButtons {
 	-moz-box-shadow: 1px 1px 2px 0px #9fb4f2;
