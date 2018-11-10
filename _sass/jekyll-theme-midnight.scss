@@ -34,7 +34,7 @@ h1 {
   text-shadow: #383838 -4px 3px;
   font-family: 'Mega Man 9';
   text-transform: uppercase;
-  margin-bottom: 8px;
+  margin: 8px;
 }
 
 h2 {
@@ -43,7 +43,7 @@ h2 {
   text-shadow: #383838 -3px 2px;
   font-family: 'Mega Man 9';
   text-transform: uppercase;
-  margin-bottom: 8px;
+  margin: 8px;
 }
 
 h4, h5, h6 {
@@ -55,7 +55,15 @@ h3 {
   text-shadow: #383838 -3px 2px;
   font-family: 'Mega Man 9';
   text-transform: uppercase;
-  margin-bottom: 8px;
+  margin: 8px;
+}
+
+h5 {
+  font-size: 8px;
+  text-shadow: #383838 -2px 1px;
+  font-family: 'Mega Man 9';
+  text-transform: uppercase;
+  margin: 4px;
 }
 
 a {
