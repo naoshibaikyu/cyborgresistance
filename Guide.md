@@ -21,7 +21,7 @@ The process to use expressions for a mugshot is actually very simple. Note how j
 <h5>Example of what you've wrote:</h5>
 <div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;">MagmaGiddy: Farts...</div><br>
 
-With the name of the expression being added right beside the character's name, it'll autmoatically use the variation of the mugshot based on the expression you've wrote.
+With the name of the expression being added right beside the character's name, it'll automatically use the variation of the mugshot based on the expression you've wrote.
 
 <h5>Example of what the site converts your writing into:</h5>
 <div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;"><img src="assets/images/guide/example2.png"></div>
