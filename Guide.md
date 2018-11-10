@@ -12,7 +12,7 @@ When the site loads the dialog, it will automatically format the characters name
 <h5>Example of what the site converts your writing into:</h5>
 <div style="background-color:#101010; margin-top:-8px; text-align:left; vertical-align: middle; padding:8px;"><img src="assets/images/guide/example1.png"></div>
 <br><br>
-<h1>How to Use Expressions</h1>
+<h3>Expressions</h3>
 
 With Mugshots being used in epilogues, they are often done with variations of emotions to suit the current dialog. This is done to spice up the epilogue and prevent repetition (a problem that pleagued the team scene eps") and makes each scene stand out better.
 
@@ -29,11 +29,9 @@ With the name of the expression being added right beside the character's name, i
 <br><br>
 <h1>Mugshot References</h1>
 
-Below are tables showing each and every mugshot available for each character. 
+Below are tables showing each and every mugshot available for each character. Outside of rare instances, everyone has these type of basic expressions.
 
-<h2>Basic Expressions</h2>
-
-Outside of rare instances, everyone has these type of basic expressions.
+<h3>Basic Expressions</h3>
 <br><br>
 
 |          |Neutral| Happy |Annoyed| Angry |Shocked|  Sad  |Damaged|Relieved|
@@ -49,9 +47,9 @@ Outside of rare instances, everyone has these type of basic expressions.
 | Fake     |Fake::|FakeHappy::|FakeAnnoyed::|FakeAngry::|FakeShocked::|FakeSad::|FakeDamaged::|FakeRelieved::|
 | Spike*   |Spike::|SpikeHappy::|SpikeAnnoyed::|SpikeAngry::|SpikeShocked::|N/A|N/A|N/A|
 
-<h5>* Name will display as Concrete instead of Spike.</h5>
+<h4>* Name will display as Concrete instead of Spike.</h4>
 
-<h2>Uncommon Expressions</h2>
+<h3>Uncommon Expressions</h3>
 
 Usually these are exclusive expressions to a character due to their unique personalities.
 <br><br>
