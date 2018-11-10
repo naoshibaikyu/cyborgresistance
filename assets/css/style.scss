@@ -161,6 +161,8 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   font-family: 'Mega Man 6 Stats';
 }
 
+
+ 
 .location
 { 
   background-image: url("../../../cyborgresistance/assets/images/misc/cobaltcity.png");
@@ -171,6 +173,17 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   width: 98%;
   height: 128px;
   text-align: center;
+}
+
+.location img
+{
+  image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
+  image-rendering: -moz-crisp-edges;          /* Firefox                        */
+  image-rendering: -o-crisp-edges;            /* Opera                          */
+  image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
+  image-rendering: pixelated;                 /* Chrome                         */
+  image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
+  -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
 }
 
 .location p
