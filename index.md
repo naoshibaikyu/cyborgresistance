@@ -2,11 +2,15 @@
 
 EpStart
 
+<!-- Epilogue Info -->
+ 
 @EPNUM: Season 0 Episode 0
 
 @TITLE: Title Sample
 
 @AUTHOR: By Huh Man and Sinistar's Cousin Joe
+
+<!-- Epilogue -->
 
 @ACTNUM: ACT 1
 
