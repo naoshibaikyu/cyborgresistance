@@ -49,7 +49,7 @@ Outside of rare instances, everyone has these type of basic expressions.
 | Fake     |Fake::|FakeHappy::|FakeAnnoyed::|FakeAngry::|FakeShocked::|FakeSad::|FakeDamaged::|FakeRelieved::|
 | Spike*   |Spike::|SpikeHappy::|SpikeAnnoyed::|SpikeAngry::|SpikeShocked::|N/A|N/A|N/A|
 
-<h5>*Name will display as Concrete instead of Spike.</h5>
+<h5>* Name will display as Concrete instead of Spike.</h5>
 
 <h2>Uncommon Expressions</h2>
 
