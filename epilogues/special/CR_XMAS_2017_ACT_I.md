@@ -1,17 +1,20 @@
 EpStart
-<div class=""><center>
-<h4>Cyborg Resistance's 2017 Christmas Special</h4>
-<h2>It's Beginning to Look A Lot Like Sinimas</h2>
-<h6>Written by Psycho The Mantis</h6>
-<h6>Special Thanks to Sinistar and SilverDime</h6>
-<hr>
-</center></div>
 
-<div class=""><center><h1>
-ACT I
-</h1></center></div>
+<!-- Epilogue Info -->
+ 
+@EPNUM: Cyborg Resistance's 2017 Christmas Special
 
-<div class="narration"><b>LOCATION: </b>Living Room</div>
+@TITLE: It's Beginning to Look A Lot Like Sinimas
+
+@AUTHOR: Written by Psycho The Mantis
+
+@AUTHOR: Special Thanks to Sinistar and SilverDime
+
+<!-- Epilogue -->
+
+@ACTNUM: ACT 1
+
+@LOCATION: Living Room
 
 Narrator: It's the night of Christmas Eve... Eve Eve Eve! Which means 4 days before Christmas. Wow! Anyways, just your-***[BOOM]*** ...typical day... Yeah.
 
@@ -31,9 +34,7 @@ PlugScared: I don't know, but do something!! The fire is about to spread to the 
 
 FakeSnicker: Not to worry! Fakette and her shapeshifting powers to the rescue!
 
-<div class="narration">
-Fakette transforms into a huge floating ice bucket of water. She then throws the ice cold water towards the fire right before turning herself back to normal.
-</div>
+%Fakette transforms into a huge floating ice bucket of water. She then throws the ice cold water towards the fire right before turning herself back to normal.
 
 FakeHappy: *Tada~!* All done!
 
@@ -53,9 +54,7 @@ GalaxyShocked: It wasn't me!
 
 HornetGlare: A likely story.
 
-<div class="narration">
-*AHEM*
-</div>
+%*AHEM*
 
 Tornado: Tornde will solve unknown cause.
 
@@ -85,9 +84,7 @@ GalaxyShocked: Wait! I'm sorry! Sorry! It won't happen again! Don't hurt meeeeee
 
 HornetGlare: Meh. 
 
-<div class="narration">
-Hornet looks at the charred tree then chucks Galaxy Man towards it.
-</div>
+%Hornet looks at the charred tree then chucks Galaxy Man towards it.
 
 HornetGlare: Feh. Now that's taken care of I'm going back to sleep.
 
@@ -135,9 +132,7 @@ JewelAnnoyed: Jeez, don't be such a Scrooge!
 
 HornetAngry: **BAH HUMBUG!**
 
-<div class="narration">
-Hornet leaves to his room and slams the door shut.
-</div>
+%Hornet leaves to his room and slams the door shut.
 
 SplashAnnoyed: This is going to be a long night...
 
@@ -168,15 +163,6 @@ GalaxyRelieved: Oh! Me too! Me too!
 FakeSnicker: Great! So that's the four of us. This is going to be *so fun*.
 
 EpFin
-<div class="narration">
-To be continued!
-<ul>
-<li><b>Act I</b></li> 
-<li><a href="CR_XMAS_2017_ACT_II.html">Act II</a></li> 
-<li><a href="CR_XMAS_2017_ACT_III.html">Act III</a> - <b><font size="2">NEW</font></b></li> 
-<li>Act IV</li>
-<li>Act V</li></ul>
-</div>
 
 
-<script src="assets/js/EpFormatter.js"></script>
+<script src="{{ '/assets/js/EpFormatter.js' | relative_url }}"></script>
