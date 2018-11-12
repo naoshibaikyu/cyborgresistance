@@ -6,8 +6,7 @@ EpStart
 
 @TITLE: It's Beginning to Look A Lot Like Sinimas
 
-@AUTHOR: Written by Psycho The Mantis
-Special Thanks to Sinistar and SilverDime
+@AUTHOR: Written by **Psycho The Mantis** with Special Thanks to **Sinistar** and **SilverDime**
 
 <!-- Epilogue -->
 
