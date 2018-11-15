@@ -53,7 +53,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 .dialogue p
 {  
     border-radius: 12px;
-    background: #202020;
+    background: #181828;
     margin-bottom: 12px;
     padding-left: 8px;
     padding-bottom: 8px;
@@ -86,7 +86,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 .narration p
 { 
   border-radius: 4px;
-  background: #202020;
+  background: #181828;
   padding-left: 8px;
   padding-bottom: 8px;
   padding-top: 8px;
@@ -104,7 +104,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 .description p
 { 
   border-radius: 4px;
-  background: #202020;
+  background: #181828;
   padding-left: 8px;
   padding-bottom: 8px;
   padding-top: 8px;
@@ -119,8 +119,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 { 
   font-size: 14px;
   text-align: center;
-  text-shadow: -3px 2px #222;
-  color: #e8e8e8;
+  text-shadow: -3px 2px #123;
   width: 98%;
   text-transform: uppercase;
   margin: 0px;
@@ -144,8 +143,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 { 
   font-size: 12px;
   text-align: center;
-  text-shadow: -2px 1px #222;
-  color: #e8e8e8;
+  text-shadow: -2px 1px #123;
   width: 98%;
   margin-bottom: 30px;
 }
@@ -155,8 +153,8 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 { 
   font-size: 200%;
   text-align: center;
-  text-shadow: -4px 3px #222;
-  color: #e8e8e8;
+  text-shadow: -4px 3px #123;
+  color: #BCD;
   width: 98%;
   font-family: 'Mega Man 6 Stats';
 }
