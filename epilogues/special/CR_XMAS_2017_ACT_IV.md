@@ -15,11 +15,11 @@ EpStart
 
 HornetSleep: Zzzzzz...
 
-<div class="narration"><b>SFX: </b>*Footsteps*</div>
+%**SFX:** *Footsteps*
 
 HornetSleep: Zzzzzz... ZZZZZzzzz...
 
-<div class="narration"><b>SFX: </b>*More Footsteps*</div>
+%**SFX:** *More Footsteps*
 
 HornetSleep: ZZzzzZzZzZzZZzz...
 
@@ -27,9 +27,9 @@ HornetSleep: ZZzzzZzZzZzZZzz...
 
 HornetSleep: ZZZZZZZZZZZZZZZZZZ
 
-<div class="narration"><b>SFX: </b>Holy shit just get on with it already</div>
+%**SFX:** Holy shit just get on with it already
 
-<div class="narration">A robed shaped shadow casts over Hornet Man.</div>
+%A robed shaped shadow casts over Hornet Man.
 
 GhostFutureScary: *[looms over]* ...
 
