@@ -154,4 +154,4 @@ To be continued!
 
 EpFin
 
-<script src="assets/js/EpFormatter.js"></script>
+<script src="{{ '/assets/js/EpFormatter.js' | relative_url }}"></script>
