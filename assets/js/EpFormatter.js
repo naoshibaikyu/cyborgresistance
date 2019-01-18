@@ -77,7 +77,7 @@ function insertMugshots()
 		jewel:"Jewel",
 		splash:"Splash",
 		//Universe Zero's Cyborg Resistance Members
-		galaxy0:"Galaxy",
+		galaxy0:"Galaxy0",
 		hornet:"Hornet",
 		//Supporting Characters
 		narrator:"Narrator",
@@ -129,64 +129,77 @@ function insertMugshots()
 			var suffix = "";
 
 			//Insert name suffix and prefix
-			var prefix = names[nameKey];
+			var displayname = names[nameKey];
 
 			switch(nameKey)
 			{
-			//Cyborg Resistance Members
-				case "hornet":
+			//Cyborg Resistance Members (Universe 1)
 				case "magma":
+					displayname = "Magma Man";
+					break;
 				case "splash":
-				case "galaxy":
+					displayname = "Splash Man";
+					break;
 				case "plug":
+					displayname = "Plug Man";
+					break;
 				case "tornado":
-					suffix = " Man";
+					displayname = "Tornado Man";
 					break;
 				case "jewel":
-					suffix = " Woman";
+					displayname = "Jewel Woman";
 					break;
 				case "honey":
-					suffix = " Woman";
+					displayname = "Honey Woman";
+					break;
+				case "galaxy":
+					displayname = "Galaxy Woman";
 					break;
 				case "concrete":
-					prefix = "Con";
-					suffix = "critter";
+					displayname = "Concrete Woman";
 					break;
 				case "fake":
-					suffix = "tte";
+					displayname = "Fakette";
+					break;
+			//Cyborg Resistance Members (Universe 0)
+					case "hornet":
+					displayname = "Hornet Man";
+					break;
+					case "galaxy0":
+					displayname = "Galaxy Man";
 					break;
 				case "spike":
-					prefix = "Concrete";
-					suffix = " Man";
+					displayname = "Concrete Man";
+					break;
+				case "cranchio":
+					displayname = "Plug Man";
 					break;
 			//Supporting Characters
 				case "drlight":
-					prefix = "Dr. ";
-					suffix = "Light";
+					displayname = "Dr. Light";
 					break;
 			//Christmas Characters
 				case "chill":
-					suffix = " Man";
+					displayname = " Man";
 					break;
 				case "ghostpast":
-					prefix = "Ghost of Christmas Past";
+					displayname = "Ghost of Christmas Past";
 					break;
 				case "ghostpresent":
-					prefix = "Ghost of Christmas Present";
+					displayname = "Ghost of Christmas Present";
 					break;
 				case "ghostfuture":
-					prefix = "Ghost of Christmas Future";
+					displayname = "Ghost of Christmas Future";
 					break;
 				case "pasthornet":
-					prefix = "Past Hornet";
-					suffix = " Man";
+					displayname = "Hornet Man (Past)";
 					break;
 			}
 
 			var find = new RegExp(str, "gi");
 			var imagePath = directory + nameKey + emoteKey + ".png"; 
 
-			replace = "<test><img id=double src=" + imagePath + "> <p><profilename>" + prefix + suffix + "</profilename></br></test>";
+			replace = "<test><img id=double src=" + imagePath + "> <p><profilename>" + displayname + "</profilename></br></test>";
 			
 			//TODO: check and see if replace path exists, if not, bold name and continue, else...
 			document.body.innerHTML = document.body.innerHTML.replace(find, replace);	
