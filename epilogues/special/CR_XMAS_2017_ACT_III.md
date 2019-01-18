@@ -1,25 +1,24 @@
 EpStart
-<div class=""><center>
-<h4>Cyborg Resistance's 2017 Christmas Special</h4>
-<h2>It's Beginning to Look A Lot Like Sinimas</h2>
-<h6>Written by Psycho The Mantis</h6>
-<h6>Special Thanks to Sinistar and SilverDime</h6>
-<hr>
-</center></div>
 
-<div class=""><center>
-<h1>ACT III</h1>
-</center></div>
+<!-- Epilogue Info -->
+ 
+@EPNUM: Cyborg Resistance's Christmas Special
+
+@TITLE: It's Beginning to Look A Lot Like Sinimas
+
+@AUTHOR: Written by **Psycho The Mantis** with Special Thanks to **Sinistar** and **SilverDime**
+
+<!-- Epilogue -->
+
+@ACTNUM: ACT III
 
 MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
 
-<div class="narration">
-Magma Man shouts loudly as he digs through planet from the very bottom towards the top. Eventually he meets the center of the planet; its core.
-</div>
+%Magma Man shouts loudly as he digs through planet from the very bottom towards the top. Eventually he meets the center of the planet; its core.
 
 MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!** *[gets engulfed in the molten magma of the core]*
 
-<div class="narration"><b>LOCATION: </b>The North Pole</div>
+@LOCATION: The North Pole
 
 SantaSad: Ho ho ho...
 
@@ -35,15 +34,13 @@ Elf: Like what?
 
 SantaThinking: *[sighs and sits back on his rocking chair]* Like... Hmm...
 
-<div class="narration">
-Suddenly, the North Pole begins to shake as if there's an earthquake!
-</div>
+%Suddenly, the North Pole begins to shake as if there's an earthquake!
 
 ElfShocked: WH-WHAT THE?!
 
 SantaShocked: An earthquake?! Here?! In the North Pole?!
 
-<div class="narration"><b>LOCATION: </b>Hornet Man's Bedroom</div>
+@LOCATION: Hornet Man's Bedroom
 
 HornetSleep: ZZzzz... 
 
@@ -79,7 +76,7 @@ Hornet: Oh, I must be still dreaming about ghosts...
 
 GhostPresentAngry: You're not! We're real and I'm the Ghost of Christmas Present!
 
-HornetAnnoyed: Oh, damn it.
+HornetAnnoyed: Oh, god damn it.
 
 GhostPresentAnnoyed: Anyways...!! Uhh... You're in the present now.
 
@@ -95,11 +92,9 @@ HornetAngry: The only valuable lesson I've learned is that you're an insufferabl
 
 GhostPresentShocked: EEP!! W-well... uh...! Bye!
 
-<div class="narration">
-Plug Man dashes out of the room.
-</div>
+%Plug Man dashes out of the room.
 
-Hornet: *[deep sigh and rests]*
+Hornet: *[deep sigh and goes back to sleep]*
 
 SplashAnnoyed: ...
 
@@ -107,17 +102,17 @@ FakeAnnoyed: What even happened?
 
 SplashAnnoyed: More like what didn't happened?!
 
-GhostPresentAnnoyed: S-sorry, mon ami. I couldn't do it! He was just too immitating to handle...
+GhostPresentAnnoyed: S-sorry, mon ami. I couldn't do it! He was just too intimidating to handle...
 
-GalaxyHappy: Oh! Don't worry, I've got a great idea as the next ghost!
+Galaxy0Happy: Oh! Don't worry, I've got a great idea as the next ghost!
 
 GhostPresentHappy: Oh! Do tell!
 
-Galaxy: Well, we can't let the readers know! *[faces to the reader]* Why don't you tune in to the next scene first?
+Galaxy0: Well, we can't let the readers know! *[faces to the reader]* Why don't you tune in to the next scene first?
 
 FakeShocked: Readers??
 
-<div class="narration"><b>LOCATION: </b>The North Pole</div>
+@LOCATION: The North Pole
 
 SantaShocked: What in god's name is an earthquake doing around here?!
 
@@ -125,9 +120,7 @@ ElfShocked: What is that screaming?!
 
 MagmaAngry: **RAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!**
 
-<div class="narration">
-Magma Man finally reaches to the surface of the North Pole. He pops out of the hole he just created several yards away from Santa's Workshop as a lava geyser spews out of the hole. As soon as he lands, he strikes a pose!
-</div>
+%Magma Man finally reaches to the surface of the North Pole. He pops out of the hole he just created several yards away from Santa's Workshop as a lava geyser spews out of the hole. As soon as he lands, he strikes a pose!
 
 SantaShocked: HO HO HOLY SHIT!!
 
@@ -185,14 +178,14 @@ MagmaAngry: BEWARE COWARDS. WE ARE SINIMAS.
 
 EpFin
 
-<div class="narration">
-To be continued!
+%Part three, end.
+
 <ul>
 <li><a href="CR_XMAS_2017_ACT_I.html">Act I</a></li> 
 <li><a href="CR_XMAS_2017_ACT_II.html">Act II</a></li> 
 <li><b>Act III</b> - <b><font size="2">NEW</font></b></li>
 <li>Act IV</li>
 <li>Act V</li></ul>
-</div>
+
 
 <script src="assets/js/EpFormatter.js"></script>

@@ -1,17 +1,18 @@
 EpStart
-<div class=""><center>
-<h4>Cyborg Resistance's 2017 Christmas Special</h4>
-<h2>It's Beginning to Look A Lot Like Sinimas</h2>
-<h6>Written by Psycho The Mantis</h6>
-<h6>Special Thanks to Sinistar and SilverDime</h6>
-<hr>
-</center></div>
 
-<div class=""><center>
-<h1>ACT IV</h1>
-</center></div>
+<!-- Epilogue Info -->
+ 
+@EPNUM: Cyborg Resistance's Christmas Special
 
-<div class="narration"><b>LOCATION: </b>Hornet Man's bedroom... again</div>
+@TITLE: It's Beginning to Look A Lot Like Sinimas
+
+@AUTHOR: Written by **Psycho The Mantis** with Special Thanks to **Sinistar** and **SilverDime**
+
+<!-- Epilogue -->
+
+@ACTNUM: ACT IV
+
+@LOCATION: Hornet Man's bedroom... again</div>
 
 HornetSleep: Zzzzzz...
 
@@ -55,7 +56,7 @@ GhostFutureDamaged: Stop it! I'm not-
 
 GhostFuturePunched: *OW!!* STOP!!
 
-HornetPissed: **I WILL DEFEAT YOU, DEATH!! DIE!!!** ***DIE DIE DIE!!!***
+HornetPissed: **I WILL DEFEAT YOU, DEATH!! DIE DEATH!!!** ***DIE DIE DIE!!!***
 
 GhostFuturePunched: *AUGHHHHHHH*
 
@@ -67,7 +68,7 @@ GhostFuturePunched: *HELP ME! OH MY GOD MY FACE IS BEING SHATTERED HELP* ***HSDJ
 
 SpikeAloof: ...
 
-<div class="narration">Outside the room...</div>
+%Outside the room...
 
 GhostPresentAnnoyed: *[peeps out of a giant empty gift box]* What's taking him so long?
 
@@ -77,15 +78,15 @@ FakeSnicker: *[as a Christmas star]* Don't worry, I sent Concrete Man to make su
 
 GhostPresent: Umm... I don't think Concrete-
 
-<div class="narration">"<i>OH GOD! HE RIPPED MY <b>ARMS</b> OFF!</i> FOR THE LOVE OF THAT IS EVERYTHING... <b>HELLPPP MEEEEEEEE</b>"</div>
+%"*OH GOD! HE RIPPED MY <b>ARMS</b> OFF!* FOR THE LOVE OF THAT IS EVERYTHING... **HELLPPP MEEEEEEEE**"
 
 GhostPresentShocked: EEP! *[hides back in the box]*
 
-FakeShocked: Uhhh...
+FakeShocked: Uhhh, so sh-
 
-FutureHornet: Before you ask, yes we *absolutely* should.
+FutureHornet: Yes, we *absolutely* should.
 
-<div class="narration">The two barges into the room and all they see is the room in a big mess coupled with pieces of Galaxy Man's parts.</div>
+%The two barges into the room and all they see is the room in a big mess coupled with pieces of Galaxy Man's parts.
 
 GhostPastShocked: *[disguising herself as one of the ghosts]* Holy-
 
@@ -99,51 +100,88 @@ SpikeAloof: ...
 
 HornetGiddy: HAHAHAHAHA! NOW I CAN-
 
-JewelAnnoyed: What the hell happened here?!
-
 TornadoAnnoyed: Violent. Oil. Acknowledge that Hornet harmed the Space Man. Yes?
 
-JewelAngry: What is wrong with you, Hornet Man?
+GhostPast: What is wrong with you?!
 
-Hornet: Ah, shut up. You're just jealous I'm immortal now. Ha!
+GhostPresentShocked: I-I think I'm going to be sick!
 
-Jewel: Uh, what? Anyways, has anyone seen Magma Man?
+HornetSad: What do you two idiots want? I've already told you to scram!
 
-Hornet: No. Why?
+GhostPast: Do you have any idea what you've done?!
 
-Jewel: He went on about taking over Christmas and renaming it "Sinimas" or some non sense. And now neither Tornado or I have seen him in hours! On top of that, Dr. Light's vehicle is missing and we think-
+Hornet: Yes! Immortality is MINE!
 
-HornetGlare: I don't care. Wait, hmm? *[turns around]*
+GhostPresentAnnoyed: He was one of us!
+
+Hornet: Death was one of you?!
+
+GhostPast: No! That was the Christmas Ghost of the Future!
+
+Hornet: No, I'm pretty sure that was death. Now I'm immortal! Ha!
+
+GhostPastAnnoyed: Are you really this fucking self absorbed?
+
+GhostPresentShocked: No! We're Christmas Ghosts! No swearing in this Christian Holiday!
+
+GhostFutureDamaged: *[still leaking lots of oil]* Can anyone help already...
+
+HornetGlare: *[was completely paying no attention]* Huh, did you guys say something? ...Wait, hmm? *[turns around]*
 
 FutureHornet: ...!
 
-HornetGlare:  *[sees his "Future" self]* Oh... Despite my immortality, I still age in the future apparently...
+HornetGlare:  *[sees his "Future" self]* What the? Grey hair and beard? Despite my immortality, I still age in the future apparently...
 
-JewelAnnoyed: But that's...
-
-GhostPast: Shhhh...
-
-FutureHornet: Um, uh. *[coughs]* I am 40 years old and I'm so old and I don't feel good and... *[cough]*
+FutureHornet: Um, uh. *[coughs]* I am 30 years old and I'm so old and I don't feel good and... *[cough]*
 
 Hornet: ...?!
 
-FutureHornet: Oh... I don't feel good... Like... death got its grips on me... *[collaspes "dead"]*
+FutureHornet: ... and... death finally caught up and got its revenge on me... *[collapses "dead"]*
 
-HornetShocked: W-What?! NO! 40 IS NO AGE TO DIE AT! IM NOT EVEN SUPPOSE TO GROW A GREY BEARD AT THAT AGE EITHER! Oh my god...
+HornetShocked: W-What?! NO! NO NO! MY IMMORTALITY... WHAT HAPPENED?!
 
-HornetSad: I shouldn't been such a scrooge my whole life... All this stress giving me grey hairs til immortality becomes nothing... They were right...
+GhostFutureDamaged: Guys... I think I can't feel my arms...
 
-<div class="narration">And from that moment, Hornet Man finally understands the true meaning of Christmas...</div>
+GhostFuturePunched: **OW**
 
-Hornet: Hm, suddenly it feels like I hate Christmas a little less now. Like as if... my small, cold and dark heart grew 3 times bigger...
+GhostFutureDamaged: Nevermind... There it is...
 
-HornetGlare: I must save Christmas from becoming Sinimas!
+HornetGlare: Shut up! I've clearly haven't punched you hard enough!
 
-GhostFutureDamaged: Huh?
+GhostPresentShocked: Stop!
 
+Hornet: Eh?
 
-<div class="narration">
-To be continued!
+GhostPast: Yeah! You've... uh... Lost your immortality, so your life expectancy has significantly shortened as a result!
+
+HornetShocked: At the age of 30? Wait... oh god, that's next year! I'm going to die next year?!
+
+HornetSad: Where have I go wrong...
+
+GhostFutureDamaged: For starters.. you're a big fat jerk-
+
+GhostFuturePunched: **AUGH**
+
+GhostPast: "Death" is right! Your lack of goodwill and deeds has made you lose your immortality! Only those with good heart would keep their immortality!
+
+HornetGlare: Wow. Not worth it.
+
+FutureHornet: [pretends to rot]
+
+HornetShocked: But I don't wanna die! I must change!
+
+%To his horror, Hornet Man bolts out of the room.
+
+FutureHornet: Uhh...
+
+GhostPastShocked: Can I take what I've said about the prank backfiring back?
+
+GhostFutureDamaged: ...
+
+GhostPastAnnoyed: ...
+
+%Part four, end.
+
 <ul>
 <li><a href="CR_XMAS_2017_ACT_I.html">Act I</a></li> 
 <li><a href="CR_XMAS_2017_ACT_II.html">Act II</a></li> 

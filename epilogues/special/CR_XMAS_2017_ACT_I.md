@@ -2,7 +2,7 @@ EpStart
 
 <!-- Epilogue Info -->
  
-@EPNUM: Cyborg Resistance's 2017 Christmas Special
+@EPNUM: Cyborg Resistance's Christmas Special
 
 @TITLE: It's Beginning to Look A Lot Like Sinimas
 
@@ -10,7 +10,7 @@ EpStart
 
 <!-- Epilogue -->
 
-@ACTNUM: ACT 1
+@ACTNUM: ACT I
 
 @LOCATION: Living Room
 
@@ -20,7 +20,7 @@ SplashShocked: *[rushing to the living room]* What the heck? What just happened?
 
 SpikeAloof: ...
 
-GalaxyDamaged: *[blackened and dizzy from the impact]* Uhhh.... ummm... *[falls over]*
+Galaxy0Damaged: *[blackened and dizzy from the impact]* Uhhh.... ummm... *[falls over]*
 
 PlugShocked: **Great scott!!** *[points towards the Christmas tree]* The tree is on fire! Put it out!!
 
@@ -48,7 +48,7 @@ SplashAnnoyed: ...
 
 SplashAngry: *Right*... Anyways, who have commited such a terrible act? Who would burn the tree?!
 
-GalaxyShocked: It wasn't me!
+Galaxy0Shocked: It wasn't me!
 
 HornetGlare: A likely story.
 
@@ -58,11 +58,11 @@ Tornado: Tornde will solve unknown cause.
 
 Splash: Always good to have our resident detective!
 
-GalaxyShocked: ...
+Galaxy0Shocked: ...
 
 Tornado: *[walks over to the burnt tree and inspects it]* Cause not regular. Top burnt from extreme. Robot Master power possible. *[turns back to the team]*
 
-GalaxyShocked: **!!**
+Galaxy0Shocked: **!!**
 
 TornadoAnnoyed: Yes. Reaction. Power was likely space man. *[points at Galaxy Man's direction]*
 
@@ -70,15 +70,15 @@ JewelAnnoyed: Galaxy Man?! Ugh! I've told you creating a mini nova star would-
 
 SplashAngry: What?! Seriously?! Why on Earth would you create a mini nova.
 
-GalaxySad: I just wanted to make a fancy star for the tree...
+Galaxy0Sad: I just wanted to make a fancy star for the tree...
 
-HornetAngry: *[grabs Galaxy Man]* **YOU MORON. DO YOU KNOW HOW DANGEROUS THAT IS? SURE THAT WOULD BURNED DOWN THE WHOLE DAMNED HOUSE, BUT THIS MEANS I CAN'T SLEEP ANYMORE. I NEED MY PRECIOUS HOURS OF SLEEP.**
+HornetAngry: *[grabs Galaxy0 Man]* **YOU MORON. DO YOU KNOW HOW DANGEROUS THAT IS? SURE THAT WOULD BURNED DOWN THE WHOLE DAMNED HOUSE, BUT THIS MEANS I CAN'T SLEEP ANYMORE. I NEED MY PRECIOUS HOURS OF SLEEP.**
 
 SplashAnnoyed: Uhm...
 
 SpikeAloof: ...
 
-GalaxyShocked: Wait! I'm sorry! Sorry! It won't happen again! Don't hurt meeeeeeeeeeeeeeeeeee!
+Galaxy0Shocked: Wait! I'm sorry! Sorry! It won't happen again! Don't hurt meeeeeeeeeeeeeeeeeee!
 
 HornetGlare: Meh. 
 
@@ -94,11 +94,11 @@ FakeAnnoyed: Well, I see someone's not in the holiday spirit.
 
 Hornet: I get nothing but coal every Christmas. What good is coal these days?! USELESS GARBAGE! THAT'S WHAT!
 
-GalaxyDamaged: Well maybe if you weren't such a...
+Galaxy0Damaged: Well maybe if you weren't such a...
 
 HornetGlare: ...
 
-GalaxyDamaged: Uhm...
+Galaxy0Damaged: Uhm...
 
 HornetGlare: Finish that. I dare you.
 
@@ -156,9 +156,11 @@ SplashHappy: I'm in!
 
 Plug: Same I guess.
 
-GalaxyRelieved: Oh! Me too! Me too!
+Galaxy0Relieved: Oh! Me too! Me too!
 
 FakeSnicker: Great! So that's the four of us. This is going to be *so fun*.
+
+%Part one, end.
 
 EpFin
 

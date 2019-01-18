@@ -69,13 +69,16 @@ function insertMugshots()
 		concrete:"Concrete",
 		spike:"Spike",
 		magma:"Magma",
-		hornet:"Hornet",
+		honey:"Honey",
 		galaxy:"Galaxy",
 		plug:"Plug",
 		tornado:"Tornado",
 		fake:"Fake",
 		jewel:"Jewel",
 		splash:"Splash",
+		//Universe Zero's Cyborg Resistance Members
+		galaxy0:"Galaxy",
+		hornet:"Hornet",
 		//Supporting Characters
 		narrator:"Narrator",
 		drlight:"Light",
@@ -140,6 +143,9 @@ function insertMugshots()
 					suffix = " Man";
 					break;
 				case "jewel":
+					suffix = " Woman";
+					break;
+				case "honey":
 					suffix = " Woman";
 					break;
 				case "concrete":
