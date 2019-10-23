@@ -26,6 +26,7 @@
   font-size: 0px;
   display: inline-block;
   width: auto;
+  border: white solid 2px;
 }
 
 #mbmcpebul_table li a {
@@ -48,12 +49,7 @@
   height: 48px;
   width: 128px;
   line-height: 0;
-  background-color: #000000;
-  border-style: solid;
-  border-color: transparent;
-  border-width: 0;
-  border-radius: 0;
-  padding: 0;
+  border: white solid 2px;
   box-shadow: none;
   text-align: center;
 }
