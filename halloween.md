@@ -36,9 +36,9 @@ Hornet0Pissed: **I SAID STOP IT!!**
 
 Arrietty: No.
 
-Quint: Maybe you should listen to him... He looks real angry. He might be able to shread anyone apart with that anger, really.
+%Yanno is getting upset!!!
 
-Arrietty: I know.
+Arrietty: Good.
 
 Wily: ...
 

@@ -115,11 +115,11 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 
 //Misc Epilogue Formatting
 
-.epnum
+.epnum p
 { 
   font-size: 14px;
   text-align: center;
-  text-shadow: -3px 2px #081828;
+  text-shadow: -3px 2px #234;
   color: #BCD;
   width: 98%;
   text-transform: uppercase;
@@ -127,11 +127,11 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   height: 22px;
 }
 
-.eptitle
+.eptitle p
 { 
   font-size: 100%;
   text-align: center;
-  text-shadow: -4px 3px #081828;
+  text-shadow: -4px 3px #234;
   color: #DEF;
   width: 98%;
   font-family: 'Mega Man 9';
@@ -140,11 +140,11 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   height: 24px;
 }
 
-.author
+.author p
 { 
   font-size: 12px;
   text-align: center;
-  text-shadow: -2px 1px #081828;
+  text-shadow: -2px 1px #234;
   color: #BCD;
   width: 98%;
   margin-bottom: 30px;
@@ -155,7 +155,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 { 
   font-size: 200%;
   text-align: center;
-  text-shadow: -4px 3px #081828;
+  text-shadow: -4px 3px #234;
   color: #CDE;
   width: 98%;
   font-family: 'Mega Man 6 Stats';
@@ -186,7 +186,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 { 
   font-size: 150%;
   text-align: center;
-  text-shadow: -4px 3px #123;
+  text-shadow: -4px 3px #234;
   color: #DEF;
   border-radius: 4px;
   padding-top: 8px;
@@ -196,7 +196,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 .location:before{
   font-size: 50%;
   text-align: center;
-  text-shadow: -2px 1px #123;
+  text-shadow: -2px 1px #234;
   color: #DEF;
   border-radius: 4px;
   font-family: 'Mega Man 6 Stats';
