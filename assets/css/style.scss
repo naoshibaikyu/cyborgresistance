@@ -115,7 +115,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 
 //Misc Epilogue Formatting
 
-.epnum p
+.epnum
 { 
   font-size: 14px;
   text-align: center;
@@ -126,7 +126,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   height: 22px;
 }
 
-.eptitle
+.eptitle p
 { 
   font-size: 100%;
   text-align: center;
