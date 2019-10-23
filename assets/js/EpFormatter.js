@@ -80,6 +80,7 @@ function insertMugshots()
 		molly:"Molly",
 		silver:"Silver",
 		//Universe Zero's Cyborg Resistance Members
+		magma0:"Magma0",
 		concrete0:"Concrete0",
 		galaxy0:"Galaxy0",
 		hornet0:"Hornet0",
@@ -178,6 +179,9 @@ function insertMugshots()
 					displayname = "Fakette";
 					break;
 			//Cyborg Resistance Members (Universe 0)
+				case "magma0":
+					displayname = "Magma Man";
+					break;
 				case "hornet0":
 					displayname = "Hornet Man";
 					break;
