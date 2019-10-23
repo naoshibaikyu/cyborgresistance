@@ -121,7 +121,7 @@ function insertMugshots()
 		hotdog:"Hotdog",
 		scary:"Scary",
 		punched:"Punched",
-		thinking:"Thinking"
+		thinking:"Thinking",
 		smug:"Smug"
 	};
 
