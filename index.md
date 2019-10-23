@@ -22,7 +22,7 @@ Honey: Hey, don't be rude to our guests!
 
 GalaxyHappy: Yeah! Let's welcome them to our forums while things are being set up!
 
-MagmaHappy: That's right! [Join our forums!](http://cyborgresistance.proboards.com/)
+Magma0Happy: That's right! [Join our forums!](http://cyborgresistance.proboards.com/)
 
 Galaxy0: Huh?
 
