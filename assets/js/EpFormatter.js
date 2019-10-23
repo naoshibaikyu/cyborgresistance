@@ -178,25 +178,17 @@ function insertMugshots()
 				case "fake":
 					displayname = "Fakette";
 					break;
-			//Cyborg Resistance Members (Universe 0)
-				case "magma0":
-					displayname = "Magma Man";
-					break;
-				case "hornet0":
-					displayname = "Hornet Man";
-					break;
-				case "galaxy0":
-					displayname = "Galaxy Man";
-					break;
-				case "concrete0":
-					displayname = "Concrete Man";
-					break;
-				case "plug0":
-					displayname = "Plug Man";
-					break;
 			//Supporting Characters
 				case "drlight":
 					displayname = "Dr. Light";
+					break;
+			//Seasonal Stuff
+			//Halloween
+			case "witcharri":
+					displayname = "Arrietty";
+					break;
+				case "ulalamolly":
+					displayname = "Molly";
 					break;
 			//Christmas Characters
 				case "chill":
@@ -213,6 +205,22 @@ function insertMugshots()
 					break;
 				case "pasthornet":
 					displayname = "Hornet Man (Past)";
+					break;
+			//Cyborg Resistance Members (Universe 0)
+				case "magma0":
+					displayname = "Magma Man";
+					break;
+				case "hornet0":
+					displayname = "Hornet Man";
+					break;
+				case "galaxy0":
+					displayname = "Galaxy Man";
+					break;
+				case "concrete0":
+					displayname = "Concrete Man";
+					break;
+				case "plug0":
+					displayname = "Plug Man";
 					break;
 			}
 
