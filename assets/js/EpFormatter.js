@@ -87,7 +87,11 @@ function insertMugshots()
 		plug0:"Plug0",
 		//Supporting Characters
 		narrator:"Narrator",
-		drlight:"Light",
+		light:"Light",
+		//Villains
+		wily:"Wily",
+		//Seven Mercenaries
+		quint:"Quint",
 		//Generic NPCs
 		//Seasonal
 		//Halloween
@@ -183,8 +187,16 @@ function insertMugshots()
 					displayname = "Fakette";
 					break;
 			//Supporting Characters
-				case "drlight":
+				case "light":
 					displayname = "Dr. Light";
+					break;
+			//Villains
+				case "wily":
+					displayname = "Dr. Wily";
+					break;
+			//Seven Mercenaries
+				case "quint":
+					displayname = "Quint";
 					break;
 			//Seasonal Stuff
 			//Halloween
