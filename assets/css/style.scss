@@ -270,12 +270,12 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   color: #FFFFFF;
   font-style: normal;
   font-weight: normal;
-  padding: 0px 10px 10px 10px;
+  padding: 8x;
   display: block;
   cursor: pointer;
   white-space: nowrap;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
-  border: white solid 2px;
+  border: #DEF solid 2px;
 }
 
 #mbmcpebul_table li div.buttonbg {
