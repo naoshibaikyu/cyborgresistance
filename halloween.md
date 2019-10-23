@@ -34,7 +34,13 @@ WitchArri: What Makoes you so upsetkoes.
 
 Hornet0Pissed: **I SAID STOP IT!!**
 
-Arrietty: ***[waking up]*** **AHHHHHHHHHHHHHHH!!**
+Arrietty: No.
+
+Quint: Maybe you should listen to him... He looks real angry. He might be able to shread anyone apart with that anger, really.
+
+Arrietty: I know.
+
+Wily: ...
 
 %Fin. It's over. Fin. Go Home. Fin. The End. Fin.
 
