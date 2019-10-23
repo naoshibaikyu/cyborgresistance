@@ -41,12 +41,12 @@
   color: #FFFFFF;
   font-style: normal;
   font-weight: normal;
-  padding: 15px 20px 20px 20px;
+  padding: 8px;
   display: block;
   cursor: pointer;
   white-space: nowrap;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
-  border: 2px solid #DEF;
+  border: white solid 2px;
 }
 
 #mbmcpebul_table li div.buttonbg {
