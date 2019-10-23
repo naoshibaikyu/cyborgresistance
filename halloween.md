@@ -4,11 +4,11 @@ EpStart
 
 <!-- Epilogue Info -->
  
-@EPNUM: Season 0 Episode 0
+@EPNUM: Halloween Special '19
 
-@TITLE: Title Sample
+@TITLE: It's Getting Spooky Out There...
 
-@AUTHOR: By Huh Man and Sinistar's Cousin Joe
+@AUTHOR: By Arrietty and Molly
 
 <!-- Epilogue -->
 
@@ -32,9 +32,9 @@ Plug: well, stop it
 
 WitchArri: What Makoes you so upsetkoes.
 
-Hornet0Pissed: I SAID STOP IT
+Hornet0Pissed: **I SAID STOP IT!!**
 
-Arrietty: [waking up] AHHHHHHHHHHHHHHH!!
+Arrietty: ***[waking up]*** **AHHHHHHHHHHHHHHH!!**
 
 EpFin
 

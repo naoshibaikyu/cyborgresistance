@@ -89,6 +89,10 @@ function insertMugshots()
 		narrator:"Narrator",
 		drlight:"Light",
 		//Generic NPCs
+		//Seasonal
+		//Halloween
+		witcharri:"WitchArri",
+		ulalamolly:"UlalaMolly",
 		//Christmas Characters
 		ghostpast:"GhostPast",
 		ghostpresent:"GhostPresent",
@@ -184,7 +188,7 @@ function insertMugshots()
 					break;
 			//Seasonal Stuff
 			//Halloween
-			case "witcharri":
+				case "witcharri":
 					displayname = "Arrietty";
 					break;
 				case "ulalamolly":
