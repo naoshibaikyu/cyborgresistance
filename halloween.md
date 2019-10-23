@@ -32,7 +32,7 @@ Plug: well, stop it
 
 WitchArri: What Makoes you so upsetkoes.
 
-HornetPissed: I SAID STOP IT
+Hornet0Pissed: I SAID STOP IT
 
 Arrietty: [waking up] AHHHHHHHHHHHHHHH!!
 
