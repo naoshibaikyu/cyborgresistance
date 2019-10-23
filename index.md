@@ -16,13 +16,21 @@ EpStart
 
 @LOCATION: DR. LIGHT'S LAB
 
-HornetGlare: We're still working on this site. Go away!
+Hornet0Glare: We're still working on this site. Go away!
 
-Fake: Hey, don't be rude to our guests!
+Honey: Hey, don't be rude to our guests!
 
 GalaxyHappy: Yeah! Let's welcome them to our forums while things are being set up!
 
 MagmaHappy: That's right! [Join our forums!](http://cyborgresistance.proboards.com/)
+
+Galaxy0: Huh?
+
+PlugAnnoyed: What the helllll are you guys doing in my townnnn...
+
+Arrietty: Playing
+
+Molly: Playing.
 
 EpFin
 

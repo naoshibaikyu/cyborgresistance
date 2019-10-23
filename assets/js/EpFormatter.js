@@ -65,9 +65,8 @@ function insertMugshots()
 
 	//TODO: Import character names and emotes from separate text files
 	var names = {
-		//Cyborg Resistance Members
+		//Cyborg Resistance Members (Armored)
 		concrete:"Concrete",
-		spike:"Spike",
 		magma:"Magma",
 		honey:"Honey",
 		galaxy:"Galaxy",
@@ -76,9 +75,15 @@ function insertMugshots()
 		fake:"Fake",
 		jewel:"Jewel",
 		splash:"Splash",
+		//Cyborg Resistance Members (Human)
+		arrietty:"Arrietty",
+		molly:"Molly",
+		silver:"Silver",
 		//Universe Zero's Cyborg Resistance Members
+		concrete0:"Concrete0",
 		galaxy0:"Galaxy0",
-		hornet:"Hornet",
+		hornet0:"Hornet0",
+		plug0:"Plug0",
 		//Supporting Characters
 		narrator:"Narrator",
 		drlight:"Light",
@@ -95,7 +100,7 @@ function insertMugshots()
 	};
 
 	var emotes = {
-		original:"",
+		neutral:"",
 		happy:"Happy",
 		annoyed:"Annoyed",
 		angry:"Angry",
@@ -117,6 +122,7 @@ function insertMugshots()
 		scary:"Scary",
 		punched:"Punched",
 		thinking:"Thinking"
+		smug:"Smug"
 	};
 
 	//TODO: make it work with brackets and spaces between the name and emote
@@ -133,7 +139,17 @@ function insertMugshots()
 
 			switch(nameKey)
 			{
-			//Cyborg Resistance Members (Universe 1)
+			//Cyborg Resistance Members (Human)
+				case "arrietty":
+					displayname = "Arrietty";
+					break;
+				case "molly":
+					displayname = "Molly";
+					break;
+				case "silver":
+					displayname = "DIMEYYYYY (whatever that is)";
+					break;
+			//Cyborg Resistance Members (Armored)
 				case "magma":
 					displayname = "Magma Man";
 					break;
@@ -162,16 +178,16 @@ function insertMugshots()
 					displayname = "Fakette";
 					break;
 			//Cyborg Resistance Members (Universe 0)
-					case "hornet":
+				case "hornet0":
 					displayname = "Hornet Man";
 					break;
-					case "galaxy0":
+				case "galaxy0":
 					displayname = "Galaxy Man";
 					break;
-				case "spike":
+				case "concrete0":
 					displayname = "Concrete Man";
 					break;
-				case "cranchio":
+				case "plug0":
 					displayname = "Plug Man";
 					break;
 			//Supporting Characters
