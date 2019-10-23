@@ -36,6 +36,8 @@ Hornet0Pissed: **I SAID STOP IT!!**
 
 Arrietty: ***[waking up]*** **AHHHHHHHHHHHHHHH!!**
 
+%Fin. It's over. Fin. Go Home. Fin. The End. Fin.
+
 EpFin
 
 <script src="{{ '/assets/js/EpFormatter.js' | relative_url }}"></script>
