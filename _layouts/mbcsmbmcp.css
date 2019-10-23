@@ -46,6 +46,7 @@
   cursor: pointer;
   white-space: nowrap;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
+  border: 2px solid #DEF;
 }
 
 #mbmcpebul_table li div.buttonbg {
