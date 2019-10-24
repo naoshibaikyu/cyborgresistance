@@ -181,7 +181,7 @@ function insertMugshots()
 					displayname = "Galaxy Woman";
 					break;
 				case "concrete":
-					displayname = "Concrete Woman";
+					displayname = "Concritter";
 					break;
 				case "fake":
 					displayname = "Fakette";
