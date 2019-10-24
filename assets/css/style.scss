@@ -245,6 +245,10 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   line-height: 0;
 }
 
+#mbmcpebul_wrapper img {
+  padding-right: 24px
+}
+
 #mbmcpebul_wrapper.quirks {
   margin-bottom: 0px;
   margin-right: 0px;
@@ -279,10 +283,6 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   white-space: nowrap;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   border: #DEF solid 2px;
-}
-
-#mbmcpebul_table img {
-  padding-right: 8px
 }
 
 #mbmcpebul_table li div.buttonbg {
