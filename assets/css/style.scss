@@ -218,19 +218,18 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 	padding:7px 11px;
 	text-decoration:none;
 	text-shadow:1px 1px 1px #283966;
+	position: fixed;
 }
 .EpButtons:hover {
 	background-color:#4a61a8;
 }
 .EpButtons:active {
-	position:relative;
 	top:1px;
 }
 
 .EpButtons a {
 	float: left;
 	display: block;
-	position: fixed;
 }
 
 /* Created with Easy CSS Menu */
