@@ -228,6 +228,8 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 }
 
 .EpButtons a {
+	float: left;
+	display: block;
 	position: fixed;
 }
 
