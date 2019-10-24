@@ -95,8 +95,9 @@ function insertMugshots()
 		//Generic NPCs
 		//Seasonal
 		//Halloween
-		halloween/witcharri:"WitchArri",
-		halloween/ulalamolly:"UlalaMolly",
+		witcharri:"WitchArri",
+		ulalamolly:"UlalaMolly",
+		onisilver:"OniSilver",
 		//Christmas Characters
 		ghostpast:"GhostPast",
 		ghostpresent:"GhostPresent",
@@ -156,7 +157,7 @@ function insertMugshots()
 					displayname = "Molly";
 					break;
 				case "silver":
-					displayname = "DIMEYYYYY (whatever that is)";
+					displayname = "Silver Dime";
 					break;
 			//Cyborg Resistance Members (Armored)
 				case "magma":
@@ -205,6 +206,9 @@ function insertMugshots()
 					break;
 				case "ulalamolly":
 					displayname = "Molly";
+					break;
+				case "onisilver":
+					displayname = "Silver Dime";
 					break;
 			//Christmas Characters
 				case "chill":
