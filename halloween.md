@@ -6,7 +6,7 @@ EpStart
  
 @EPNUM: Halloween Special '19
 
-@TITLE: It's Getting Spooky Out There...
+@TITLE: 
 
 @AUTHOR: By Arrietty and Molly
 
@@ -16,33 +16,43 @@ EpStart
 
 @LOCATION: DR. LIGHT'S LAB
 
-PlugAnnoyed: What the helllll are you guys doing in my halloween townnnn...
+Arrietty: Pleaasssee?
 
-Arrietty: Playing.
+Light: No.
 
-Molly: Playing.
+Arrietty: Come on!!
 
-PlugAngry: PLAYING?!
+Light: **[sigh]** I said no, it means no, Arrietty.
 
-WitchArri: Yes.
+Arrietty: Seriously, what's the problem?
 
-UlalaMolly: Yes.
+Light: Because last year you've all made a gigantic mess and it took poor Auto *weeks* to clean up the place.
 
-Plug: well, stop it
+Arrietty: What? Now you're just making up excuses, we've only been living with you for a *few months* at most.
 
-WitchArri: What Makoes you so upsetkoes.
+Light: Well, the answer is no and that is final.
 
-Hornet0Pissed: **I SAID STOP IT!!**
+Arrietty: Alright, fine. **[slams the door on her way out]** Stuck up old geezer, the heck is his problem lately?
 
-Arrietty: No.
+MollySad: I take it Dr. Light didn't take it well seeing you setting up the Halloween party, huh?
 
-%Yanno is getting upset!!!
+Arrietty: Yeah, so much effort for that... Guess we can try again next year.
 
-Arrietty: Good.
+MollyHappy: Not so fast! We can find somewhere else to party!
 
-Wily: ...
+Arrietty: Huh? How should we go about that?
 
-%Fin. It's over. Fin. Go Home. Fin. The End. Fin.
+Molly: Easy! We find a really scary looking place and party there. Like a true Halloween party!
+
+Arrietty: Scary looking place? Like a graveyard? A haunted castle? A haunted graveyard castle?
+
+MollySmug: You aren't scared, are you Arri?
+
+Arrietty: Oh hell no, I am so down for that idea actually!
+
+MollyHappy: Great! Let's gather a few folks and find a good location for the party! Halloween's not until tommorow which is plenty of time!
+
+Arrietty: 
 
 EpFin
 
