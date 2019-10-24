@@ -256,6 +256,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 
 #mbmcpebul_wrapper.quirks #mbmcpebul_table ul li {
   width: 100%;
+  margin-top: -8px;
 }
 
 #mbmcpebul_table {
@@ -267,7 +268,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   font-size: 0px;
   display: inline-block;
   width: auto;
-  margin-top: -8px;
+
 }
 
 #mbmcpebul_table li a {
