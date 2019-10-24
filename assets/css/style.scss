@@ -315,17 +315,17 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 }
 
 #mbmcpebul_table ul li a {
-  color: #FFFFFF;
-  font-family: Verdana,sans-serif;
-  font-size: 13px;
-  line-height: 16px;
-  font-style: normal;
-  font-weight: normal;
-  text-decoration: none;
-  display: block;
-  vertical-align: middle;
-  white-space: nowrap;
-  -webkit-tap-highlight-color: rgba(0,0,0,0);
+    color: #FFFFFF;
+    font-family: Verdana,sans-serif;
+    font-size: 13px;
+    line-height: 14px;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    display: block;
+    vertical-align: middle;
+    white-space: nowrap;
+    -webkit-tap-highlight-color: transparent;
 }
 
 #mbmcpebul_table ul li:hover > a {
