@@ -1,4 +1,8 @@
-
+<a href="#prologue" class="EpButtons">Prologue</a>
+<a href="#act-1" class="EpButtons">Act 1</a>
+<a href="#act-2" class="EpButtons">Act 2</a>
+<a href="#act-3" class="EpButtons">Act 3</a>
+<a href="#epilogue" class="EpButtons">Epilogue</a>
 
 EpStart
 
@@ -33,5 +37,7 @@ Arrietty: Playing
 Molly: Playing.
 
 EpFin
+
+
 
 <script src="{{ '/assets/js/EpFormatter.js' | relative_url }}"></script>

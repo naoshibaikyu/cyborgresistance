@@ -218,6 +218,8 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 	padding:7px 11px;
 	text-decoration:none;
 	text-shadow:1px 1px 1px #283966;
+	position: fixed;
+    top: 50%;
 }
 .EpButtons:hover {
 	background-color:#4a61a8;
