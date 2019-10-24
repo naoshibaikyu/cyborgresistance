@@ -6,10 +6,10 @@
 </center>
 
 <center>
-<a href="#prologue" class="EpButtons">Prologue</a><br>
-<a href="#act-1" class="EpButtons">Act 1</a><br>
-<a href="#act-2" class="EpButtons">Act 2</a><br>
-<a href="#act-3" class="EpButtons">Act 3</a><br>
+<a href="#prologue" class="EpButtons">Prologue</a>
+<a href="#act-1" class="EpButtons">Act 1</a>
+<a href="#act-2" class="EpButtons">Act 2</a>
+<a href="#act-3" class="EpButtons">Act 3</a>
 <a href="#epilogue" class="EpButtons">Epilogue</a>
 </center>
 
