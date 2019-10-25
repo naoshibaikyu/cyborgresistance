@@ -95,7 +95,7 @@ function insertMugshots()
 		//Generic NPCs
 		//Seasonal
 		//Halloween
-		witcharri:"WitchArri",
+		"./seasonal/witcharri":"WitchArri",
 		ulalamolly:"UlalaMolly",
 		onisilver:"OniSilver",
 		//Christmas Characters
