@@ -96,7 +96,7 @@ UlalaMolly: I don't see you wearing anything right now, though.
 
 OniSilverHappy: Of course I am. I'm an Oni this year.
 
-UlalaMollyAnnoyed: ...By just glueing two large candy corns on your forehead?
+UlalaMollyAnnoyed: ...By just gluing two large candy corns on your forehead?
 
 OniSilverHappy: It is an effective low-cost Halloween costume.
 
