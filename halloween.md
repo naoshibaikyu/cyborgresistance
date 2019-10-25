@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="{{ '/assets/css/halloween.scss?v=' | append: site.github.build_revision | relative_url }}">
-
 EpStart
 
 <!-- Epilogue Info -->
@@ -171,5 +169,75 @@ WitchArrietty: Well, there it is!
 
 EpFin
 
+.dialogue img 
+{
+    border: 1px solid #909;
+    background-color: #111; 
+}
 
+.dialogue p
+{  
+    background: #313;
+}
+
+.dialogue profilename
+{ 
+    color: #CDE;
+    text-shadow: black -2px 1px;
+}
+
+.narration p
+{ 
+  background: #313;
+}
+
+
+.description p
+{ 
+  background: #313;
+}
+
+//Misc Epilogue Formatting
+
+.epnum
+{ 
+  text-shadow: -2px 1px #234;
+  color: #BCD;
+}
+
+.eptitle p
+{ 
+  text-shadow: -3px 2px #234;
+  color: #DEF;
+}
+
+.author p
+{ 
+  text-shadow: -2px 1px #234;
+  color: #BCD;
+}
+
+
+.actnum
+{ 
+  text-shadow: -4px 3px #234;
+  color: #CDE;
+}
+
+ 
+.location
+{ 
+  border: 2px solid #BCD;
+}
+
+.location p
+{ 
+  text-shadow: -4px 3px #234;
+  color: #DEF;
+}
+
+.location:before{
+  text-shadow: -2px 1px #234;
+  color: #DEF;
+}
 <script src="{{ '/assets/js/EpFormatter.js' | relative_url }}"></script>
