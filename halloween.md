@@ -140,7 +140,7 @@ UlalaMolly: Even the worn down castle aside?
 
 OniSilver: **[nods]** Not a single grave we've passed so far are dated within the past several decades…
 
-UlalaMollyShocked: **[Reading the year date of each passing tombstone]** O-oh… How about that?
+UlalaMollyShocked: **[Reading the year date of each passing tombstone, confirming Silver Dime's claims]** O-oh… How about that?
 
 WitchArrietty: Oh, good observation! That might be a long abandoned graveyard then.
 
