@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="{{ '/assets/css/halloween.css?v=' | append: site.github.build_revision | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/halloween.scss?v=' | append: site.github.build_revision | relative_url }}">
 
 EpStart
 
