@@ -116,7 +116,7 @@ UlalaMolly: Don't be silly. T-that's awesome! Totally our s-spot!
 
 Magma0Annoyed: Strange. What would a castle be doing out here anyways?
 
-WitchArrietty: **[Getting off of the car with Molly and Silver]]** Don't know, but we're going to investigate this place to make sure it's all good.
+WitchArrietty: **[Getting off of the car with Molly and Silver]** Don't know, but we're going to investigate this place to make sure it's all good.
 
 Magma0: Right, I'll come back with the rest of the team when they're done shopping. Be safe you three.
 
@@ -130,13 +130,13 @@ OniSilver: **[nods]** Not a single grave we've passed so far are from within the
 
 UlalaMollyShocked: **[Reading the year date of each passing tombstone]** O-oh... You may be right.
 
-WitchArrietty: Perfect observation! That makes it even more spookier!
+WitchArrietty: Good observation! That might make it even more spookier!
 
-UlalaMollySad: I-I don't know. Now that we're walking through a graveyard, it does feel kind of amoral to party on such a site.
+UlalaMollySad: You know, I know this was kind of my idea. But now that we're walking through a graveyard, it does feel kind of amoral to have any sort of party in a place like this...
 
-WitchArrietty: Now that you've mention it, I guess it is a little disrespectful. But hey, that's why we might party in the castle instead!
+WitchArrietty: Now that you've mention it, I guess it is a little disrespectful. But hey, more reasons that we should party in the castle instead!
 
-UlalaMollyAngry: That doesn't make it much better!
+UlalaMollyAnnoyed: That doesn't make it much better!
 
 EpFin
 
