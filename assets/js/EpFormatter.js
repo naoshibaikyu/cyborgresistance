@@ -80,18 +80,18 @@ function insertMugshots()
 		molly:"Molly",
 		silver:"Silver",
 		//Universe Zero's Cyborg Resistance Members
-		magma0:"Magma0",
-		concrete0:"Concrete0",
-		galaxy0:"Galaxy0",
-		hornet0:"Hornet0",
-		plug0:"Plug0",
+		"./classiccr/magma0":"Magma0",
+		"./classiccr/concrete0":"Concrete0",
+		"./classiccr/galaxy0":"Galaxy0",
+		"./classiccr/hornet0":"Hornet0",
+		"./classiccr/plug0":"Plug0",
 		//Supporting Characters
 		narrator:"Narrator",
-		light:"Light",
+		"./lightcrew/light":"Light",
 		//Villains
-		wily:"Wily",
+		"./wilycrew/wily":"Wily",
 		//Seven Mercenaries
-		quint:"Quint",
+		"./7mercs/quint":"Quint",
 		//Generic NPCs
 		//Seasonal
 		//Halloween
@@ -99,14 +99,14 @@ function insertMugshots()
 		"./seasonal/ulalamolly":"UlalaMolly",
 		"./seasonal/onisilver":"OniSilver",
 		//Christmas Characters
-		ghostpast:"GhostPast",
-		ghostpresent:"GhostPresent",
-		ghostfuture:"GhostFuture",
-		pasthornet:"PastHornet",
-		futurehornet:"FutureHornet",
-		chill:"Chill",
-		santa:"Santa",
-		elf:"Elf"
+		"./seasonal/ghostpast":"GhostPast",
+		"./seasonal/ghostpresent":"GhostPresent",
+		"./seasonal/ghostfuture":"GhostFuture",
+		"./seasonal/pasthornet":"PastHornet",
+		"./seasonal/futurehornet":"FutureHornet",
+		"./seasonal/chill":"Chill",
+		"./seasonal/santa":"Santa",
+		"./seasonal/elf":"Elf"
 	};
 
 	var emotes = {
@@ -188,15 +188,15 @@ function insertMugshots()
 					displayname = "Fakette";
 					break;
 			//Supporting Characters
-				case "light":
+				case "./lightcrew/light":
 					displayname = "Dr. Light";
 					break;
 			//Villains
-				case "wily":
+				case "./wilycrew/wily":
 					displayname = "Dr. Wily";
 					break;
 			//Seven Mercenaries
-				case "quint":
+				case "./7mercs/quint":
 					displayname = "Quint";
 					break;
 			//Seasonal Stuff
@@ -211,35 +211,35 @@ function insertMugshots()
 					displayname = "Silver Dime";
 					break;
 			//Christmas Characters
-				case "chill":
+				case "./seasonal/chill":
 					displayname = " Man";
 					break;
-				case "ghostpast":
+				case "./seasonal/ghostpast":
 					displayname = "Ghost of Christmas Past";
 					break;
-				case "ghostpresent":
+				case "./seasonal/ghostpresent":
 					displayname = "Ghost of Christmas Present";
 					break;
-				case "ghostfuture":
+				case "./seasonal/ghostfuture":
 					displayname = "Ghost of Christmas Future";
 					break;
-				case "pasthornet":
+				case "./seasonal/pasthornet":
 					displayname = "Hornet Man (Past)";
 					break;
 			//Cyborg Resistance Members (Universe 0)
-				case "magma0":
+				case "./classiccr/magma0":
 					displayname = "Magma Man";
 					break;
-				case "hornet0":
+				case "./classiccr/hornet0":
 					displayname = "Hornet Man";
 					break;
-				case "galaxy0":
+				case "./classiccr/galaxy0":
 					displayname = "Galaxy Man";
 					break;
-				case "concrete0":
+				case "./classiccr/concrete0":
 					displayname = "Concrete Man";
 					break;
-				case "plug0":
+				case "./classiccr/plug0":
 					displayname = "Plug Man";
 					break;
 			}
