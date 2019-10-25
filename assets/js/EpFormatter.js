@@ -96,8 +96,8 @@ function insertMugshots()
 		//Seasonal
 		//Halloween
 		"./seasonal/witcharri":"WitchArri",
-		ulalamolly:"UlalaMolly",
-		onisilver:"OniSilver",
+		"./seasonal/ulalamolly":"UlalaMolly",
+		"./seasonal/onisilver":"OniSilver",
 		//Christmas Characters
 		ghostpast:"GhostPast",
 		ghostpresent:"GhostPresent",
