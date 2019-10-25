@@ -60,7 +60,7 @@ MollyShocked: **[startled]** *Y-YAGGHHHHHHHHHHHH!!*
 
 OniSilver: **[all calm and collected]** Greetings. How may I assist you?
 
-MollyAnnoyed: **[clutching her chest, calming herself]** Next time please have a less startling entrance...
+MollyAnnoyed: **[clutching her chest, calming herself]** N-Next time please have a less startling entrance...
 
 OniSilverHappy: My apologies, Molly. I have been practicing my scare as an Oni.
 

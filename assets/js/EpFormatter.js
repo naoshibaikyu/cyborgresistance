@@ -80,33 +80,33 @@ function insertMugshots()
 		molly:"Molly",
 		silver:"Silver",
 		//Universe Zero's Cyborg Resistance Members
-		magma0:"Magma0",
-		concrete0:"Concrete0",
-		galaxy0:"Galaxy0",
-		hornet0:"Hornet0",
-		plug0:"Plug0",
+		./classiccr/magma0:"Magma0",
+		./classiccr/concrete0:"Concrete0",
+		./classiccr/galaxy0:"Galaxy0",
+		./classiccr/hornet0:"Hornet0",
+		./classiccr/plug0:"Plug0",
 		//Supporting Characters
 		narrator:"Narrator",
-		light:"Light",
+		./lightcrew/light:"Light",
 		//Villains
-		wily:"Wily",
+		./wilycrew/wily:"Wily",
 		//Seven Mercenaries
-		quint:"Quint",
+		./7mercs/quint:"Quint",
 		//Generic NPCs
 		//Seasonal
 		//Halloween
-		./halloween/witcharri:"WitchArri",
-		ulalamolly:"UlalaMolly",
-		onisilver:"OniSilver",
+		./seasonal/witcharri:"WitchArri",
+		./seasonal/ulalamolly:"UlalaMolly",
+		./seasonal/onisilver:"OniSilver",
 		//Christmas Characters
-		ghostpast:"GhostPast",
-		ghostpresent:"GhostPresent",
-		ghostfuture:"GhostFuture",
-		pasthornet:"PastHornet",
-		futurehornet:"FutureHornet",
-		chill:"Chill",
-		santa:"Santa",
-		elf:"Elf"
+		./seasonal/ghostpast:"GhostPast",
+		./seasonal/ghostpresent:"GhostPresent",
+		./seasonal/ghostfuture:"GhostFuture",
+		./seasonal/pasthornet:"PastHornet",
+		./seasonal/futurehornet:"FutureHornet",
+		./seasonal/chill:"Chill",
+		./seasonal/santa:"Santa",
+		./seasonal/elf:"Elf"
 	};
 
 	var emotes = {
