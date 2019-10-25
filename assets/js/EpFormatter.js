@@ -95,18 +95,18 @@ function insertMugshots()
 		//Generic NPCs
 		//Seasonal
 		//Halloween
-		"seasonal/witcharri:"WitchArri",
-		"seasonal/ulalamolly:"UlalaMolly",
-		"seasonal/onisilver:"OniSilver",
+		"./seasonal/witcharri:"WitchArri",
+		"./seasonal/ulalamolly:"UlalaMolly",
+		"./seasonal/onisilver:"OniSilver",
 		//Christmas Characters
-		"seasonal/ghostpast:"GhostPast",
-		"seasonal/ghostpresent:"GhostPresent",
-		"seasonal/ghostfuture:"GhostFuture",
-		"seasonal/pasthornet:"PastHornet",
-		"seasonal/futurehornet:"FutureHornet",
-		"seasonal/chill:"Chill",
-		"seasonal/santa:"Santa",
-		"seasonal/elf:"Elf"
+		"./seasonal/ghostpast:"GhostPast",
+		"./seasonal/ghostpresent:"GhostPresent",
+		"./seasonal/ghostfuture:"GhostFuture",
+		"./seasonal/pasthornet:"PastHornet",
+		"./seasonal/futurehornet:"FutureHornet",
+		"./seasonal/chill:"Chill",
+		"./seasonal/santa:"Santa",
+		"./seasonal/elf:"Elf"
 	};
 
 	var emotes = {
