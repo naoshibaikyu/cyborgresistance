@@ -15,27 +15,27 @@ function insertDivs()
 	    var p = document.createElement('p');
 	    var div = document.createElement('div');
 
-	    if (line.innerHTML.startsWith("@LOCATION":"))
+	    if (line.innerHTML.startsWith("@LOCATION:"))
 	    {
 	    	div.className = "location";
 	    	line.innerHTML = line.innerHTML.substr(10);
 	    }
-		else if (line.innerHTML.startsWith("@EPNUM":"))
+		else if (line.innerHTML.startsWith("@EPNUM:"))
 	    {
 	    	div.className = "epnum";
 	    	line.innerHTML = line.innerHTML.substr(7);
 	    }
-		else if (line.innerHTML.startsWith("@TITLE":"))
+		else if (line.innerHTML.startsWith("@TITLE:"))
 	    {
 	    	div.className = "eptitle";
 	    	line.innerHTML = line.innerHTML.substr(7);
 	    }
-		else if (line.innerHTML.startsWith("@AUTHOR":"))
+		else if (line.innerHTML.startsWith("@AUTHOR:"))
 	    {
 	    	div.className = "author";
 	    	line.innerHTML = line.innerHTML.substr(8);
 	    }
-		else if (line.innerHTML.startsWith("@ACTNUM":"))
+		else if (line.innerHTML.startsWith("@ACTNUM:"))
 	    {
 	    	div.className = "actnum";
 	    	line.innerHTML = line.innerHTML.substr(8);
@@ -63,14 +63,14 @@ function insertMugshots()
 	var directory = "../../../cyborgresistance/assets/images/mugshots/";
 	//Instances of where a character has an image attached to their name. Along with bolding the name.
 
-	//TODO": Import character names and emotes from separate text files
+	//TODO: Import character names and emotes from separate text files
 	var names = {
 		//Cyborg Resistance Members (Armored)
 		concrete:"Concrete",
 		magma:"Magma",
 		honey:"Honey",
 		galaxy:"Galaxy",
-		plug":"Plug",
+		plug:"Plug",
 		tornado:"Tornado",
 		fake:"Fake",
 		jewel:"Jewel",
@@ -95,53 +95,53 @@ function insertMugshots()
 		//Generic NPCs
 		//Seasonal
 		//Halloween
-		"seasonal/witcharri":"WitchArri",
-		"seasonal/ulalamolly":"UlalaMolly",
-		"seasonal/onisilver":"OniSilver",
+		"seasonal/witcharri:"WitchArri",
+		"seasonal/ulalamolly:"UlalaMolly",
+		"seasonal/onisilver:"OniSilver",
 		//Christmas Characters
-		"seasonal/ghostpast":"GhostPast",
-		"seasonal/ghostpresent":"GhostPresent",
-		"seasonal/ghostfuture":"GhostFuture",
-		"seasonal/pasthornet":"PastHornet",
-		"seasonal/futurehornet":"FutureHornet",
-		"seasonal/chill":"Chill",
-		"seasonal/santa":"Santa",
-		"seasonal/elf":"Elf"
+		"seasonal/ghostpast:"GhostPast",
+		"seasonal/ghostpresent:"GhostPresent",
+		"seasonal/ghostfuture:"GhostFuture",
+		"seasonal/pasthornet:"PastHornet",
+		"seasonal/futurehornet:"FutureHornet",
+		"seasonal/chill:"Chill",
+		"seasonal/santa:"Santa",
+		"seasonal/elf:"Elf"
 	};
 
 	var emotes = {
-		neutral":"",
-		happy":"Happy",
-		annoyed":"Annoyed",
-		angry":"Angry",
-		shocked":"Shocked",
-		sad":"Sad",
-		damaged":"Damaged",
-		relieved":"Relieved",
-		pissed":"Pissed",
-		glare":"Glare",
-		aloof":"Aloof",
-		giddy":"Giddy",
-		scared":"Scared",
-		nani":"Nani",
-		snicker":"Snicker",
-		owo":"OwO",
-		sleep":"Sleep",
-		lenny":"Lenny",
-		hotdog":"Hotdog",
-		scary":"Scary",
-		punched":"Punched",
-		thinking":"Thinking",
-		smug":"Smug"
+		neutral:"",
+		happy:"Happy",
+		annoyed:"Annoyed",
+		angry:"Angry",
+		shocked:"Shocked",
+		sad:"Sad",
+		damaged:"Damaged",
+		relieved:"Relieved",
+		pissed:"Pissed",
+		glare:"Glare",
+		aloof:"Aloof",
+		giddy:"Giddy",
+		scared:"Scared",
+		nani:"Nani",
+		snicker:"Snicker",
+		owo:"OwO",
+		sleep:"Sleep",
+		lenny:"Lenny",
+		hotdog:"Hotdog",
+		scary:"Scary",
+		punched:"Punched",
+		thinking:"Thinking",
+		smug:"Smug"
 	};
 
-	//TODO": make it work with brackets and spaces between the name and emote
+	//TODO: make it work with brackets and spaces between the name and emote
 	//Look at all name/emote combinations
 	for (var nameKey in names)
 	{
 		for (var emoteKey in emotes)
 		{
-			var str = "<p>" + names[nameKey] + emotes[emoteKey] + "":";
+			var str = "<p>" + names[nameKey] + emotes[emoteKey] + ":";
 			var suffix = "";
 
 			//Insert name suffix and prefix
@@ -150,96 +150,96 @@ function insertMugshots()
 			switch(nameKey)
 			{
 			//Cyborg Resistance Members (Human)
-				case "arrietty"":
+				case "arrietty":
 					displayname = "Arrietty";
 					break;
-				case "molly"":
+				case "molly":
 					displayname = "Molly";
 					break;
-				case "silver"":
+				case "silver":
 					displayname = "Silver Dime";
 					break;
 			//Cyborg Resistance Members (Armored)
-				case "magma"":
+				case "magma":
 					displayname = "Magma Man";
 					break;
-				case "splash"":
+				case "splash":
 					displayname = "Splash Man";
 					break;
-				case "plug"":
+				case "plug":
 					displayname = "Plug Man";
 					break;
-				case "tornado"":
+				case "tornado":
 					displayname = "Tornado Man";
 					break;
-				case "jewel"":
+				case "jewel":
 					displayname = "Jewel Woman";
 					break;
-				case "honey"":
+				case "honey":
 					displayname = "Honey Woman";
 					break;
-				case "galaxy"":
+				case "galaxy":
 					displayname = "Galaxy Woman";
 					break;
-				case "concrete"":
+				case "concrete":
 					displayname = "Concritter";
 					break;
-				case "fake"":
+				case "fake":
 					displayname = "Fakette";
 					break;
 			//Supporting Characters
-				case "light"":
+				case "light":
 					displayname = "Dr. Light";
 					break;
 			//Villains
-				case "wily"":
+				case "wily":
 					displayname = "Dr. Wily";
 					break;
 			//Seven Mercenaries
-				case "quint"":
+				case "quint":
 					displayname = "Quint";
 					break;
 			//Seasonal Stuff
 			//Halloween
-				case "witcharri"":
+				case "witcharri":
 					displayname = "Arrietty";
 					break;
-				case "ulalamolly"":
+				case "ulalamolly":
 					displayname = "Molly";
 					break;
-				case "onisilver"":
+				case "onisilver":
 					displayname = "Silver Dime";
 					break;
 			//Christmas Characters
-				case "chill"":
+				case "chill":
 					displayname = " Man";
 					break;
-				case "ghostpast"":
+				case "ghostpast":
 					displayname = "Ghost of Christmas Past";
 					break;
-				case "ghostpresent"":
+				case "ghostpresent":
 					displayname = "Ghost of Christmas Present";
 					break;
-				case "ghostfuture"":
+				case "ghostfuture":
 					displayname = "Ghost of Christmas Future";
 					break;
-				case "pasthornet"":
+				case "pasthornet":
 					displayname = "Hornet Man (Past)";
 					break;
 			//Cyborg Resistance Members (Universe 0)
-				case "magma0"":
+				case "magma0":
 					displayname = "Magma Man";
 					break;
-				case "hornet0"":
+				case "hornet0":
 					displayname = "Hornet Man";
 					break;
-				case "galaxy0"":
+				case "galaxy0":
 					displayname = "Galaxy Man";
 					break;
-				case "concrete0"":
+				case "concrete0":
 					displayname = "Concrete Man";
 					break;
-				case "plug0"":
+				case "plug0":
 					displayname = "Plug Man";
 					break;
 			}
@@ -249,7 +249,7 @@ function insertMugshots()
 
 			replace = "<test><img id=double src=" + imagePath + "> <p><profilename>" + displayname + "</profilename></br></test>";
 			
-			//TODO": check and see if replace path exists, if not, bold name and continue, else...
+			//TODO: check and see if replace path exists, if not, bold name and continue, else...
 			document.body.innerHTML = document.body.innerHTML.replace(find, replace);	
 		}
 	}
