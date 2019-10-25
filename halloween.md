@@ -50,9 +50,29 @@ MollySmug: You aren't scared, are you Arri?
 
 Arrietty: Oh hell no, I am so down for that idea actually!
 
-MollyHappy: Great! Let's gather a few folks and find a good location for the party! Halloween's not until tommorow which is plenty of time!
+MollyHappy: Great! Let's gather up a few folks and search for a scary party location! Halloween's not until tommorow which is plenty of time!
 
-Arrietty: 
+Arrietty: I have someone in mind already. Hey, Dimey!
+
+%Silver Dime splashes out of the Punch Bowl.
+
+MollyShocked: **[startled]** *Y-YAGGHHHHHHHHHHHH!!*
+
+OniSilver: **[all calm and collected]** Greetings. How may I assist you?
+
+MollyAnnoyed: **[clutching her chest, calming herself]** Next time please have a less startling entrance...
+
+OniSilverHappy: My apologies, Molly. I have been practicing my scare as an Oni.
+
+Arrietty: It sure seem to have worked on her. **[giggles]**
+
+Arrietty: Anyways, Dimey... Would you like to help the both of us find a totally spooky place for our party?
+
+OniSilverHappy: My scouting would provide enough to find us such a place. I'm more than glad to be of your assistance.
+
+WitchArri: ...
+
+
 
 EpFin
 
