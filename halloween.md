@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="{{ '/assets/css/halloween.css?v='}}">
 
 EpStart
 
@@ -170,5 +170,6 @@ WitchArrietty: Well, there it is!
 
 
 EpFin
+
 
 <script src="{{ '/assets/js/EpFormatter.js' | relative_url }}"></script>
