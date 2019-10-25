@@ -70,8 +70,6 @@ Arrietty: Anyways, Dimey... Would you like to help the both of us find a totally
 
 OniSilverHappy: My scouting would provide enough to find us such a place. I'm more than glad to be of your assistance.
 
-WitchArri: ...
-
 
 
 EpFin
