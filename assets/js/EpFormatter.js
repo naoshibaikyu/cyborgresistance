@@ -201,13 +201,13 @@ function insertMugshots()
 					break;
 			//Seasonal Stuff
 			//Halloween
-				case "witcharri":
+				case "./seasonal/witcharri":
 					displayname = "Arrietty";
 					break;
-				case "ulalamolly":
+				case"./seasonal/ulalamolly":
 					displayname = "Molly";
 					break;
-				case "onisilver":
+				case "./seasonal/onisilver":
 					displayname = "Silver Dime";
 					break;
 			//Christmas Characters
