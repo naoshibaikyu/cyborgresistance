@@ -192,7 +192,11 @@ UlalaMolly Sad: **[frantically looking around for an exit]** All the windows are
 
 WitchArrietty: Calm yourself! There can be a backdoor exit or something. Besides, if we reallly need to, we can just transform and blow up the door anyways.
 
-UlalaMolly: O-oh... That's right. Haha.
+UlalaMolly: Oh, yeah...
+
+WitchArrietty: 
+
+OniSilver:
 
 
 EpFin
