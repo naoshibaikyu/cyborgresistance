@@ -12,7 +12,7 @@ EpStart
 
 @ACTNUM: ACT 1
 
-@LOCATIONconcretebig: DR. LIGHT'S LAB
+@LOCATIONlightslab: DR. LIGHT'S LAB
 
 Hornet0Glare: We're still working on this site. Go away!
 
