@@ -1,5 +1,5 @@
 insertDivs();
-insertMugshots();
+getJson();
 
 //Replace all p tags with div class=dialogue tags
 function insertDivs()
@@ -46,7 +46,8 @@ function insertDivs()
 	    }
 	    else if (line.innerHTML.startsWith("%"))
 	    {
-	    	div.className = "description";
+			div.className = "description";
+			line.innerHTML = line.innerHTML.substr(1);
 	    }
 	    else
 	    {
@@ -67,196 +68,34 @@ function insertDivs()
 	}
 }
 
-function insertMugshots()
+function getJson()
+{
+	$.getJSON("../../../cyborgresistance/characters.json").done(insertMugshots);
+}
+
+function insertMugshots(json)
 {
 	var directory = "../../../cyborgresistance/assets/images/mugshots/";
-	//Instances of where a character has an image attached to their name. Along with bolding the name.
-
-	//TODO: Import character names and emotes from separate text files
-	var names = {
-		//Cyborg Resistance Members (Armored)
-		concrete:"Concrete",
-		magma:"Magma",
-		honey:"Honey",
-		galaxy:"Galaxy",
-		plug:"Plug",
-		tornado:"Tornado",
-		fake:"Fake",
-		jewel:"Jewel",
-		splash:"Splash",
-		//Cyborg Resistance Members (Human)
-		arrietty:"Arrietty",
-		molly:"Molly",
-		silver:"Silver",
-		//Universe Zero's Cyborg Resistance Members
-		"classiccr/magma0":"Magma0",
-		"classiccr/concrete0":"Concrete0",
-		"classiccr/galaxy0":"Galaxy0",
-		"classiccr/hornet0":"Hornet0",
-		"classiccr/plug0":"Plug0",
-		//Supporting Characters
-		narrator:"Narrator",
-		"lightcrew/light":"Light",
-		//Villains
-		"wilycrew/wily":"Wily",
-		//Seven Mercenaries
-		"7mercs/quint":"Quint",
-		//Generic NPCs
-		//Seasonal
-		//Halloween
-		"seasonal/witcharri":"WitchArrietty",
-		"seasonal/ulalamolly":"UlalaMolly",
-		"seasonal/onisilver":"OniSilver",
-		//Christmas Characters
-		"seasonal/ghostpast":"GhostPast",
-		"seasonal/ghostpresent":"GhostPresent",
-		"seasonal/ghostfuture":"GhostFuture",
-		"seasonal/pasthornet":"PastHornet",
-		"seasonal/futurehornet":"FutureHornet",
-		"seasonal/chill":"Chill",
-		"seasonal/santa":"Santa",
-		"seasonal/elf":"Elf"
-	};
-
-	var emotes = {
-		neutral:"",
-		happy:"Happy",
-		annoyed:"Annoyed",
-		angry:"Angry",
-		shocked:"Shocked",
-		sad:"Sad",
-		damaged:"Damaged",
-		relieved:"Relieved",
-		pissed:"Pissed",
-		glare:"Glare",
-		aloof:"Aloof",
-		giddy:"Giddy",
-		scared:"Scared",
-		nani:"Nani",
-		snicker:"Snicker",
-		owo:"OwO",
-		sleep:"Sleep",
-		lenny:"Lenny",
-		hotdog:"Hotdog",
-		scary:"Scary",
-		punched:"Punched",
-		thinking:"Thinking",
-		smug:"Smug"
-	};
-
+	var characters = json.names;
+	var emotes = json.emotes;
 	//TODO: make it work with brackets and spaces between the name and emote
+	//TODO: don't do a find/replace, do it line by line in the div checker
 	//Look at all name/emote combinations
-	for (var nameKey in names)
+	for (var characterKey in characters)
 	{
 		for (var emoteKey in emotes)
 		{
-			var str = "<p>" + names[nameKey] + emotes[emoteKey] + ":";
-			var suffix = "";
-
-			//Insert name suffix and prefix
-			var displayname = names[nameKey];
-
-			switch(nameKey)
-			{
-			//Cyborg Resistance Members (Human)
-				case "arrietty":
-					displayname = "Arrietty";
-					break;
-				case "molly":
-					displayname = "Molly";
-					break;
-				case "silver":
-					displayname = "Silver Dime";
-					break;
-			//Cyborg Resistance Members (Armored)
-				case "magma":
-					displayname = "Magma Man";
-					break;
-				case "splash":
-					displayname = "Splash Man";
-					break;
-				case "plug":
-					displayname = "Plug Man";
-					break;
-				case "tornado":
-					displayname = "Tornado Man";
-					break;
-				case "jewel":
-					displayname = "Jewel Woman";
-					break;
-				case "honey":
-					displayname = "Honey Woman";
-					break;
-				case "galaxy":
-					displayname = "Galaxy Woman";
-					break;
-				case "concrete":
-					displayname = "Concritter";
-					break;
-				case "fake":
-					displayname = "Fakette";
-					break;
-			//Supporting Characters
-				case "lightcrew/light":
-					displayname = "Dr. Light";
-					break;
-			//Villains
-				case "wilycrew/wily":
-					displayname = "Dr. Wily";
-					break;
-			//Seven Mercenaries
-				case "7mercs/quint":
-					displayname = "Quint";
-					break;
-			//Seasonal Stuff
-			//Halloween
-				case "seasonal/witcharri":
-					displayname = "Arrietty";
-					break;
-				case"seasonal/ulalamolly":
-					displayname = "Molly";
-					break;
-				case "seasonal/onisilver":
-					displayname = "Silver Dime";
-					break;
-			//Christmas Characters
-				case "seasonal/chill":
-					displayname = " Man";
-					break;
-				case "seasonal/ghostpast":
-					displayname = "Ghost of Christmas Past";
-					break;
-				case "seasonal/ghostpresent":
-					displayname = "Ghost of Christmas Present";
-					break;
-				case "seasonal/ghostfuture":
-					displayname = "Ghost of Christmas Future";
-					break;
-				case "seasonal/pasthornet":
-					displayname = "Hornet Man (Past)";
-					break;
-			//Cyborg Resistance Members (Universe 0)
-				case "classiccr/magma0":
-					displayname = "Magma Man";
-					break;
-				case "classiccr/hornet0":
-					displayname = "Hornet Man";
-					break;
-				case "classiccr/galaxy0":
-					displayname = "Galaxy Man";
-					break;
-				case "classiccr/concrete0":
-					displayname = "Concrete Man";
-					break;
-				case "classiccr/plug0":
-					displayname = "Plug Man";
-					break;
-			}
-
+			var emoteSuffix = emotes[emoteKey];
+			if (emotes[emoteKey] === "neutral")
+				emoteSuffix = "";
+			var str = "<p>" + characterKey + emoteSuffix + ":";
+			var displayname = characters[characterKey].displayName;
 			var find = new RegExp(str, "gi");
-			var imagePath = directory + nameKey + emoteKey + ".png"; 
+			
 
-			replace = "<test><img id=double src=" + imagePath + "> <p><profilename>" + displayname + "</profilename></br></test>";
+			var imagePath = directory + characters[characterKey].imagePathPrefix + emotes[emoteKey] + ".png"; 
+
+			replace = "<img id=double src=" + imagePath + "> <p><profilename>" + displayname + "</profilename></br>";
 			
 			//TODO: check and see if replace path exists, if not, bold name and continue, else...
 			document.body.innerHTML = document.body.innerHTML.replace(find, replace);	
