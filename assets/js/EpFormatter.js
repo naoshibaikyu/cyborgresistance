@@ -60,7 +60,7 @@ function insertDivs()
 
 function insertMugshots()
 {
-	var directory = "{{ site.baseurl }}/assets/images/mugshots/";
+	var directory = "../../../cyborgresistance/assets/images/mugshots/";
 	//Instances of where a character has an image attached to their name. Along with bolding the name.
 
 	//TODO: Import character names and emotes from separate text files
