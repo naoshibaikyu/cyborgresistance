@@ -240,6 +240,10 @@ function getJsonData() {
 				"displayName": "Silver Dime",
 				"imagePathPrefix": "seasonal/onisilver"
 			},
+			"SpookyVoice": {
+				"displayName": "Mysterious Voice",
+				"imagePathPrefix": ""
+			},
 	//Christmas Special
 			"ghostPast": {
 				"displayName": "Ghost of Christmas Past",

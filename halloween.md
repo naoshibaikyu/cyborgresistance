@@ -198,6 +198,19 @@ WitchArrietty:
 
 OniSilver:
 
+SpookyVoice: **Kyeh Heh Heh!!**
+
+UlalaMolly Shocked: Zoinks!
+
+WitchArrietty: Jinkies!
+
+SpookyVoice: Do I hear yet another bunch of foolish kids trespassing my domain?
+
+WitchArrietty: I'm 26 thank you very much!
+
+Molly: And I'm only 21!
+
+OniSilver Angry: Age is of no relevence! **[gets in his battle stance]** Show your face, fearsome foe.
 
 EpFin
 
