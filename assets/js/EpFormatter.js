@@ -26,7 +26,7 @@ function insertDivs()
 			}
 
 			div.className = "location";
-	    	line.innerHTML = line.innerHTML.substr(locationLine.lastIndexOf(':'));
+	    	line.innerHTML = line.innerHTML.substr(locationLine.lastIndexOf(':') + 1);
 	    }
 		else if (line.innerHTML.startsWith("@EPNUM:"))
 	    {
