@@ -4,6 +4,8 @@ insertMugshots();
 //Replace all p tags with div class=dialogue tags
 function insertDivs()
 {
+	var locationDirectory = "../../../cyborgresistance/assets/images/misc/";
+
 	document.body.innerHTML = document.body.innerHTML.replace("<p>EpStart</p>", "<div id='ep'>");
 	document.body.innerHTML = document.body.innerHTML.replace("<p>EpFin</p>", "</div>");
 
@@ -17,8 +19,14 @@ function insertDivs()
 
 	    if (line.innerHTML.startsWith("@LOCATION"))
 	    {
+			var locationLine = line.innerHTML;
+			var location = locationLine.substring(9, locationLine.lastIndexOf(':'));
+			if (location) {
+				div.style.backgroundImage = "url('" + locationDirectory + location + ".png')";
+			}
+
 			div.className = "location";
-	    	line.innerHTML = line.innerHTML.substr(10);
+	    	line.innerHTML = line.innerHTML.substr(locationLine.lastIndexOf(':'));
 	    }
 		else if (line.innerHTML.startsWith("@EPNUM:"))
 	    {
