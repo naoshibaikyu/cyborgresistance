@@ -182,11 +182,17 @@ WitchArrietty: I didn't even slam the door that hard!
 
 OniSilver: **[looking around his surroundings]** Hmmm... The age of this place... It seems most unstable. While there may not be any hostile threat, we must still be cautious.
 
-UlalaMolly Sad: All the windows are boarded up too! We're trapped in here!
+%End of Act 2
 
-WitchArrietty: Calm yourself!
+@ACTNUM: ACT 3
 
+@LOCATIONcastle: MYSTERIOUS CASTLE
 
+UlalaMolly Sad: **[frantically looking around for an exit]** All the windows are boarded up too! We're trapped in here!
+
+WitchArrietty: Calm yourself! There can be a backdoor exit or something. Besides, if we reallly need to, we can just transform and blow up the door anyways.
+
+UlalaMolly: O-oh... That's right. Haha.
 
 
 EpFin
