@@ -52,7 +52,7 @@ MollyHappy: Great! Let's gather up a few folks and search for a scary party loca
 
 Arrietty: I have someone in mind already. Hey, Dimey!
 
-%Silver Dime splashes out of the Punch Bowl.
+Silver Dime splashes out of the Punch Bowl.
 
 MollyShocked: **[startled]** *Y-YAGGHHHHHHHHHHHH!!*
 
@@ -72,13 +72,13 @@ MollyHappy: Great! I'll rally up the rest of the team.
 
 Arrietty: Great idea, and I'll ask Roy to drive us. Let's throw us one killer Halloween Party!
 
-%End of Act 1
+End of Act 1
 
 @ACTNUM: ACT 2
 
 @LOCATION: ABANDONED ROUTE
 
-%As Dr. Light have disallowed Cyborg Resistance from throwing a party at their place, everyone has agreed that Arrietty and co should find a new party location for the whole team. However, Roy Jackson, the team's Magma Man and also their driver, only agrees to help out under the condition the search doesn't take too long as the rest of the team needs to finish their last minute costume shopping.
+As Dr. Light have disallowed Cyborg Resistance from throwing a party at their place, everyone has agreed that Arrietty and co should find a new party location for the whole team. However, Roy Jackson, the team's Magma Man and also their driver, only agrees to help out under the condition the search doesn't take too long as the rest of the team needs to finish their last minute costume shopping.
 
 WitchArrietty: **[holding her map filled with dozens of locations marked red crosses]** Well, this one has to be it then. Let's stop at this place. **[points at an unmarked cemetary with an abandoned mysterious building]**
 
@@ -100,7 +100,7 @@ OniSilverHappy: It is an effective low-cost Halloween costume.
 
 UlalaMollyAnnoyed: I see…
 
-%Soon, the team finally arrives at what is hopefully their ideal destination.
+Soon, the team finally arrives at what is hopefully their ideal destination.
 
 UlalaMollyHappy: Oh! There it is!
 
@@ -118,7 +118,7 @@ WitchArrietty: **[Getting off of the car with Molly and Silver]** Don't know, bu
 
 Magma0: Alright, don't get too scared! I’ll come back with the rest of the team when they’re done shopping. Be safe you three!
 
-%With that, Roy's car speeds off the scene, leaving the three at a huge graveyard with the castle in its surrounding. Soon, the three walk across the graveyard approaching the castle.
+With that, Roy's car speeds off the scene, leaving the three at a huge graveyard with the castle in its surrounding. Soon, the three walk across the graveyard approaching the castle.
 
 UlalaMollySad: **[looking around the surroundings, surveying a very unsettling atmosphere]** This is looking like w-what we've wanted, huh?
 
@@ -162,7 +162,7 @@ WitchArrietty: Oh man, that would be *so* cool though! We'd be having the Hallow
 
 UlalaMollySad: Hahaha… *Really* into the Halloween spirit, Arri?
 
-%Eventually, they've finally reach to the ends of the grave yard and are right at the entrance of the castle.
+Eventually, they've finally reach to the ends of the grave yard and are right at the entrance of the castle.
 
 WitchArrietty: Well, there it is!
 
