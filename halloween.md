@@ -124,13 +124,13 @@ UlalaMolly Sad: **[looking around the surroundings, surveying a very unsettling 
 
 WitchArrietty: **[pumps fist into the air]** Heck yeah! I can already feel a chill down my spine! Are you as excited as I am?
 
-UlalaMolly Happy: O-Of course! This was my idea after all! **[shudders]**
+UlalaMolly Happy: Of course! This was my idea after all! **[smiles hesitantly]**
 
-UlalaMolly Sad: …But you know, despite that. Since we’re walking through a graveyard now, this does feel a pretty amoral idea.
+UlalaMolly Sad: …But you know, despite that, this does feel like an amoral idea now that we're in a graveyard.
 
-WitchArrietty: Now that you’ve mention it, I guess it is a little disrespectful to the dead. But hey, more excuses for a party in the spooky castle instead!
+WitchArrietty: Sure, if we were to party on the graves. That's why the castle caught my eye instead, to party indoors instead!
 
-UlalaMolly Annoyed: That doesn’t make it much better!
+UlalaMolly Annoyed: Don't know if it's that much better...
 
 OniSilver: **[surveying the area around himself]** I sense this place has not seen any visitors in a while.
 
@@ -160,7 +160,7 @@ UlalaMolly Happy: Of course not! T-That's not scientific at all! Why would I bel
 
 WitchArrietty: Oh man, that would be *so* cool though! We'd be having the Halloween adventure of a life time!
 
-UlalaMolly Sad: Hahaha… *Really into* the Halloween spirit, Arri?
+UlalaMolly Sad: **[concerned laughter]** Hahaha… *Really into* the Halloween spirit, Arri?
 
 %Eventually, they've finally reach to the ends of the grave yard and are right at the entrance of the castle. Excitedly, Arrietty opens the door and walks right in without much of a concern. Silver Dime follows with caution and then beckons to Molly who reluctantly enters the aged building.
 

@@ -130,6 +130,8 @@ function pageTurn(sourceDiv)
 function getJsonData() {
 	return ({
 		"names": {
+//Cyborg Resistance
+	//Normal Form	
 			"concrete": {
 				"displayName": "Concritter",
 				"imagePathPrefix": "concrete"
@@ -166,6 +168,7 @@ function getJsonData() {
 				"displayName": "Splash Man",
 				"imagePathPrefix": "splash"
 			},
+	//Human Forms
 			"arrietty": {
 				"displayName": "Arrietty",
 				"imagePathPrefix": "arrietty"
@@ -178,6 +181,7 @@ function getJsonData() {
 				"displayName": "Silver Dime",
 				"imagePathPrefix": "silver"
 			},
+	//Universe 0
 			"magma0": {
 				"displayName": "Magma Man",
 				"imagePathPrefix": "classiccr/magma0"
@@ -198,22 +202,32 @@ function getJsonData() {
 				"displayName": "Plug Man",
 				"imagePathPrefix": "classiccr/plug0"
 			},
+			
+//Supporting Characters
+	//Narrator
 			"narrator": {
 				"displayName": "Narrator",
 				"imagePathPrefix": "narrator"
 			},
+	//Light and Co.
 			"light": {
 				"displayName": "Dr. Light",
 				"imagePathPrefix": "lightcrew/light"
 			},
+			
+	//Wily and Co.
 			"wily": {
 				"displayName": "Dr. Wily",
 				"imagePathPrefix": "wilycrew/wily"
 			},
+//Other Teams
+	//Seven Mercenaries
 			"quint": {
 				"displayName": "Quint",
 				"imagePathPrefix": "7mercs/quint"
 			},
+//Seasonal Epilogues
+	//Halloween Special
 			"witchArrietty": {
 				"displayName": "Arrietty",
 				"imagePathPrefix": "seasonal/witcharri"
@@ -226,6 +240,7 @@ function getJsonData() {
 				"displayName": "Silver Dime",
 				"imagePathPrefix": "seasonal/onisilver"
 			},
+	//Christmas Special
 			"ghostPast": {
 				"displayName": "Ghost of Christmas Past",
 				"imagePathPrefix": "seasonal/ghostpast"
