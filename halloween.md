@@ -176,7 +176,7 @@ WitchArrietty: Nuh-uh! You're not cowarding your way out of this! **[slams the d
 
 WitchArrietty: Oops?
 
-UlalaMolly Shocked:: W-Wha?! Arri! You've broke our only way out!
+UlalaMolly Shocked: W-Wha?! Arri! You've broke our only way out!
 
 WitchArrietty: I didn't even slam the door that hard!
 
