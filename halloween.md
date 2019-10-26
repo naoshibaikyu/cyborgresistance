@@ -24,7 +24,7 @@ Light: **[sigh]** I said no, it means no, Arrietty.
 
 Arrietty: Seriously, what's the problem?
 
-Light: Because last year you've all made a gigantic mess and it took poor Auto *weeks* to clean up the place.
+Light: Because last year you all made a gigantic mess and it took poor Auto *weeks* to clean up the place.
 
 Arrietty: What? Now you're just making up excuses, we've only been living with you for a *few months* at most.
 
@@ -78,15 +78,15 @@ Arrietty: Great idea, and I'll ask Roy to drive us. Let's throw us one killer Ha
 
 @LOCATION: ABANDONED ROUTE
 
-%As Dr. Light have disallowed Cyber Resistance from throwing a party at their place. Everyone has agreed that Arrietty and co should find a new party location for the whole team. However, Roy Jackson, the team's Magma Man and also their driver, only agrees to help out under the condition the search doesn't take too long as the rest of the team needs to finish their last minute costume shopping.
+%As Dr. Light have disallowed Cyborg Resistance from throwing a party at their place, everyone has agreed that Arrietty and co should find a new party location for the whole team. However, Roy Jackson, the team's Magma Man and also their driver, only agrees to help out under the condition the search doesn't take too long as the rest of the team needs to finish their last minute costume shopping.
 
 WitchArrietty: **[holding her map filled with dozens of locations marked red crosses]** Well, this one has to be it then. Let's stop at this place. **[points at an unmarked cemetary with an abandoned mysterious building]**
 
-Magma0: We've been at this for a few more hours than I've anticipcated, so this will be our final stopping point.
+Magma0: This is lookin' to be the last stop, alright. The second time we doubled back to the first three stops really drained this thing's juice!
 
 WitchArrietty: Whoops! Sorry that I've gotten a little carried away!
 
-Magma0Annoyed: Not to mention, I have to drive the others to the big city mall and we're running a little low on time.
+Magma0Annoyed: That's alright, kiddo; this thing was built for racing, it's not quite used to chauffeuring yet. Gonna have to give ol' Cerberus' car battery a tune-up after I drop the others off at the mall.
 
 OniSilver: I take it us three are the only ones prepared ahead of time?
 
@@ -112,11 +112,11 @@ WitchArrietty: Oh, now are you chickening out?
 
 UlalaMolly: Don't be silly. T-that's awesome! Totally our s-spot!
 
-Magma0Annoyed: Strange. What would a castle be doing out here anyways?
+Magma0Annoyed: Now what in the- what's a castle doing out here? Do you folks think it's... *haunted* or somethin'?
 
 WitchArrietty: **[Getting off of the car with Molly and Silver]** Don't know, but we're going to investigate this place to make sure it's all good.
 
-Magma0: Right, I'll come back with the rest of the team when they're done shopping. Be safe you three.
+Magma0: Alright, don't get too scared! I’ll come back with the rest of the team when they’re done shopping. Be safe you three!
 
 %With that, Roy's car speeds off the scene, leaving the three at a huge graveyard with the castle in its surrounding. Soon, the three walk across the graveyard approaching the castle.
 
