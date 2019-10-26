@@ -1,5 +1,5 @@
 insertDivs();
-getJson();
+insertMugshots();
 
 //Replace all p tags with div class=dialogue tags
 function insertDivs()
@@ -68,14 +68,10 @@ function insertDivs()
 	}
 }
 
-function getJson()
-{
-	$.getJSON("../../../cyborgresistance/characters.json").done(insertMugshots);
-}
-
 function insertMugshots(json)
 {
 	var directory = "../../../cyborgresistance/assets/images/mugshots/";
+	var json = getJsonData();
 	var characters = json.names;
 	var emotes = json.emotes;
 	//TODO: make it work with brackets and spaces between the name and emote
@@ -131,3 +127,162 @@ function pageTurn(sourceDiv)
     target.innerHTML = html;
 }
 
+function getJsonData() {
+	return ({
+		"names": {
+			"concrete": {
+				"displayName": "Concritter",
+				"imagePathPrefix": "concrete"
+			},
+			"magma": {
+				"displayName": "Magma Man",
+				"imagePathPrefix": "magma"
+			},
+			"honey": {
+				"displayName": "Honey Woman",
+				"imagePathPrefix": "honey"
+			},
+			"galaxy": {
+				"displayName": "Galaxy Woman",
+				"imagePathPrefix": "galaxy"
+			},
+			"plug": {
+				"displayName": "Plug Man",
+				"imagePathPrefix": "plug"
+			},
+			"tornado": {
+				"displayName": "Tornado Man",
+				"imagePathPrefix": "tornado"
+			},
+			"fake": {
+				"displayName": "Fakette",
+				"imagePathPrefix": "fake"
+			},
+			"jewel": {
+				"displayName": "Jewel Woman",
+				"imagePathPrefix": "jewel"
+			},
+			"splash": {
+				"displayName": "Splash Man",
+				"imagePathPrefix": "splash"
+			},
+			"arrietty": {
+				"displayName": "Arrietty",
+				"imagePathPrefix": "arrietty"
+			},
+			"molly": {
+				"displayName": "Molly",
+				"imagePathPrefix": "molly"
+			},
+			"silver": {
+				"displayName": "Silver Dime",
+				"imagePathPrefix": "silver"
+			},
+			"magma0": {
+				"displayName": "Magma Man",
+				"imagePathPrefix": "classiccr/magma0"
+			},
+			"concrete0": {
+				"displayName": "Concrete Man",
+				"imagePathPrefix": "classiccr/concrete0"
+			},
+			"galaxy0": {
+				"displayName": "Galaxy Man",
+				"imagePathPrefix": "classiccr/galaxy0"
+			},
+			"hornet0": {
+				"displayName": "Hornet Man",
+				"imagePathPrefix": "classiccr/hornet0"
+			},
+			"plug0": {
+				"displayName": "Plug Man",
+				"imagePathPrefix": "classiccr/plug0"
+			},
+			"narrator": {
+				"displayName": "Narrator",
+				"imagePathPrefix": "narrator"
+			},
+			"light": {
+				"displayName": "Dr. Light",
+				"imagePathPrefix": "lightcrew/light"
+			},
+			"wily": {
+				"displayName": "Dr. Wily",
+				"imagePathPrefix": "wilycrew/wily"
+			},
+			"quint": {
+				"displayName": "Quint",
+				"imagePathPrefix": "7mercs/quint"
+			},
+			"witchArrietty": {
+				"displayName": "Arrietty",
+				"imagePathPrefix": "seasonal/witcharri"
+			},
+			"ulalaMolly": {
+				"displayName": "Molly",
+				"imagePathPrefix": "seasonal/ulalamolly"
+			},
+			"oniSilver": {
+				"displayName": "Silver Dime",
+				"imagePathPrefix": "seasonal/onisilver"
+			},
+			"ghostPast": {
+				"displayName": "Ghost of Christmas Past",
+				"imagePathPrefix": "seasonal/ghostpast"
+			},
+			"ghostPresent": {
+				"displayName": "Ghost of Christmas Present",
+				"imagePathPrefix": "seasonal/ghostpresent"
+			},
+			"ghostFuture": {
+				"displayName": "Ghost of Christmas Future",
+				"imagePathPrefix": "seasonal/ghostfuture"
+			},
+			"pastHornet": {
+				"displayName": "Hornet Man (Past)",
+				"imagePathPrefix": "seasonal/pasthornet"
+			},
+			"futureHornet": {
+				"displayName": "Hornet Man (Future)",
+				"imagePathPrefix": "seasonal/futurehornet"
+			},
+			"chill": {
+				"displayName": "Chill Man",
+				"imagePathPrefix": "seasonal/chill"
+			},
+			"santa": {
+				"displayName": "Santa",
+				"imagePathPrefix": "seasonal/santa"
+			},
+			"elf": {
+				"displayName": "Elf",
+				"imagePathPrefix": "seasonal/elf"
+			}
+		},
+		"emotes": [
+			"neutral",
+			"happy",
+			"annoyed",
+			"angry",
+			"shocked",
+			"sad",
+			"damaged",
+			"relieved",
+			"pissed",
+			"glare",
+			"aloof",
+			"giddy",
+			"scared",
+			"nani",
+			"snicker",
+			"owo",
+			"sleep",
+			"lenny",
+			"hotdog",
+			"scary",
+			"punched",
+			"thinking",
+			"smug"
+		]
+	});
+}

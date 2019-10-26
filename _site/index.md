@@ -14,13 +14,13 @@ EpStart
 
 @LOCATIONlightslab: DR. LIGHT'S LAB
 
-Hornet0 Glare: We're still working on this site. Go away!
+Hornet0Glare: We're still working on this site. Go away!
 
 Honey: Hey, don't be rude to our guests!
 
-Galaxy Happy: Yeah! Let's welcome them to our forums while things are being set up!
+GalaxyHappy: Yeah! Let's welcome them to our forums while things are being set up!
 
-Magma0 Happy: That's right! [Join our forums!](http://cyborgresistance.proboards.com/)
+Magma0Happy: That's right! [Join our forums!](http://cyborgresistance.proboards.com/)
 
 Galaxy0: Huh?
 
