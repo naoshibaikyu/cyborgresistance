@@ -4,7 +4,7 @@ insertMugshots();
 //Replace all p tags with div class=dialogue tags
 function insertDivs()
 {
-	var locationDirectory = "../../../cyborgresistance/assets/images/misc/";
+	var locationDirectory = "../../../cyborgresistance/assets/images/locations/";
 
 	document.body.innerHTML = document.body.innerHTML.replace("<p>EpStart</p>", "<div id='ep'>");
 	document.body.innerHTML = document.body.innerHTML.replace("<p>EpFin</p>", "</div>");
