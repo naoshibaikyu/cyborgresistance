@@ -12,7 +12,7 @@ EpStart
 
 @ACTNUM: ACT 1
 
-@LOCATION: DR. LIGHT'S LAB
+@LOCATIONlightslab2: DR. LIGHT'S LAB
 
 Arrietty: Pleaasssee?
 
