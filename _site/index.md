@@ -1,50 +1,37 @@
-
-
 EpStart
 
-## Act 1
+<!-- Epilogue Info -->
+ 
+@EPNUM: Season 0 Episode 0
 
-@Location: Rome
+@TITLE: Title Sample
 
-@Date: *October 2nd*
+@AUTHOR: By Huh Man and Sinistar's Cousin Joe
 
-%Yonder **we** ***march***
+<!-- Epilogue -->
 
-%Yonder we march
+@ACTNUM: ACT 1
 
-PlugShocked: Woah?! Where are we...
+@LOCATION: DR. LIGHT'S LAB
 
-# Act 2 [](#act-2)
+Hornet0Glare: We're still working on this site. Go away!
 
+Honey: Hey, don't be rude to our guests!
 
-GalaxyHappy: Oh, hey!! Looks like we're back and we have a new site!!
+GalaxyHappy: Yeah! Let's welcome them to our forums while things are being set up!
 
-SplashAnnoyed: But our site doesn't even look 10% finished...
+Magma0Happy: That's right! [Join our forums!](http://cyborgresistance.proboards.com/)
 
-MagmaGiddy: Yeah, but we have a new epilogue it seems!
+Galaxy0: Huh?
 
-Hornet: Wait, really?! A new epilogue? In 2017?!
+PlugAnnoyed: What the helllll are you guys doing in my townnnn...
 
-Fake: Yeah! And we're debuting our revival with a Christmas Special!
+Arrietty: Playing
 
-HornetGlare: Bah Humbug...
-
-MagmaHappy: MERRY SINIMAS!!
-
-
-<div class="narration">
-  Cyborg Resistance's 2017 Christmas Special: It's Beginning to Look A Lot Like Sinimas!
-  <ul>
-    <li><a href="CR_XMAS_2017_ACT_I.html">Act I</a></li> 
-    <li><a href="CR_XMAS_2017_ACT_II.html">Act II</a></li>
-    <li><a href="CR_XMAS_2017_ACT_III.html">Act III</a> - <b><font size="2">NEW</font></b></li> 
-    <li>Act IV</li>
-    <li>Act V</li>
-  </ul>
-</div>
-
-MagmaHappy: [Join our forums!](http://cyborgresistance.proboards.com/)
+Molly: Playing.
 
 EpFin
 
-<script src="assets/js/EpFormatter.js"></script>
+
+
+<script src="{{ '/assets/js/EpFormatter.js' | relative_url }}"></script>

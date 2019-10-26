@@ -15,9 +15,9 @@ function insertDivs()
 	    var p = document.createElement('p');
 	    var div = document.createElement('div');
 
-	    if (line.innerHTML.startsWith("@LOCATION:"))
+	    if (line.innerHTML.startsWith("@LOCATION"))
 	    {
-	    	div.className = "location";
+			div.className = "location";
 	    	line.innerHTML = line.innerHTML.substr(10);
 	    }
 		else if (line.innerHTML.startsWith("@EPNUM:"))
@@ -60,7 +60,7 @@ function insertDivs()
 
 function insertMugshots()
 {
-	var directory = "../../../cyborgresistance/assets/images/mugshots/";
+	var directory = "/assets/images/mugshots/";
 	//Instances of where a character has an image attached to their name. Along with bolding the name.
 
 	//TODO: Import character names and emotes from separate text files
@@ -80,33 +80,33 @@ function insertMugshots()
 		molly:"Molly",
 		silver:"Silver",
 		//Universe Zero's Cyborg Resistance Members
-		"./classiccr/magma0":"Magma0",
-		"./classiccr/concrete0":"Concrete0",
-		"./classiccr/galaxy0":"Galaxy0",
-		"./classiccr/hornet0":"Hornet0",
-		"./classiccr/plug0":"Plug0",
+		"classiccr/magma0":"Magma0",
+		"classiccr/concrete0":"Concrete0",
+		"classiccr/galaxy0":"Galaxy0",
+		"classiccr/hornet0":"Hornet0",
+		"classiccr/plug0":"Plug0",
 		//Supporting Characters
 		narrator:"Narrator",
-		"./lightcrew/light":"Light",
+		"lightcrew/light":"Light",
 		//Villains
-		"./wilycrew/wily":"Wily",
+		"wilycrew/wily":"Wily",
 		//Seven Mercenaries
-		"./7mercs/quint":"Quint",
+		"7mercs/quint":"Quint",
 		//Generic NPCs
 		//Seasonal
 		//Halloween
-		"./seasonal/witcharri":"WitchArrietty",
-		"./seasonal/ulalamolly":"UlalaMolly",
-		"./seasonal/onisilver":"OniSilver",
+		"seasonal/witcharri":"WitchArrietty",
+		"seasonal/ulalamolly":"UlalaMolly",
+		"seasonal/onisilver":"OniSilver",
 		//Christmas Characters
-		"./seasonal/ghostpast":"GhostPast",
-		"./seasonal/ghostpresent":"GhostPresent",
-		"./seasonal/ghostfuture":"GhostFuture",
-		"./seasonal/pasthornet":"PastHornet",
-		"./seasonal/futurehornet":"FutureHornet",
-		"./seasonal/chill":"Chill",
-		"./seasonal/santa":"Santa",
-		"./seasonal/elf":"Elf"
+		"seasonal/ghostpast":"GhostPast",
+		"seasonal/ghostpresent":"GhostPresent",
+		"seasonal/ghostfuture":"GhostFuture",
+		"seasonal/pasthornet":"PastHornet",
+		"seasonal/futurehornet":"FutureHornet",
+		"seasonal/chill":"Chill",
+		"seasonal/santa":"Santa",
+		"seasonal/elf":"Elf"
 	};
 
 	var emotes = {
@@ -188,58 +188,58 @@ function insertMugshots()
 					displayname = "Fakette";
 					break;
 			//Supporting Characters
-				case "./lightcrew/light":
+				case "lightcrew/light":
 					displayname = "Dr. Light";
 					break;
 			//Villains
-				case "./wilycrew/wily":
+				case "wilycrew/wily":
 					displayname = "Dr. Wily";
 					break;
 			//Seven Mercenaries
-				case "./7mercs/quint":
+				case "7mercs/quint":
 					displayname = "Quint";
 					break;
 			//Seasonal Stuff
 			//Halloween
-				case "./seasonal/witcharri":
+				case "seasonal/witcharri":
 					displayname = "Arrietty";
 					break;
-				case"./seasonal/ulalamolly":
+				case"seasonal/ulalamolly":
 					displayname = "Molly";
 					break;
-				case "./seasonal/onisilver":
+				case "seasonal/onisilver":
 					displayname = "Silver Dime";
 					break;
 			//Christmas Characters
-				case "./seasonal/chill":
+				case "seasonal/chill":
 					displayname = " Man";
 					break;
-				case "./seasonal/ghostpast":
+				case "seasonal/ghostpast":
 					displayname = "Ghost of Christmas Past";
 					break;
-				case "./seasonal/ghostpresent":
+				case "seasonal/ghostpresent":
 					displayname = "Ghost of Christmas Present";
 					break;
-				case "./seasonal/ghostfuture":
+				case "seasonal/ghostfuture":
 					displayname = "Ghost of Christmas Future";
 					break;
-				case "./seasonal/pasthornet":
+				case "seasonal/pasthornet":
 					displayname = "Hornet Man (Past)";
 					break;
 			//Cyborg Resistance Members (Universe 0)
-				case "./classiccr/magma0":
+				case "classiccr/magma0":
 					displayname = "Magma Man";
 					break;
-				case "./classiccr/hornet0":
+				case "classiccr/hornet0":
 					displayname = "Hornet Man";
 					break;
-				case "./classiccr/galaxy0":
+				case "classiccr/galaxy0":
 					displayname = "Galaxy Man";
 					break;
-				case "./classiccr/concrete0":
+				case "classiccr/concrete0":
 					displayname = "Concrete Man";
 					break;
-				case "./classiccr/plug0":
+				case "classiccr/plug0":
 					displayname = "Plug Man";
 					break;
 			}

@@ -179,6 +179,16 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
   border-radius: 8px;
 }
 
+.location.night
+{
+  background-image: url("../../../cyborgresistance/assets/images/misc/cobaltcity.png");
+}
+
+.location.day
+{
+  background-image: url("../../../cyborgresistance/assets/images/misc/NESLogo.png");
+}
+
 .location p
 { 
   font-size: 150%;

@@ -1,0 +1,14 @@
+EPILOGUE FORMATTER
+- Anchors & table of contents
+  - Jump to top
+  - Collapsible acts
+- Multiple acts on one page
+  - Read multiple EpStart EpFins per page
+- Location image parsing
+- Mugshot names and emotes parsed from text file
+- Tighten code for mugshot parsing
+
+WEBSITE DESIGN
+- Home page
+- Page navigation
+- Epilogue page
