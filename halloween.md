@@ -76,7 +76,7 @@ Arrietty: Great idea, and I'll ask Roy to drive us. Let's throw us one killer Ha
 
 @ACTNUM: ACT 2
 
-@LOCATIONSpooky: ABANDONED ROUTE
+@LOCATION1: ABANDONED ROUTE
 
 %As Dr. Light have disallowed Cyborg Resistance from throwing a party at their place, everyone has agreed that Arrietty and co should find a new party location for the whole team. However, Roy Jackson, the team's Magma Man and also their driver, only agrees to help out under the condition the search doesn't take too long as the rest of the team needs to finish their last minute costume shopping.
 
