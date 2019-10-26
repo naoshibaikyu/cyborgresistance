@@ -17,6 +17,7 @@ function insertDivs()
 	    var p = document.createElement('p');
 	    var div = document.createElement('div');
 
+		// Add classes to divs
 	    if (line.innerHTML.startsWith("@LOCATION"))
 	    {
 			var locationLine = line.innerHTML;
@@ -26,37 +27,37 @@ function insertDivs()
 			}
 
 			div.className = "location";
-	    	line.innerHTML = line.innerHTML.substr(locationLine.lastIndexOf(':'));
 	    }
 		else if (line.innerHTML.startsWith("@EPNUM:"))
 	    {
 	    	div.className = "epnum";
-	    	line.innerHTML = line.innerHTML.substr(7);
 	    }
 		else if (line.innerHTML.startsWith("@TITLE:"))
 	    {
 	    	div.className = "eptitle";
-	    	line.innerHTML = line.innerHTML.substr(7);
 	    }
 		else if (line.innerHTML.startsWith("@AUTHOR:"))
 	    {
 	    	div.className = "author";
-	    	line.innerHTML = line.innerHTML.substr(8);
 	    }
 		else if (line.innerHTML.startsWith("@ACTNUM:"))
 	    {
 	    	div.className = "actnum";
-	    	line.innerHTML = line.innerHTML.substr(8);
 	    }
 	    else if (line.innerHTML.startsWith("%"))
 	    {
 	    	div.className = "description";
-	    	line.innerHTML = line.innerHTML.substr(1);
 	    }
 	    else
 	    {
 			div.className = "dialogue";
-	    }
+		}
+		
+		// Put story text in between divs
+		if (line.innerHTML.startsWith("@"))
+		{
+			line.innerHTML = line.innerHTML.substr(line.innerHTML.indexOf(':') + 1);
+		}
 
 	    //Surround inner HTML with p tags
 	    p.innerHTML = line.innerHTML;
@@ -265,7 +266,6 @@ function insertMugshots()
 	//Format
 	document.body.style.fontSize = "medium";
 }
-
 
 // Showdown markdown functionality
 
