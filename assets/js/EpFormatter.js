@@ -242,7 +242,6 @@ function getJsonData() {
 			},
 			"SpookyVoice": {
 				"displayName": "Mysterious Voice",
-				"imagePathPrefix": ""
 			},
 	//Christmas Special
 			"ghostPast": {
