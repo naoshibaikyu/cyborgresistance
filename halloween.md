@@ -96,7 +96,7 @@ OniSilver Happy: Of course I am. I'm an Oni this year.
 
 UlalaMolly Annoyed: …By just gluing two large candy corns on your forehead?
 
-OniSilverH appy: It is an effective low-cost Halloween costume.
+OniSilver Happy: It is an effective low-cost Halloween costume.
 
 UlalaMolly Annoyed: I see…
 
