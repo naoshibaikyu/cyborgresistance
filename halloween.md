@@ -160,11 +160,33 @@ UlalaMolly Happy: Of course not! T-That's not scientific at all! Why would I bel
 
 WitchArrietty: Oh man, that would be *so* cool though! We'd be having the Halloween adventure of a life time!
 
-UlalaMolly Sad: Hahaha… *Really* into the Halloween spirit, Arri?
+UlalaMolly Sad: Hahaha… *Really into* the Halloween spirit, Arri?
 
-%Eventually, they've finally reach to the ends of the grave yard and are right at the entrance of the castle.
+%Eventually, they've finally reach to the ends of the grave yard and are right at the entrance of the castle. Excitedly, Arrietty opens the door and walks right in without much of a concern. Silver Dime follows with caution and then beckons to Molly who reluctantly enters the aged building.
 
-WitchArrietty: Well, there it is!
+WitchArrietty: Well, there it is! Our potential party place!
+
+UlalaMolly: T-that's great! Looks scary enough for our p-party.
+
+WitchArrietty: Well, we have yet to explore to be sure, but it is promising already!
+
+UlalaMolly: Haha. Well, I'm about to head back and wait for everyone else while you-
+
+WitchArrietty: Nuh-uh! You're not cowarding your way out of this! **[slams the door and immediately the door knob falls off and rolls into a hole in the floor]** 
+
+WitchArrietty: Oops?
+
+UlalaMolly Shocked:: W-Wha?! Arri! You've broke our only way out!
+
+WitchArrietty: I didn't even slam the door that hard!
+
+OniSilver: **[looking around his surroundings]** Hmmm... The age of this place... It seems most unstable. While there may not be any hostile threat, we must still be cautious.
+
+UlalaMolly Sad: All the windows are boarded up too! We're trapped in here!
+
+WitchArrietty: Calm yourself!
+
+
 
 
 EpFin
