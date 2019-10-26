@@ -4,7 +4,7 @@ getJson();
 //Replace all p tags with div class=dialogue tags
 function insertDivs()
 {
-	var locationDirectory = "../../../cyborgresistance/assets/images/misc/";
+	var locationDirectory = "../../../cyborgresistance/assets/images/locations/";
 
 	document.body.innerHTML = document.body.innerHTML.replace("<p>EpStart</p>", "<div id='ep'>");
 	document.body.innerHTML = document.body.innerHTML.replace("<p>EpFin</p>", "</div>");
@@ -90,14 +90,15 @@ function insertMugshots(json)
 				emoteSuffix = "";
 			var str = "<p>" + characterKey + emoteSuffix + ":";
 			var displayname = characters[characterKey].displayName;
-			var find = new RegExp(str, "gi");
-			
-
 			var imagePath = directory + characters[characterKey].imagePathPrefix + emotes[emoteKey] + ".png"; 
-
-			replace = "<img id=double src=" + imagePath + "> <p><profilename>" + displayname + "</profilename></br>";
-			
+			var replace = "<img id=double src=" + imagePath + "> <p><profilename>" + displayname + "</profilename></br>";
+			var find = new RegExp(str, "gi");
 			//TODO: check and see if replace path exists, if not, bold name and continue, else...
+			document.body.innerHTML = document.body.innerHTML.replace(find, replace);	
+			
+			// TODO: Remove this - temp hack to allow spaces in between name and emote
+			str = "<p>" + characterKey + " " + emoteSuffix + ":";
+			find = new RegExp(str, "gi");
 			document.body.innerHTML = document.body.innerHTML.replace(find, replace);	
 		}
 	}

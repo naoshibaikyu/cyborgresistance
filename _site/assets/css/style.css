@@ -304,7 +304,7 @@ img#double { image-rendering: optimizeSpeed; /* STOP SMOOTHING, GIVE ME SPEED  *
 
 .actnum { font-size: 200%; text-align: center; text-shadow: -4px 3px #234; color: #CDE; width: 98%; font-family: 'Mega Man 6 Stats'; }
 
-.location { background-image: url("../../../cyborgresistance/assets/images/misc/cobaltcity.png"); image-rendering: crisp-edges; image-rendering: -moz-crisp-edges; /* Firefox */ image-rendering: -o-crisp-edges; /* Opera */ image-rendering: -webkit-optimize-contrast; /* Webkit (non-standard naming)*/ -ms-interpolation-mode: nearest-neighbor; /* IE (non-standard property) */ margin-bottom: 20px; max-width: 1280px; border-radius: 4px; padding-left: 8px; width: 98%; height: 80px; text-align: center; border: 2px solid #BCD; border-radius: 8px; }
+.location { background-image: url("../../../cyborgresistance/assets/images/misc/cobaltcity.png"); image-rendering: crisp-edges; image-rendering: -moz-crisp-edges; /* Firefox */ image-rendering: -o-crisp-edges; /* Opera */ image-rendering: -webkit-optimize-contrast; /* Webkit (non-standard naming)*/ -ms-interpolation-mode: nearest-neighbor; /* IE (non-standard property) */ margin-bottom: 20px; max-width: 1280px; border-radius: 4px; padding-left: 8px; width: 98%; height: 96px; text-align: center; border: 2px solid #BCD; border-radius: 8px; }
 
 .location p { font-size: 150%; text-align: center; text-shadow: -4px 3px #234; color: #DEF; border-radius: 4px; padding-top: 8px; font-family: 'Mega Man 6 Stats'; }
 
