@@ -194,10 +194,6 @@ WitchArrietty: Calm yourself! There can be a backdoor exit or something. Besides
 
 UlalaMolly: Oh, yeah...
 
-WitchArrietty: 
-
-OniSilver:
-
 MYSTERIOUS VOICE: **Kyeh Heh Heh!!**
 
 UlalaMolly Shocked: Zoinks!
