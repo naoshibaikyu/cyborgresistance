@@ -4,6 +4,7 @@ body  {
   background-image: url("https://naoshibaikyu.github.io/cyborgresistance/assets/images/mugshots/arriettyneutral.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
+  color: #FDB;
 	}
   
 .dialogue img {
@@ -46,16 +47,6 @@ body  {
 .actnum{ 
   text-shadow: -4px 3px #234;
   color: #CDE;
-}
- 
-.location p{ 
-  text-shadow: -4px 3px #234;
-  color: #FDB;
-}
-
-.location:before{
-  text-shadow: -2px 1px #234;
-  color: #FDB;
 }
 </style>
 </head>
