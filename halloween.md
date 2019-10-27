@@ -1,11 +1,4 @@
-<head>
-<style>
-.halloween {
-  background-color: orange;
-  color: white;
-}
-</style>
-</head>
+
 
 EpStart
 
