@@ -31,12 +31,12 @@ body  {
 
 .epnum{ 
   text-shadow: -2px 1px #424;
-  color: #BCD;
+  color: #FFB070;
 }
 
 .eptitle p{ 
   text-shadow: -3px 2px #424;
-  color: #FDB;
+  color: #FFB070;
 }
 
 .author p{ 
