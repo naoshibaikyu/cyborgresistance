@@ -5,6 +5,7 @@ body  {
   background-repeat: no-repeat;
   background-attachment: fixed;
   color: #FDB;
+  background: #180818;
 	}
   
 .dialogue img {
