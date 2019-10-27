@@ -7,7 +7,7 @@ body  {
 	}
   
 .dialogue img {
-    border: 1px solid #909;
+    border: 1px solid #FFB070;
     background-color: #111; 
 }
 
@@ -16,7 +16,7 @@ body  {
 }
 
 .dialogue profilename{ 
-    color: #CDE;
+    color: #FFB070;
     text-shadow: black -2px 1px;
 }
 
@@ -35,7 +35,7 @@ body  {
 
 .eptitle p{ 
   text-shadow: -3px 2px #234;
-  color: #DEF;
+  color: #FDB;
 }
 
 .author p{ 
@@ -50,12 +50,12 @@ body  {
  
 .location p{ 
   text-shadow: -4px 3px #234;
-  color: #DEF;
+  color: #FDB;
 }
 
 .location:before{
   text-shadow: -2px 1px #234;
-  color: #DEF;
+  color: #FDB;
 }
 </style>
 </head>
