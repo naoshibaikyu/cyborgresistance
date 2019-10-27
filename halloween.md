@@ -18,7 +18,7 @@ body  {
 
 .dialogue profilename{ 
     color: #FFB070;
-    text-shadow: #424 -2px 1px;
+    text-shadow: #202 -2px 1px;
 }
 
 .narration p{ 
