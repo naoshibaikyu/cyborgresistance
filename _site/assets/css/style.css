@@ -304,11 +304,11 @@ img#double { image-rendering: optimizeSpeed; /* STOP SMOOTHING, GIVE ME SPEED  *
 
 .actnum { font-size: 200%; text-align: center; text-shadow: -4px 3px #234; color: #CDE; width: 98%; font-family: 'Mega Man 6 Stats'; }
 
-.location { background-image: url("../../../cyborgresistance/assets/images/misc/cobaltcity.png"); image-rendering: crisp-edges; image-rendering: -moz-crisp-edges; /* Firefox */ image-rendering: -o-crisp-edges; /* Opera */ image-rendering: -webkit-optimize-contrast; /* Webkit (non-standard naming)*/ -ms-interpolation-mode: nearest-neighbor; /* IE (non-standard property) */ margin-bottom: 20px; max-width: 1280px; border-radius: 4px; padding-left: 8px; width: 98%; height: 96px; text-align: center; border: 2px solid #BCD; border-radius: 8px; }
+.location { background-image: url("../../../cyborgresistance/assets/images/misc/cobaltcity.png"); image-rendering: crisp-edges; image-rendering: -moz-crisp-edges; /* Firefox */ image-rendering: -o-crisp-edges; /* Opera */ image-rendering: -webkit-optimize-contrast; /* Webkit (non-standard naming)*/ -ms-interpolation-mode: nearest-neighbor; /* IE (non-standard property) */ margin-bottom: 20px; max-width: 784px; padding-left: 8px; width: 98%; height: 96px; text-align: center; border-radius: 8px; }
 
-.location p { font-size: 150%; text-align: center; text-shadow: -4px 3px #234; color: #DEF; border-radius: 4px; padding-top: 8px; font-family: 'Mega Man 6 Stats'; }
+.location p { font-size: 150%; text-align: center; text-shadow: -4px 3px #080808; color: #FCFCFC; border-radius: 4px; padding-top: 8px; font-family: 'Mega Man 6 Stats'; }
 
-.location:before { font-size: 50%; text-align: center; text-shadow: -2px 1px #234; color: #DEF; border-radius: 4px; font-family: 'Mega Man 6 Stats'; content: "Location"; }
+.location:before { font-size: 50%; text-align: center; text-shadow: -2px 1px #080808; color: #FCFCFC; border-radius: 4px; font-family: 'Mega Man 6 Stats'; content: "Location"; }
 
 .EpButtons { -moz-box-shadow: 1px 1px 2px 0px #9fb4f2; -webkit-box-shadow: 1px 1px 2px 0px #9fb4f2; box-shadow: 1px 1px 2px 0px #9fb4f2; background-color: #5888e8; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; display: inline-block; cursor: pointer; color: #ffffff; font-family: Verdana; font-size: 16px; padding: 7px 11px; text-decoration: none; text-shadow: 1px 1px 1px #283966; position: fixed; }
 

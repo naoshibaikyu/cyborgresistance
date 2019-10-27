@@ -14,21 +14,27 @@ EpStart
 
 @LOCATIONlightslab: DR. LIGHT'S LAB
 
-Hornet0Glare: We're still working on this site. Go away!
+Molly: 
+
+BupMan: 
+
+Hornet0 Glare: We're still working on this site. Go away!
 
 Honey: Hey, don't be rude to our guests!
 
-GalaxyHappy: Yeah! Let's welcome them to our forums while things are being set up!
+Galaxy Happy: Yeah! Let's welcome them to our forums while things are being set up!
 
-Magma0Happy: That's right! [Join our forums!](http://cyborgresistance.proboards.com/)
+Magma0 Happy: That's right! [Join our forums!](http://cyborgresistance.proboards.com/)
 
 Galaxy0: Huh?
 
-PlugAnnoyed: What the helllll are you guys doing in my townnnn...
+Plug Annoyed: What the helllll are you guys doing in my townnnn...
 
 Arrietty: Playing
 
 Molly: Playing.
+
+BupMan: hey
 
 EpFin
 

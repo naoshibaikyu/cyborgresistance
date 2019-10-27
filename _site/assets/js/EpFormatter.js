@@ -1,10 +1,14 @@
 insertDivs();
-insertMugshots();
+//insertMugshots();
 
 //Replace all p tags with div class=dialogue tags
 function insertDivs()
 {
 	var locationDirectory = "../../../cyborgresistance/assets/images/locations/";
+	var mugshotDirectory = "../../../cyborgresistance/assets/images/mugshots/";
+	var json = getJsonData();
+	var characters = json.names;
+	var emotes = json.emotes;
 
 	document.body.innerHTML = document.body.innerHTML.replace("<p>EpStart</p>", "<div id='ep'>");
 	document.body.innerHTML = document.body.innerHTML.replace("<p>EpFin</p>", "</div>");
@@ -52,6 +56,33 @@ function insertDivs()
 	    else
 	    {
 			div.className = "dialogue";
+			var speaker = line.innerHTML.substr(0, line.innerHTML.indexOf(':')).toLowerCase();
+			var name = speaker;
+			var emote = "neutral"
+
+			if (speaker.indexOf(' ') > -1)
+			{
+				name = speaker.substr(0, speaker.indexOf(' '));
+				emote = speaker.substr(speaker.indexOf(' ')+1, speaker.length);
+			}
+
+			var emoteIndex = emotes.indexOf(emote);
+			var displayname = line.innerHTML.substr(0, line.innerHTML.indexOf(':')).toLowerCase();
+			var imagePath = "";
+
+			if (name in characters)
+			{
+				displayname = characters[name].displayName;
+
+				if (characters[name].imagePathPrefix)
+					imagePath = "<img id=double src=" + mugshotDirectory + characters[name].imagePathPrefix + emotes[emoteIndex] + ".png>"; 
+			}
+
+
+			var replace =  imagePath + " <p><profilename>" + displayname + "</profilename></br>";
+			find = new RegExp(speaker + ":", "gi");
+			line.innerHTML = line.innerHTML.replace(find, replace);	
+			div.innerHTML = line.innerHTML;
 		}
 		
 		// Put story text in between divs
@@ -60,48 +91,52 @@ function insertDivs()
 			line.innerHTML = line.innerHTML.substr(line.innerHTML.indexOf(':') + 1);
 		}
 
-	    //Surround inner HTML with p tags
-	    p.innerHTML = line.innerHTML;
-	    div.innerHTML = p.outerHTML;
+		//Surround inner HTML with p tags
+		if (div.className != "dialogue")
+		{
+			p.innerHTML = line.innerHTML;
+			div.innerHTML = p.outerHTML;
+		}
+	    	
 
 	    line.parentNode.replaceChild(div, line);
 	}
 }
 
-function insertMugshots(json)
-{
-	var directory = "../../../cyborgresistance/assets/images/mugshots/";
-	var json = getJsonData();
-	var characters = json.names;
-	var emotes = json.emotes;
-	//TODO: make it work with brackets and spaces between the name and emote
-	//TODO: don't do a find/replace, do it line by line in the div checker
-	//Look at all name/emote combinations
-	for (var characterKey in characters)
-	{
-		for (var emoteKey in emotes)
-		{
-			var emoteSuffix = emotes[emoteKey];
-			if (emotes[emoteKey] === "neutral")
-				emoteSuffix = "";
-			var str = "<p>" + characterKey + emoteSuffix + ":";
-			var displayname = characters[characterKey].displayName;
-			var imagePath = directory + characters[characterKey].imagePathPrefix + emotes[emoteKey] + ".png"; 
-			var replace = "<img id=double src=" + imagePath + "> <p><profilename>" + displayname + "</profilename></br>";
-			var find = new RegExp(str, "gi");
-			//TODO: check and see if replace path exists, if not, bold name and continue, else...
-			document.body.innerHTML = document.body.innerHTML.replace(find, replace);	
+// function insertMugshots(json)
+// {
+// 	var directory = "../../../cyborgresistance/assets/images/mugshots/";
+// 	var json = getJsonData();
+// 	var characters = json.names;
+// 	var emotes = json.emotes;
+// 	//TODO: make it work with brackets and spaces between the name and emote
+// 	//TODO: don't do a find/replace, do it line by line in the div checker
+// 	//Look at all name/emote combinations
+// 	for (var characterKey in characters)
+// 	{
+// 		for (var emoteKey in emotes)
+// 		{
+// 			var emoteSuffix = emotes[emoteKey];
+// 			if (emotes[emoteKey] === "neutral")
+// 				emoteSuffix = "";
+// 			var str = "<p>" + characterKey + emoteSuffix + ":";
+// 			var displayname = characters[characterKey].displayName;
+// 			var imagePath = directory + characters[characterKey].imagePathPrefix + emotes[emoteKey] + ".png"; 
+// 			var replace = "<img id=double src=" + imagePath + "> <p><profilename>" + displayname + "</profilename></br>";
+// 			var find = new RegExp(str, "gi");
+// 			//TODO: check and see if replace path exists, if not, bold name and continue, else...
+// 			document.body.innerHTML = document.body.innerHTML.replace(find, replace);	
 			
-			// TODO: Remove this - temp hack to allow spaces in between name and emote
-			str = "<p>" + characterKey + " " + emoteSuffix + ":";
-			find = new RegExp(str, "gi");
-			document.body.innerHTML = document.body.innerHTML.replace(find, replace);	
-		}
-	}
+// 			// TODO: Remove this - temp hack to allow spaces in between name and emote
+// 			str = "<p>" + characterKey + " " + emoteSuffix + ":";
+// 			find = new RegExp(str, "gi");
+// 			document.body.innerHTML = document.body.innerHTML.replace(find, replace);	
+// 		}
+// 	}
 
-	//Format
-	document.body.style.fontSize = "medium";
-}
+// 	//Format
+// 	document.body.style.fontSize = "medium";
+// }
 
 // Showdown markdown functionality
 
@@ -130,6 +165,8 @@ function pageTurn(sourceDiv)
 function getJsonData() {
 	return ({
 		"names": {
+//Cyborg Resistance
+	//Normal Form	
 			"concrete": {
 				"displayName": "Concritter",
 				"imagePathPrefix": "concrete"
@@ -166,6 +203,7 @@ function getJsonData() {
 				"displayName": "Splash Man",
 				"imagePathPrefix": "splash"
 			},
+	//Human Forms
 			"arrietty": {
 				"displayName": "Arrietty",
 				"imagePathPrefix": "arrietty"
@@ -178,6 +216,7 @@ function getJsonData() {
 				"displayName": "Silver Dime",
 				"imagePathPrefix": "silver"
 			},
+	//Universe 0
 			"magma0": {
 				"displayName": "Magma Man",
 				"imagePathPrefix": "classiccr/magma0"
@@ -198,51 +237,65 @@ function getJsonData() {
 				"displayName": "Plug Man",
 				"imagePathPrefix": "classiccr/plug0"
 			},
+			
+//Supporting Characters
+	//Narrator
 			"narrator": {
 				"displayName": "Narrator",
 				"imagePathPrefix": "narrator"
 			},
+	//Light and Co.
 			"light": {
 				"displayName": "Dr. Light",
 				"imagePathPrefix": "lightcrew/light"
 			},
+			
+	//Wily and Co.
 			"wily": {
 				"displayName": "Dr. Wily",
 				"imagePathPrefix": "wilycrew/wily"
 			},
+//Other Teams
+	//Seven Mercenaries
 			"quint": {
 				"displayName": "Quint",
 				"imagePathPrefix": "7mercs/quint"
 			},
-			"witchArrietty": {
+//Seasonal Epilogues
+	//Halloween Special
+			"witcharrietty": {
 				"displayName": "Arrietty",
 				"imagePathPrefix": "seasonal/witcharri"
 			},
-			"ulalaMolly": {
+			"ulalamolly": {
 				"displayName": "Molly",
 				"imagePathPrefix": "seasonal/ulalamolly"
 			},
-			"oniSilver": {
+			"onisilver": {
 				"displayName": "Silver Dime",
 				"imagePathPrefix": "seasonal/onisilver"
 			},
-			"ghostPast": {
+			"spookyvoice": {
+				"displayName": "Mysterious Voice",
+			},
+	//Christmas Special
+			"ghostpast": {
 				"displayName": "Ghost of Christmas Past",
 				"imagePathPrefix": "seasonal/ghostpast"
 			},
-			"ghostPresent": {
+			"ghostpresent": {
 				"displayName": "Ghost of Christmas Present",
 				"imagePathPrefix": "seasonal/ghostpresent"
 			},
-			"ghostFuture": {
+			"ghostfuture": {
 				"displayName": "Ghost of Christmas Future",
 				"imagePathPrefix": "seasonal/ghostfuture"
 			},
-			"pastHornet": {
+			"pasthornet": {
 				"displayName": "Hornet Man (Past)",
 				"imagePathPrefix": "seasonal/pasthornet"
 			},
-			"futureHornet": {
+			"futurehornet": {
 				"displayName": "Hornet Man (Future)",
 				"imagePathPrefix": "seasonal/futurehornet"
 			},
