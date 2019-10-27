@@ -4,7 +4,12 @@ body  {
   background-image: url("https://naoshibaikyu.github.io/cyborgresistance/assets/images/mugshots/arriettyneutral.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
-}
+	}
+  
+  .dialogue img {
+    border: 1px solid #909;
+    background-color: #111; 
+	}
 </style>
 </head>
 
