@@ -18,7 +18,7 @@ body  {
 
 .dialogue profilename{ 
     color: #FFB070;
-    text-shadow: black -2px 1px;
+    text-shadow: #424 -2px 1px;
 }
 
 .narration p{ 
@@ -30,23 +30,23 @@ body  {
 }
 
 .epnum{ 
-  text-shadow: -2px 1px #234;
+  text-shadow: -2px 1px #424;
   color: #BCD;
 }
 
 .eptitle p{ 
-  text-shadow: -3px 2px #234;
+  text-shadow: -3px 2px #424;
   color: #FDB;
 }
 
 .author p{ 
-  text-shadow: -2px 1px #234;
-  color: #BCD;
+  text-shadow: -2px 1px #424;
+  color: #FFB070;
 }
 
 .actnum{ 
-  text-shadow: -4px 3px #234;
-  color: #CDE;
+  text-shadow: -4px 3px #424;
+  color: #FFB070;
 }
 </style>
 </head>
