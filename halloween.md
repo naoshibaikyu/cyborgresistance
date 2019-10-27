@@ -1,3 +1,12 @@
+<head>
+<style>
+body  {
+  background-image: url("https://naoshibaikyu.github.io/cyborgresistance/assets/images/mugshots/arriettyneutral.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+</style>
+</head>
 
 EpStart
 
