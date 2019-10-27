@@ -1,5 +1,4 @@
-
-
+<div class="wrapper">
 EpStart
 
 <!-- Epilogue Info -->
@@ -249,6 +248,8 @@ MYSTERIOUS VOICE: Correct! I was saving this for a certain robot boy, but you th
 @LOCATIONcastle: MYSTERIOUS CASTLE
 
 %[Several parts of Act 4 leading up to the confrontation goes here]
+</div>
+
 
 
 
