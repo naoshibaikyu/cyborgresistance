@@ -4,7 +4,7 @@ EpStart
 
 <!-- Epilogue Info -->
  
-<div class="halloween">@EPNUM: Halloween Special '19
+@EPNUM: Halloween Special '19
 
 @TITLE: 
 
@@ -249,8 +249,6 @@ MYSTERIOUS VOICE: Correct! I was saving this for a certain robot boy, but you th
 @LOCATIONcastle: MYSTERIOUS CASTLE
 
 %[Several parts of Act 4 leading up to the confrontation goes here]
-</div>
-
 
 
 
