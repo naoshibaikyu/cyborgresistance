@@ -6,10 +6,57 @@ body  {
   background-attachment: fixed;
 	}
   
-  .dialogue img {
+.dialogue img {
     border: 1px solid #909;
     background-color: #111; 
-	}
+}
+
+.dialogue p{  
+    background: #313;
+}
+
+.dialogue profilename{ 
+    color: #CDE;
+    text-shadow: black -2px 1px;
+}
+
+.narration p{ 
+  background: #313;
+}
+
+.description p{ 
+  background: #313;
+}
+
+.epnum{ 
+  text-shadow: -2px 1px #234;
+  color: #BCD;
+}
+
+.eptitle p{ 
+  text-shadow: -3px 2px #234;
+  color: #DEF;
+}
+
+.author p{ 
+  text-shadow: -2px 1px #234;
+  color: #BCD;
+}
+
+.actnum{ 
+  text-shadow: -4px 3px #234;
+  color: #CDE;
+}
+ 
+.location p{ 
+  text-shadow: -4px 3px #234;
+  color: #DEF;
+}
+
+.location:before{
+  text-shadow: -2px 1px #234;
+  color: #DEF;
+}
 </style>
 </head>
 
