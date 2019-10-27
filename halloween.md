@@ -210,7 +210,7 @@ WitchArrietty: I'm 26 thank you very much!
 
 Molly: And I'm only 21!
 
-OniSilver Angry: Age is of no relevence in this situation! **[gets in his battle stance]** Show your face, fearsome foe.
+OniSilver Angry: Our age is of no relevence! **[gets in his battle stance]** Show your face, fearsome foe.
 
 EpFin
 
