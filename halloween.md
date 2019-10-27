@@ -20,7 +20,7 @@ Arrietty: Pleaasssee?
 Light: No.
 
 Arrietty: Come on!!
-<div class="wrapper">
+
 Light: **[sigh]** I said no, it means no, Arrietty.
 
 Arrietty: Seriously, what's the problem?
@@ -248,8 +248,6 @@ MYSTERIOUS VOICE: Correct! I was saving this for a certain robot boy, but you th
 @LOCATIONcastle: MYSTERIOUS CASTLE
 
 %[Several parts of Act 4 leading up to the confrontation goes here]
-</div>
-
 
 
 
