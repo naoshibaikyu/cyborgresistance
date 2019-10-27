@@ -194,7 +194,7 @@ WitchArrietty: Calm yourself! There can be a backdoor exit or something. Besides
 
 UlalaMolly: Oh, yeah...
 
-MYSTERIOUS VOICE: **Kyeh Heh Heh!!**
+MYSTERIOUS VOICE: **Kyeh Heh Heh!!** What do we have here?
 
 UlalaMolly Shocked: Zoinks!
 
@@ -202,11 +202,45 @@ WitchArrietty: Jinkies!
 
 MYSTERIOUS VOICE: Do I hear yet another bunch of foolish kids trespassing my domain?
 
-WitchArrietty: I'm 26 thank you very much!
+WitchArrietty: Kids? I'm 26 thank you very much!
 
-Molly: And I'm only 21!
+UlalaMolly: And I'm only 21!
 
 OniSilver Angry: Our age is of no relevence! **[gets in his battle stance]** Show your face, fearsome foe.
+
+MYSTERIOUS VOICE: **Kyeh Heh Heh Hehhhhhh!!** Foolish humans! You cannot stand up to the might of my guardians.
+
+WitchArrietty: Sure, we can. And we can also kick your ass no problem, either.
+
+MYSTERIOUS VOICE: **Kyeehhh!!** A bunch of cocky kids thinking they can take on an entire castle of traps and all sorts of horrors. Heard it all before for years!
+
+WitchArrietty: Pfft, please. That's nothing.
+
+UlalaMolly Smug: Yeah, should we tell him?
+
+OniSilver Happy: We can transform into our cyborgnetic forms as we please.
+
+UlalaMolly Happy: We're the Cyborg Resistance after all!
+
+MYSTERIOUS VOICE: Cyber Resistance?! Oh! **Kyeh Ha Ha Ha!!** I've heard of you. My master would be most pleased if I've captured you all! But before I go on...
+
+%The cieling aboves them drops a little orb shaped object with its lights flickering, growing brighter right before flashing the entire room for a moment. Tons of sparks flying around from the orb's source location. 
+
+UlalaMolly Shocked: Uh, what was even that?
+
+WitchArrietty: A dud? A flashbang?
+
+OniSilver Shocked: ...! I-I can't transform into Splash Man.
+
+WitchArrietty: Wait, really?
+
+WitchArrietty: W-What the?! What gives?! I can't transform either!
+
+UlalaMolly Shocked: You think he dropped an EPM bomb of some sorts on us?!
+
+MYSTERIOUS VOICE: Correct! I was saving this for a certain robot boy, but you three? This will do! Your powers are all disabled for hours, think you can survive my castle until then? I shall be waiting on my throne. So until then, farewell! **Kyeh Heh Heh!!**
+
+
 
 EpFin
 
