@@ -1,8 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.cities {
+  background-color: orange;
+  color: white;
+}
+</style>
+</head>
+<body>
+
 EpStart
 
 <!-- Epilogue Info -->
  
-@EPNUM: Halloween Special '19
+<div class="cities">@EPNUM: Halloween Special '19
 
 @TITLE: 
 
@@ -247,6 +259,8 @@ MYSTERIOUS VOICE: Correct! I was saving this for a certain robot boy, but you th
 @LOCATIONcastle: MYSTERIOUS CASTLE
 
 %[Several parts of Act 4 leading up to the confrontation goes here]
+</div>
+
 
 
 
