@@ -240,6 +240,14 @@ UlalaMolly Shocked: You think he dropped an EPM bomb of some sorts on us?!
 
 MYSTERIOUS VOICE: Correct! I was saving this for a certain robot boy, but you three? This will do! Your powers are all disabled for hours, think you can survive my castle until then? I shall be waiting on my throne. So until then, farewell! **Kyeh Heh Heh!!**
 
+%[The Rest of Act 3 goes here]
+
+@ACTNUM: ACT 4
+
+@LOCATIONcastle: MYSTERIOUS CASTLE
+
+%[Several parts of Act 4 leading up to the confrontation goes here]
+
 
 
 EpFin
