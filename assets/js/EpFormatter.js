@@ -275,6 +275,10 @@ function getJsonData() {
 				"displayName": "Silver Dime",
 				"imagePathPrefix": "seasonal/onisilver"
 			},
+			"shademan": {
+				"displayName": "Shade Man",
+				"imagePathPrefix": "wilycrew/shade"
+			},
 	//Christmas Special
 			"ghostpast": {
 				"displayName": "Ghost of Christmas Past",
