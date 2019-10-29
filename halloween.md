@@ -278,31 +278,201 @@ UlalaMolly Happy: We're the Cyborg Resistance after all!
 
 MYSTERIOUS VOICE: Cyber Resistance?! Oh! **Kyeh Ha Ha Ha!!** I've heard of you. My master would be most pleased if I've captured you all! But before I go on...
 
-%The cieling aboves them drops a little orb shaped object with its lights flickering, growing brighter right before flashing the entire room for a moment. Tons of sparks flying around from the orb's source location. 
+%Suddenly, the whole room is surrounded in a purple mist, blinding the three and causing them to have a coughing fit. Soon after, the mist fades away into nothing and the room's visibility is cleared up.
 
-UlalaMolly Shocked: Uh, what was even that?
+UlalaMolly Shocked: Uh, what was that all about?!
 
-WitchArrietty: A dud? A flashbang?
+%[Something something, they're cursed and they can't transform into their CR forms. All of that will be written here along with the the rest of Act 3.]
 
-OniSilver Shocked: ...! I-I can't transform into Splash Man.
-
-WitchArrietty: Wait, really?
-
-WitchArrietty: W-What the?! What gives?! I can't transform either!
-
-UlalaMolly Shocked: You think he dropped an EPM bomb of some sorts on us?!
-
-MYSTERIOUS VOICE: Correct! I was saving this for a certain robot boy, but you three? This will do! Your powers are all disabled for hours, think you can survive my castle until then? I shall be waiting on my throne. So until then, farewell! **Kyeh Heh Heh!!**
-
-%[The Rest of Act 3 goes here]
-
-@ACTNUM: ACT 4
+@ACTNUM: ACT 4 (or 5)
 
 @LOCATIONcastle: MYSTERIOUS CASTLE
 
-%[Several parts of Act 4 leading up to the confrontation goes here]
+%With Molly's friends kidnapped, she has braved through the haunted castle alone. With some newfound courage she gained throughout the journey, she finally reaches to the final room where the master of the castle awaits.
 
+UlalaMolly Sad: Okay, Molly. You can do this. This is the final confrontation... You got this far. Nothing can stop you now...
 
+%Molly finally reaches the end of the stairway and sees the villainous vampire sitting on their throne, drinking from what it appears to be blood in a wine glass.
+
+UlalaMolly Angry: This is the monster that took my friends.. and their lives depend on me! W-what would Arrietty do if she was in my position...?
+
+%Molly enters into the room and immediately points at the vampire.
+
+UlalaMolly Annoyed: Die Monster! You don't belong in the world!
+
+%UlalaMolly Shocked: (Oh no, definitely NOT that!)
+
+ShadeMan: **[amused]** It was not by *my* hand that I'm once again given flesh. I was called here by *humans* who wish to pay me tribute.
+
+UlalaMolly Annoyed: (...Roll with it.)
+
+UlalaMolly: "Tribute"?! You steal men's souls, and make them your slaves!
+
+ShadeMan: What is a man?! **[gets hit in the face with a plastic whip, he drops his wine and it shatters on the floor spilling tomato juice everywhere]** ...
+
+ShadeMan Annoyed: What was that for?!
+
+UlalaMolly Angry: No, no, no! You did it wrong and got too ahead of the script, let's start over!
+
+ShadeMan Shocked: Fine, let's- wait! MY TOMATO JUICE! NO! **[looks around frantically, then starts licking the tomato juice off the floor]**
+
+UlalaMolly Annoyed: ...Gross.
+
+ShadeMan Annoyed: Look at what you've done to my tomato juice! That was my last glass! Grrr... You little brat. Kyeh... I'll...
+
+UlalaMolly Annoyed: Should've memorized the script!
+
+ShadeMan Scary: Enough talk! **[eyes glows red as he lunges towards Molly]]** Have at you!
+
+UlalaMolly Shocked: EEK!!
+
+%CHOMP!!
+
+UlalaMolly Shocked: ...
+
+ShadeMan Scary: ...
+
+ShadeMan Shocked: ***DSKJFAKJEWGKDSBPKDLEGP!! KYEHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!*** *GARLIC?! UAUGHJHJGKFLKGKLB* **[falls over all weakened]** *MY ENTIRE TEETH SUNK INTO GARLIC. WHY?! WHY DID WILY PROGRAM THIS WEAKNESS?! AUGH BLEHCK.*
+
+UlalaMolly Smug: Ha! I knew even robot vampires would be weak to my garlic shield!
+
+ShadeMan Annoyed: **[gagging hard]** You little brat! How did you even get that?! And *why* is it a shield, of all things?!
+
+UlalaMolly Smug: And they think I'm over prepared.
+
+WitchArrietty: **[is in a cage that is hanging from the cieling]** Give me a break! It was a pain carrying that bag to the car!
+
+UlalaMolly Shocked: Arri?! You're alive!
+
+UlalaMolly Happy: *YOU'RE ALIVE!*
+
+OniSilver: **[also in a cage]** That we are. Seems we have underestimated our foe, our apologies.
+
+UlalaMolly Happy: Fortunately, I've brought just about *every* monster weakness I can think of in that bag just for our safety!
+
+WitchArrietty: You told me it was full of candy, you liar!
+
+WitchArrietty: ...But I'm glad you've lied. I would've tossed the bag out if I were to find out sooner and this situation would've ended up nastier!
+
+UlalaMolly Sad: **[unlocking the cages, freeing the two]** Yeah, yeah. Next time let's choose a less shady location.
+
+ShadeMan Annoyed: **[mostly recovered]** Kyeh... Your decision to make a fool out of me is your ultimate demise, brat.
+
+UlalaMolly Smug: It's three against one now, Shade Man.
+
+WitchArrietty: You're finished!
+
+OniSilver: I would not assume with such haste, our state leaves us very vunerable.
+
+UlalaMolly Shocked: Eep, that's right! My bad.
+
+ShadeMan: **Kyeh Heh Heh!!** My spell renders you all hopeless against me. And now I'm done messing with you brats. **[an eerie aura slowly forms around him]**
+
+WitchArrietty: Molly, do you have anything else?!
+
+UlalaMolly Shocked: **[frantically going through the bag]** There gotta be another garlic, where did I put it!?
+
+ShadeMan Scary: Wily's wishes be damned. I shall end all of your mortal lives instead right now! **[his wings expands and his eyes glows red once again as the red glowy aura intensifies]**
+
+WitchArrietty: We have little time! Throw whatevers in your hands and hope for the best!
+
+UlalaMolly Happy: Aha! **[holds up a glass of Holy Water and quickly throws it at Shade Man]**
+
+SFX: **Kssh! Splash!**
+
+%Unfortunately, it had no effect as it is... really just water in a glass bottle.
+
+WitchArrietty: You dolt, he's water proof!
+
+UlalaMolly Shocked: I-I kinda knew that!
+
+WitchArrietty: ...Might this be a good time to bring up the Laws of Robotics?
+
+OniSilver Angry: Villains don't care about that!
+
+ShadeMan Scary:  **Kyeh Heh Heh Heh!** Pathetic mortals, your struggle makes me pity you, so I shall let you all have your last words. But make it quick...
+
+%As Shade Man gives them time to say their good byes, the entire castle around him begins to quake.
+
+WitchArrietty: molly, i want to say... i love you
+
+UlalaMolly Annoyed: ...We've been dating for months, Arri. We're girlfriends.
+
+WitchArrietty: I know right?? I just can't believe it!!
+
+OniSilver Angry: Brace yourselves for the worst. **[gets in a guarding stance]**
+
+ShadeMan Scary: Farewell, mortals! See you all in *HELL*! **KYAAAAAAAHHHHH HAAAAA-
+
+ShadeMan Shocked: **AHUSGKAGHJKADGG!!?!?** 
+
+%Shade Man's aura suddenly gets cut short, then suddenly and inexplicably he falls to the ground, completely battered.
+
+OniSilver Shocked: ...
+
+WitchArrietty: ...What just happened?
+
+UlalaMolly Shocked: Wasn't me. I had nothing else that would work in the bag!
+
+OniSilver: Not I either!
+
+%A white glowly spring behind where Shade Man was bounces up and down while approaching towards the three.
+
+ShadeMan Damaged: Gah... s-springs. My one true weakness...
+
+UlalaMolly Shocked: U-um... A-A ghost spring?
+
+%The spring morphs into into a menancing ghostly figure.
+
+UlalaMolly Shocked: **A-AAHHHHHHHHHHHHHHHH!! A-A REAL**
+
+WitchArrietty: **[hops excitedly]** Ghost!?
+
+ShadeMan Shocked: WAUGHHHHH!?!?! **[hops off the ground and does a cartoonish run cycle while suspended in mid-air]** I'm out of here!!
+
+%Shade Man zooms right through the window and falls straight down, forgetting to fly.
+
+SFX: **CRASH!!**
+
+WitchArrietty: I can't believe it, Molly! Ghosts really do exist! **[approaches slowly towards it]**
+
+OniSilver Angry: Stand back, Arrietty! **[glares right at the ghostly figure]** Identify yourself.
+
+SpookyGhost: ...
+
+SpookyGhost: Repent...
+
+UlalaMolly Shocked: **[visibly shakened]** AA-AAaaaaa.... R-R-R-Repent...???
+
+SpookyGhost: **[points at the three]** Your three shall repent for your serious misdeeds...
+
+WitchArrietty: Oh no! We've angered the spirits of the graveyard!
+
+SpookyGhost: Your misdeeds...
+
+OniSilver Angry: Get on with it!
+
+SpookyGhost: Was...
+
+%Immediately, the ghost stops glowing right before transforming quickly into a familiar face.
+
+FakeAngry: Making us wait outside for the past 2 hours!
+
+UlalaMolly Shocked: **[faints]**
+
+WitchArrietty: Aw man... I thought you were a real ghost...
+
+FakeSnicker: You all should've seen the look on your faces!
+
+Fake: But seriously! When's the party starting? And who was that vampire-looking guy that ran by? Is he a friend of yours? Were you all partying without us?!
+
+OniSilver Happy: No, the party has just started.
+
+WitchArrietty: Yeah! It's one spooky of a place for it, right Molly?
+
+WitchArrietty: ...Molly?
+
+FakeSnicker: **[giggles at the fainted girl]** Hehe, well that's what we call a halloween scare!
 
 EpFin
 
