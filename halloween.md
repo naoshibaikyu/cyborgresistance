@@ -300,7 +300,7 @@ UlalaMolly Angry: This is the monster that took my friends.. and their lives dep
 
 UlalaMolly Annoyed: Die Monster! You don't belong in the world!
 
-%UlalaMolly Shocked: (Whoops! Definitely not that!)
+UlalaMolly Shocked: (Whoops! Definitely not that!)
 
 ShadeMan: **[amused]** It was not by *my* hand that I'm once again given flesh. I was called here by *humans* who wish to pay me tribute.
 

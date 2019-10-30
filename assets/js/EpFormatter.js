@@ -279,6 +279,10 @@ function getJsonData() {
 				"displayName": "Shade Man",
 				"imagePathPrefix": "wilycrew/shade"
 			},
+			"spookyghost:: {
+				"displayName": "GHOST",
+				"imagePathPrefix": "seasonal/GHOST"
+			},
 	//Christmas Special
 			"ghostpast": {
 				"displayName": "Ghost of Christmas Past",
