@@ -456,13 +456,13 @@ SpookyGhost: Was...
 
 %Immediately, the ghost stops glowing right before transforming quickly into a familiar face.
 
-FakeAngry: Making us wait outside for the past 2 hours!
+Fake Angry: Making us wait outside for the past 2 hours!
 
 UlalaMolly Shocked: **[faints]**
 
 WitchArrietty Sad: Aw man... I thought you were a real ghost...
 
-FakeSnicker: You all should've seen the look on your faces!
+Fake Snicker: You all should've seen the look on your faces!
 
 Fake: But seriously! When's the party starting? And who was that vampire-looking guy that ran by? Is he a friend of yours? Were you all partying without us?!
 
@@ -472,7 +472,7 @@ WitchArrietty Happy: Yeah! It's one spooky of a place for it, right Molly?
 
 WitchArrietty: ...Molly?
 
-FakeSnicker: **[giggles at the fainted girl]** Hehe, well that's what we call a halloween scare!
+Fake Snicker: **[giggles at the fainted girl]** Hehe, well that's what we call a halloween scare!
 
 EpFin
 
