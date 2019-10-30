@@ -60,7 +60,7 @@ EpStart
 
 @TITLE: 
 
-@AUTHOR: By WitchArrietty and UlalaMolly
+@AUTHOR: By Arrietty and Molly
 
 <!-- Epilogue -->
 
@@ -104,7 +104,7 @@ Arrietty Smug: Oh hell no, I am so down for that idea actually!
 
 Molly Happy: Great! Let's gather up a few folks and search for a scary party location, then we can party there!
 
-Arrietty Happy: I have someone in mind already. Hey, OniSilver!
+Arrietty Happy: I have someone in mind already. Hey, Silver!
 
 %Silver Dime splashes out of the Punch Bowl.
 
@@ -118,7 +118,7 @@ OniSilver Happy: My apologies, Molly. I have been practicing my scare as a fears
 
 Arrietty Smug: It sure seem to have worked on her. **[giggles]**
 
-Arrietty: Anyways, OniSilver… Would you like to help the both of us find a totally spooky place for our party?
+Arrietty: Anyways, Dimey… Would you like to help the both of us find a totally spooky place for our party?
 
 OniSilver Happy: My scouting would provide enough to find us such a place. I'm more than glad to be of your assistance.
 
@@ -132,7 +132,7 @@ Arrietty Happy: Great idea, and I'll ask Roy to drive us. Let's throw us one kil
 
 @LOCATION: ABANDONED ROUTE
 
-%As Dr. Light have disallowed Cyborg Resistance from throwing a party at their place, everyone has agreed that WitchArrietty and co should find a new party location for the whole team. However, Roy Jackson, the team's Magma Man and also their driver, only agrees to help out under the condition the search doesn't take too long as the rest of the team needs to finish their last minute costume shopping.
+%As Dr. Light have disallowed Cyborg Resistance from throwing a party at their place, everyone has agreed that Arrietty and co should find a new party location for the whole team. However, Roy Jackson, the team's Magma Man and also their driver, only agrees to help out under the condition the search doesn't take too long as the rest of the team needs to finish their last minute costume shopping.
 
 WitchArrietty: **[holding her map filled with dozens of locations marked red crosses]** Well, this one has to be it then. Let's stop at this place. **[points at an unmarked cemetary with an abandoned mysterious building]**
 
@@ -168,7 +168,7 @@ UlalaMolly: Don't be silly. I-I was just shocked that there would be a castle ou
 
 Magma0 Annoyed: Now what in the- what's a castle doing out here? Do you folks think it's... *haunted* or somethin'?
 
-WitchArrietty: **[Getting off of the car with UlalaMolly and Silver]** Don't know, but we're going to investigate this place to make sure it's all good.
+WitchArrietty: **[Getting off of the car with Molly and Silver]** Don't know, but we're going to investigate this place to make sure it's all good.
 
 Magma0: Alright, don't get too scared! I’ll come back with the rest of the team when they’re done shopping. Be safe you three!
 
@@ -208,7 +208,7 @@ OniSilver Happy: It was just a simple observation. Nothing more.
 
 UlalaMolly: Oh…
 
-WitchArrietty Annoyed: You're acting awfully strange right now. You don't think there's actually ghosts or the like do you, UlalaMolly? I mean, not that I would complain.
+WitchArrietty Annoyed: You're acting awfully strange right now. You don't think there's actually ghosts or the like do you, Molly? I mean, not that I would complain.
 
 UlalaMolly Happy: Of course not! T-That's not scientific at all! Why would I believe in such silly supernatural non-sense?
 
@@ -216,7 +216,7 @@ WitchArrietty Happy: Oh man, that would be *so* cool though! We'd be having the 
 
 UlalaMolly Sad: **[concerned laughter]** Hahaha… *Really into* the Halloween spirit, Arri?
 
-%Eventually, they've finally reach to the ends of the grave yard and are right at the entrance of the castle. Excitedly, WitchArrietty opens the door and walks right in without much of a concern. Silver Dime follows with caution and then beckons to UlalaMolly who reluctantly enters the aged building.
+%Eventually, they've finally reach to the ends of the grave yard and are right at the entrance of the castle. Excitedly, Arrietty opens the door and walks right in without much of a concern. Silver Dime follows with caution and then beckons to Molly who reluctantly enters the aged building.
 
 WitchArrietty: Well, there it is! Our potential party place!
 
@@ -304,7 +304,7 @@ WitchArrietty Angry: Ugh, I really hate arrogant villains. Especially *cowardly*
 
 OniSilver Angry: ...
 
-%Minutes has past, UlalaMolly, WitchArrietty, and Silver soon see themselves wandering the dingy halls of the creepy castle.
+%Minutes has past, Molly, Arrietty, and Silver soon see themselves wandering the dingy halls of the creepy castle.
 
 UlalaMolly Sad: M-maybe we should just leave...?
 
@@ -400,15 +400,15 @@ OniSilver Annoyed: Let's just press on to the next room.
 
 @LOCATIONcastle: MYSTERIOUS CASTLE
 
-%With UlalaMolly's friends kidnapped, she has braved through the haunted castle alone. With some newfound courage she gained throughout the journey, she finally reaches to the final room where the master of the castle awaits.
+%With Molly's friends kidnapped, she has braved through the haunted castle alone. With some newfound courage she gained throughout the journey, she finally reaches to the final room where the master of the castle awaits.
 
-UlalaMolly Sad: Okay, UlalaMolly. You can do this. This is the final confrontation... You got this far. Nothing can stop you now...
+UlalaMolly Sad: Okay, Molly. You can do this. This is the final confrontation... You got this far. Nothing can stop you now...
 
-%UlalaMolly finally reaches the end of the stairway and sees the villainous vampire sitting on their throne, drinking from what it appears to be blood in a wine glass.
+%Molly finally reaches the end of the stairway and sees the villainous vampire sitting on their throne, drinking from what it appears to be blood in a wine glass.
 
-UlalaMolly Angry: This is the monster that took my friends.. and their lives depend on me! W-what would WitchArrietty do if she was in my position...?
+UlalaMolly Angry: This is the monster that took my friends.. and their lives depend on me! W-what would Arrietty do if she was in my position...?
 
-%UlalaMolly enters into the room and immediately points at the vampire.
+%Molly enters into the room and immediately points at the vampire.
 
 UlalaMolly Annoyed: Die Monster! You don't belong in the world!
 
@@ -434,7 +434,7 @@ ShadeMan Annoyed: Look at what you've done to my tomato juice! That was my last 
 
 UlalaMolly Annoyed: Should've memorized the script!
 
-ShadeMan Scary: Enough talk! **[eyes glows red as he lunges towards UlalaMolly]]** Have at you!
+ShadeMan Scary: Enough talk! **[eyes glows red as he lunges towards Molly]]** Have at you!
 
 UlalaMolly Shocked: EEK!!
 
@@ -480,7 +480,7 @@ UlalaMolly Shocked: Eep, that's right! My bad.
 
 ShadeMan: **Kyeh Heh Heh!!** My spell renders you all hopeless against me. And now I'm done messing with you brats. **[an eerie aura slowly forms around him]**
 
-WitchArrietty Sad: UlalaMolly, do you have anything else?!
+WitchArrietty Sad: Molly, do you have anything else?!
 
 UlalaMolly Shocked: **[frantically going through the bag]** There gotta be another garlic, where did I put it!?
 
@@ -506,7 +506,7 @@ ShadeMan Scary:  **Kyeh Heh Heh Heh!** Pathetic mortals, your struggle makes me 
 
 %As Shade Man gives them time to say their good byes, the entire castle around him begins to quake.
 
-WitchArrietty Sad: UlalaMolly, I've been wanting to say... I love you!
+WitchArrietty Sad: Molly, I've been wanting to say... I love you!
 
 UlalaMolly Annoyed: ...We've been dating for months, Arri. We're girlfriends.
 
@@ -546,9 +546,9 @@ ShadeMan Shocked: WAUGHHHHH!?!?! **[hops off the ground and does a cartoonish ru
 
 SFX: **CRASH!!**
 
-WitchArrietty Happy: I can't believe it, UlalaMolly! Ghosts really do exist! **[approaches slowly towards it]**
+WitchArrietty Happy: I can't believe it, Molly! Ghosts really do exist! **[approaches slowly towards it]**
 
-OniSilver Angry: Stand back, WitchArrietty! **[glares right at the ghostly figure]** Identify yourself.
+OniSilver Angry: Stand back, Arrietty! **[glares right at the ghostly figure]** Identify yourself.
 
 SpookyGhost: ...
 
@@ -580,9 +580,9 @@ Fake: But seriously! When's the party starting? And who was that vampire-looking
 
 OniSilver Happy: No, the party has just started.
 
-WitchArrietty Happy: Yeah! It's one spooky of a place for it, right UlalaMolly?
+WitchArrietty Happy: Yeah! It's one spooky of a place for it, right Molly?
 
-WitchArrietty: ...UlalaMolly?
+WitchArrietty: ...Molly?
 
 Fake Snicker: **[giggles at the fainted girl]** Hehe, well that's what we call a halloween scare!
 
