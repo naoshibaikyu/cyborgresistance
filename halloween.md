@@ -354,7 +354,7 @@ AstroZombieg: ...
 
 UlalaMolly: ...
 
-Astro Zombieg: Look, I'm a zombie, it's all part of the image, y'know?
+AstroZombieg: Look, I'm a zombie, it's all part of the image, y'know?
 
 UlalaMolly: ...Huh?!?!?
 
@@ -364,7 +364,7 @@ AstroZombieg: Brrraaaiiiinnnnssss-
 
 WitchArrietty: Hey, how long is a robot zombie life anyways?
 
-Astro Zombieg: Ugeeehhhh? **[suddenly collapses]**
+AstroZombieg: Ugeeehhhh? **[suddenly collapses]**
 
 EVERYBODY: ...
 
