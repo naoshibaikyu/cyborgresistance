@@ -60,7 +60,7 @@ EpStart
 
 @TITLE: 
 
-@AUTHOR: By Arrietty and Molly
+@AUTHOR: By WitchArrietty and UlalaMolly
 
 <!-- Epilogue -->
 
@@ -68,63 +68,63 @@ EpStart
 
 @LOCATIONlightslab2: DR. LIGHT'S LAB
 
-Arrietty Sad: Pleaasssee?
+WitchArrietty Sad: Pleaasssee?
 
 Light: No.
 
-Arrietty Annoyed: Come on!!
+WitchArrietty Annoyed: Come on!!
 
-Light: **[sigh]** I said no, it means no, Arrietty.
+Light: **[sigh]** I said no, it means no, WitchArrietty.
 
-Arrietty Annoyed: Seriously, what's the problem?
+WitchArrietty Annoyed: Seriously, what's the problem?
 
 Light: Because last year you all made a gigantic mess and it took poor Auto *weeks* to clean up the place.
 
-Arrietty Angry: What? Now you're just making up excuses, we've only been living with you for a *few months* at most.
+WitchArrietty Angry: What? Now you're just making up excuses, we've only been living with you for a *few months* at most.
 
 Light: Well, the answer is no and that is final.
 
-Arrietty Angry: Alright, fine. **[slams the door on her way out]** Stuck up old geezer, the heck is his problem lately?
+WitchArrietty Angry: Alright, fine. **[slams the door on her way out]** Stuck up old geezer, the heck is his problem lately?
 
-Molly Sad: I take it Dr. Light didn't take it well seeing you setting up the Halloween party, huh?
+UlalaMolly Sad: I take it Dr. Light didn't take it well seeing you setting up the Halloween party, huh?
 
-Arrietty Sad: Yeah, so much effort for that… Guess we can try again next year.
+WitchArrietty Sad: Yeah, so much effort for that… Guess we can try again next year.
 
-Molly Happy: Not so fast! We can find somewhere else to party!
+UlalaMolly Happy: Not so fast! We can find somewhere else to party!
 
-Arrietty: Huh? How should we go about that?
+WitchArrietty: Huh? How should we go about that?
 
-Molly: Easy! We find a really scary looking place and party there. Like a true Halloween party!
+UlalaMolly: Easy! We find a really scary looking place and party there. Like a true Halloween party!
 
-Arrietty: Scary looking place? Like a graveyard? A haunted castle? A haunted graveyard castle?
+WitchArrietty: Scary looking place? Like a graveyard? A haunted castle? A haunted graveyard castle?
 
-Molly Smug: You aren't scared, are you Arri?
+UlalaMolly Smug: You aren't scared, are you Arri?
 
-Arrietty Happy: Oh hell no, I am so down for that idea actually!
+WitchArrietty Smug: Oh hell no, I am so down for that idea actually!
 
-Molly Happy: Great! Let's gather up a few folks and search for a scary party location, then we can party there!
+UlalaMolly Happy: Great! Let's gather up a few folks and search for a scary party location, then we can party there!
 
-Arrietty Happy: I have someone in mind already. Hey, Dimey!
+WitchArrietty Happy: I have someone in mind already. Hey, OniSilver!
 
 %Silver Dime splashes out of the Punch Bowl.
 
-Molly Shocked: **[startled]** *Y-YAGGHHHHHHHHHHHH!!*
+UlalaMolly Shocked: **[startled]** *Y-YAGGHHHHHHHHHHHH!!*
 
 OniSilver: **[all calm and collected]** Greetings. How may I assist you?
 
-Molly Annoyed: **[clutching her chest, calming herself]** N-Next time please have a less startling entrance…
+UlalaMolly Annoyed: **[clutching her chest, calming herself]** N-Next time please have a less startling entrance…
 
-OniSilver Happy: My apologies, Molly. I have been practicing my scare as a fearsome Oni.
+OniSilver Happy: My apologies, UlalaMolly. I have been practicing my scare as a fearsome Oni.
 
-Arrietty Happy: It sure seem to have worked on her. **[giggles]**
+WitchArrietty Smug: It sure seem to have worked on her. **[giggles]**
 
-Arrietty: Anyways, Dimey… Would you like to help the both of us find a totally spooky place for our party?
+WitchArrietty: Anyways, OniSilver… Would you like to help the both of us find a totally spooky place for our party?
 
 OniSilver Happy: My scouting would provide enough to find us such a place. I'm more than glad to be of your assistance.
 
-Molly Happy: Great! I'll rally up the rest of the team.
+UlalaMolly Happy: Great! I'll rally up the rest of the team.
 
-Arrietty Happy: Great idea, and I'll ask Roy to drive us. Let's throw us one killer Halloween Party!
+WitchArrietty Happy: Great idea, and I'll ask Roy to drive us. Let's throw us one killer Halloween Party!
 
 %End of Act 1
 
@@ -132,109 +132,115 @@ Arrietty Happy: Great idea, and I'll ask Roy to drive us. Let's throw us one kil
 
 @LOCATION: ABANDONED ROUTE
 
-%As Dr. Light have disallowed Cyborg Resistance from throwing a party at their place, everyone has agreed that Arrietty and co should find a new party location for the whole team. However, Roy Jackson, the team's Magma Man and also their driver, only agrees to help out under the condition the search doesn't take too long as the rest of the team needs to finish their last minute costume shopping.
+%As Dr. Light have disallowed Cyborg Resistance from throwing a party at their place, everyone has agreed that WitchArrietty and co should find a new party location for the whole team. However, Roy Jackson, the team's Magma Man and also their driver, only agrees to help out under the condition the search doesn't take too long as the rest of the team needs to finish their last minute costume shopping.
 
-WitchArrietty: **[holding her map filled with dozens of locations marked red crosses]** Well, this one has to be it then. Let's stop at this place. **[points at an unmarked cemetary with an abandoned mysterious building]**
+WitchWitchArrietty: **[holding her map filled with dozens of locations marked red crosses]** Well, this one has to be it then. Let's stop at this place. **[points at an unmarked cemetary with an abandoned mysterious building]**
 
 Magma0: This is lookin' to be the last stop, alright. The second time we doubled back to the first three stops really drained this thing's juice!
 
-WitchArrietty Sad: Whoops! Sorry that I've gotten a little carried away!
+WitchWitchArrietty Sad: Whoops! Sorry that I've gotten a little carried away!
 
 Magma0 Happy: That's alright, kiddo; this thing was built for racing, it's not quite used to chauffeuring yet. Gonna have to give ol' Cerberus' car battery a tune-up after I drop the others off at the mall.
 
 OniSilver: I take it us three are the only ones prepared ahead of time?
 
-UlalaMolly: I don't see you wearing anything right now, though.
+UlalaUlalaMolly: I don't see you wearing anything right now, though.
 
 OniSilver Happy: Of course I am. I'm an Oni this year.
 
-UlalaMolly Annoyed: …By just gluing two large candy corns on your forehead?
+UlalaUlalaMolly Annoyed: …By just gluing two large candy corns on your forehead?
 
 OniSilver Happy: It is an effective low-cost Halloween costume.
 
-UlalaMolly Annoyed: I see…
+UlalaUlalaMolly Annoyed: I see…
 
 %Soon, the team finally arrives at what is hopefully their ideal destination.
 
-UlalaMolly Happy: Oh! There it is!
+UlalaUlalaMolly Happy: Oh! There it is!
 
-WitchArrietty Shocked: Look at the size of that castle!
+WitchWitchArrietty Shocked: Look at the size of that castle!
 
-UlalaMolly Shocked: C-Castle?! You didn't say there would be an abandoned castle!
+UlalaUlalaMolly Shocked: C-Castle?! You didn't say there would be an abandoned castle!
 
-WitchArrietty: Oh, now are you chickening out?
+WitchWitchArrietty Smug: Oh, now are *you* chickening out?
 
-UlalaMolly: Don't be silly. T-that's awesome! Totally our s-spot!
+UlalaUlalaMolly: Don't be silly. I-I was just shocked that there would be a castle out here!
 
 Magma0 Annoyed: Now what in the- what's a castle doing out here? Do you folks think it's... *haunted* or somethin'?
 
-WitchArrietty: **[Getting off of the car with Molly and Silver]** Don't know, but we're going to investigate this place to make sure it's all good.
+WitchWitchArrietty: **[Getting off of the car with UlalaMolly and Silver]** Don't know, but we're going to investigate this place to make sure it's all good.
 
 Magma0: Alright, don't get too scared! I’ll come back with the rest of the team when they’re done shopping. Be safe you three!
 
 %With that, Roy's car speeds off the scene, leaving the three at a huge graveyard with the castle in its surrounding. Soon, the three walk across the graveyard approaching the castle.
 
-UlalaMolly Sad: **[looking around the surroundings, surveying a very unsettling atmosphere]** This is looking like w-what we've wanted, huh?
+UlalaUlalaMolly Sad: **[looking around the surroundings, surveying a very unsettling atmosphere]** This is looking like w-what we've wanted, huh?
 
-WitchArrietty Happy: **[pumps fist into the air]** Heck yeah! I can already feel a chill down my spine! Are you as excited as I am?
+WitchWitchArrietty Happy: **[pumps fist into the air]** Heck yeah! I can already feel a chill down my spine! Are you as excited as I am?
 
-UlalaMolly Happy: Of course! This was my idea after all! **[smiles hesitantly]**
+UlalaUlalaMolly Happy: Of course! This was my idea after all! **[smiles hesitantly]**
 
-UlalaMolly Sad: …But you know, despite that, this does feel like an amoral idea now that we're in a graveyard.
+UlalaUlalaMolly Sad: …But you know, despite that, this does feel like an amoral idea now that we're in a graveyard.
 
-WitchArrietty: Sure, if we were to party on the graves. That's why the castle caught my eye instead, to party indoors instead!
+WitchWitchArrietty: Sure, if we were to party on the graves. That's why the castle caught my eye instead, to party indoors instead!
 
-UlalaMolly Annoyed: Don't know if it's that much better...
+UlalaUlalaMolly Annoyed: Don't know if it's that much better...
 
 OniSilver: **[surveying the area around himself]** I sense this place has not seen any visitors in a while.
 
-UlalaMolly: Even the worn down castle aside?
+UlalaUlalaMolly: Even the worn down castle aside?
 
 OniSilver: **[nods]** Not a single grave we've passed so far are dated within the past several decades…
 
-UlalaMolly Shocked: **[Reading the year date of each passing tombstone, confirming Silver Dime's claims]** O-oh… How about that?
+UlalaUlalaMolly Shocked: **[Reading the year date of each passing tombstone, confirming Silver Dime's claims]** O-oh… How about that?
 
-WitchArrietty: Oh, good observation! That might be a long abandoned graveyard then.
+WitchWitchArrietty: Oh, good observation! That might be a long abandoned graveyard then.
 
 OniSilver: That is correct.
 
-WitchArrietty Happy: Which means no one's ever around, we can party as long as we want!
+WitchWitchArrietty Happy: Which means no one's ever around, we can party as long as we want!
 
-UlalaMolly Annoyed: Yeahhhh, I don't think that was his point.
+UlalaUlalaMolly Annoyed: Yeahhhh, I don't think that was his point.
 
-WitchArrietty: What was it then?
+WitchWitchArrietty: What was it then?
 
 OniSilver Happy: It was just a simple observation. Nothing more.
 
-UlalaMolly: Oh…
+UlalaUlalaMolly: Oh…
 
-WitchArrietty Annoyed: You're acting awfully strange right now. You don't think there's actually ghosts or the like do you, Molly? I mean, not that I would complain.
+WitchWitchArrietty Annoyed: You're acting awfully strange right now. You don't think there's actually ghosts or the like do you, UlalaMolly? I mean, not that I would complain.
 
-UlalaMolly Happy: Of course not! T-That's not scientific at all! Why would I believe in such silly supernatural non-sense?
+UlalaUlalaMolly Happy: Of course not! T-That's not scientific at all! Why would I believe in such silly supernatural non-sense?
 
-WitchArrietty Happy: Oh man, that would be *so* cool though! We'd be having the Halloween adventure of a life time!
+WitchWitchArrietty Happy: Oh man, that would be *so* cool though! We'd be having the Halloween adventure of a life time!
 
-UlalaMolly Sad: **[concerned laughter]** Hahaha… *Really into* the Halloween spirit, Arri?
+UlalaUlalaMolly Sad: **[concerned laughter]** Hahaha… *Really into* the Halloween spirit, Arri?
 
-%Eventually, they've finally reach to the ends of the grave yard and are right at the entrance of the castle. Excitedly, Arrietty opens the door and walks right in without much of a concern. Silver Dime follows with caution and then beckons to Molly who reluctantly enters the aged building.
+%Eventually, they've finally reach to the ends of the grave yard and are right at the entrance of the castle. Excitedly, WitchArrietty opens the door and walks right in without much of a concern. Silver Dime follows with caution and then beckons to UlalaMolly who reluctantly enters the aged building.
 
-WitchArrietty: Well, there it is! Our potential party place!
+WitchWitchArrietty: Well, there it is! Our potential party place!
 
-UlalaMolly: T-that's great! Looks scary enough for our p-party.
+UlalaUlalaMolly: T-that's great! Looks scary enough for our p-party.
 
-WitchArrietty: Well, we have yet to explore to be sure, but it is promising already!
+WitchWitchArrietty: Well, we have yet to explore to be sure, but it is promising already!
 
-UlalaMolly: Haha. Well, I'm about to head back and wait for everyone else while you-
+UlalaUlalaMolly: Haha. Well, I'm about to head back and wait for everyone else while you-
 
-WitchArrietty Angry: Nuh-uh! You're not cowarding your way out of this! **[slams the door and immediately the door knob falls off and rolls into a hole in the floor]** 
+WitchWitchArrietty Angry: Nuh-uh! You're not cowarding your way out of this! **[slams the door and immediately the door knob falls off and rolls into a hole in the floor]** 
 
-WitchArrietty Shocked: Oops?
+WitchWitchArrietty Shocked: Oops?
 
-UlalaMolly Shocked: W-Wha?! Arri! You've broke our only way out!
+UlalaUlalaMolly Shocked: W-Wha?! Arri! You've broke our only way out!
 
-WitchArrietty Sad: I didn't even slam the door that hard!
+WitchWitchArrietty Sad: I didn't even slam the door that hard!
 
 OniSilver: **[looking around his surroundings]** Hmmm... The age of this place... It seems most unstable. While there may not be any hostile threat, we must still be cautious.
+
+UlalaUlalaMolly Sad: **[frantically looking around for an exit]** All the windows are boarded up too! We're trapped in here!
+
+WitchWitchArrietty: Calm yourself! There can be a backdoor exit or something. Besides, if we reallly need to, we can just transform and blow up the door anyways.
+
+UlalaMolly Sad: Somehow I have an inkling it's not going to be that simple...
 
 %End of Act 2
 
@@ -242,151 +248,257 @@ OniSilver: **[looking around his surroundings]** Hmmm... The age of this place..
 
 @LOCATIONcastle: MYSTERIOUS CASTLE
 
-UlalaMolly Sad: **[frantically looking around for an exit]** All the windows are boarded up too! We're trapped in here!
-
-WitchArrietty: Calm yourself! There can be a backdoor exit or something. Besides, if we reallly need to, we can just transform and blow up the door anyways.
-
-UlalaMolly: Oh, yeah...
-
 MYSTERIOUS VOICE: **Kyeh Heh Heh!!** What do we have here?
 
-UlalaMolly Shocked: Zoinks!
+UlalaUlalaMolly Shocked: Zoinks!
 
-WitchArrietty Shocked: Jinkies!
+WitchWitchArrietty Shocked: Jinkies!
 
 MYSTERIOUS VOICE: Do I hear yet another bunch of foolish kids trespassing my domain?
 
-WitchArrietty Angry: Kids? I'm 26 thank you very much!
+WitchWitchArrietty Angry: Kids? I'm 26 thank you very much!
 
-UlalaMolly Annoyed: And I'm only 21!
+UlalaUlalaMolly Annoyed: And I'm only 21!
 
 OniSilver Angry: Our age is of no relevence! **[gets in his battle stance]** Show your face, fearsome foe.
 
-MYSTERIOUS VOICE: **Kyeh Heh Heh Hehhhhhh!!** Foolish humans! You cannot stand up to the might of my guardians.
+MYSTERIOUS VOICE: **Kyehehehehe!!** Foolish humans! You cannot stand up to the might of my guardians.
 
-WitchArrietty: Sure, we can. And we can also kick your ass no problem, either.
+WitchWitchArrietty: Sure, we can. And we can also kick your ass no problem, either.
 
-MYSTERIOUS VOICE: **Kyeehhh!!** A bunch of cocky kids thinking they can take on an entire castle of traps and all sorts of horrors. Heard it all before for years!
+MYSTERIOUS VOICE: Kyeh? A bunch of cocky kids thinking they can take on an entire castle of traps and all sorts of horrors? Pah! Heard it all before! You all shall be my tonight's meal. Kyehehehehe...
 
-WitchArrietty: Pfft, please. That's nothing.
+WitchWitchArrietty Smug: Pfft, please. That's nothing.
 
-UlalaMolly Smug: Yeah, should we tell him?
+UlalaUlalaMolly Happy: We're the Cyborg Resistance after all!
 
-OniSilver Happy: We can transform into our cyborgnetic forms as we please.
-
-UlalaMolly Happy: We're the Cyborg Resistance after all!
-
-MYSTERIOUS VOICE: Cyber Resistance?! Oh! **Kyeh Ha Ha Ha!!** I've heard of you. My master would be most pleased if I've captured you all! But before I go on...
+MYSTERIOUS VOICE: Cyber Resistance?! Oh! Ohhhh!! I've heard of you. My master would be most pleased if I've captured you all! But before I go on...
 
 %Suddenly, the whole room is surrounded in a purple mist, blinding the three and causing them to have a coughing fit. Soon after, the mist fades away into nothing and the room's visibility is cleared up.
 
-UlalaMolly Shocked: Uh, what was that all about?!
+UlalaUlalaMolly Shocked: Uh, what was that all about?!
 
-%[Something something, they're cursed and they can't transform into their CR forms. All of that will be written here along with the the rest of Act 3.]
+WitchWitchArrietty: Doesn't matter! **[strikes a pose]** Let's show those evil-doers...
+
+OniSilver: **[also striking a pose]** that they shall fear the might of...
+
+UlalaUlalaMolly: **[strikes a pose too]** the Cyborg Resistance!!
+
+%...
+
+WitchWitchArrietty Shocked: How come nothing is happening?
+
+UlalaUlalaMolly Sad: It's not usually this slow... right?
+
+OniSilver Angry: Seems our electronics have been jammed!
+
+UlalaUlalaMolly Sad: Oh no, oh no, oh no, this isn't good!
+
+MYSTERIOUS VOICE: Kyehehe, that's right! That purple mist disabled all your cybernetic abilities! Let's see you Cyber Twerps talk all high and mighty now!
+
+WitchWitchArrietty Angry: Powers or no powers, we're gonna kick your butt, whoever you are!
+
+MYSTERIOUS VOICE: We'll see about that when you're all in such a vunerable state! I wonder what will happen in this thrilling hunt? My minions capturing you and you become my feast or you manage to get past all my minions but STILL become my feast upon entering my throne room.
+
+WitchWitchArrietty Angry: Ugh, I really hate arrogant villains. Especially *cowardly* arrogant villains! Hasn't even told us his name!
+
+OniSilver Angry: ...
+
+%Minutes has past, UlalaMolly, WitchArrietty, and Silver soon see themselves wandering the dingy halls of the creepy castle.
+
+UlalaUlalaMolly Sad: M-maybe we should just leave...?
+
+WitchArrietty: Don't you remember? The door's broken, and all the ground level windows are sealed!
+
+OniSilver: And because our electronics are jammed, we can't break out of here or call for help.
+
+WitchArrietty: We may as well try to fight our way out of here, since it is our only option.
+
+UlalaMolly: Oh, right. O-okay then...
+
+%A few minutes pass, until suddenly...
+
+WitchArrietty: Hey, I think I hear something!
+
+%Suddenly, out of a rickety old door, bursts a zombie!
+
+AstroZombieg: Ggggrrrrrreeehhhhh!!
+
+UlalaMolly: Eek! An Astro Zombieg!!
+
+WitchArrietty Annoyed: How do you even know their name that specifically?
+
+WitchArrietty Angry: But seriously, a zombie? How cliche!
+
+OniSilver Angry: Cliche or not, be on your guard! And don't let it bite you!
+
+%The Astro Zombieg starts shambling towards the three, backing them into a corner!
+
+WitchArrietty Shocked: Oh no! We're cornered!!
+
+AstroZombieg: Mmmmgggrrreeehhhhhh...
+
+UlalaMolly Shocked: A-any ideas on how we deal with this creep?
+
+OniSilver Shocked: I'm still working on that part of the plan!
+
+%The Astro Zombieg continues to corner them!
+
+AstroZombieg: Braaaaaaiiiiiinssss
+
+UlalaMolly: Wait a moment, you're a robot! Why do you want to eat brains? I don't think the ol' grey matter is a particularly efficient fuel for robots.
+
+UlalaMolly Annoyed: And on that note, doesn't "eating the brains out of humans" also severely violate the laws of robotics?
+
+AstroZombieg: ...
+
+UlalaMolly: ...
+
+Astro Zombieg: Look, I'm a zombie, it's all part of the image, y'know?
+
+UlalaMolly: ...Huh?!?!?
+
+%The Astro Zombieg gets even closer!
+
+AstroZombieg: Brrraaaiiiinnnnssss-
+
+WitchArrietty: Hey, how long is a robot zombie life anyways?
+
+Astro Zombieg: Ugeeehhhh? **[suddenly collapses]**
+
+EVERYBODY: ...
+
+WitchArrietty Smug: Well, that answers it.
+
+MYSTERIOUS VOICE: KYEHH? You've already defeated my army of zombies???
+
+OniSilver: We did literally nothing.
+
+UlalaMolly Annoyed: Army?!? More like a wimp! That was pathetic, mysterious creepy voice!
+
+MYSTERIOUS VOICE: Kyeh! There was just one?! There were suppose to be a bunch of them! Where are they!?
+
+%MEANWHILE...
+
+AstroZombiegs: **[Has a bag of party supplies Arrietty has left in the graveyard, they all party til they break apart]**
+
+MYSTERIOUS VOICE: No matter! The next room will provide a much tougher challenge!
+
+MYSTERIOUS VOICE: **KYEH HEH HEH!!!!**
+
+WitchArrietty Annoyed: His laughter is really getting on my nerves.
+
+UlalaMolly Angry: Yeah, it's annoying! Learn another evil laugh! 
+
+UlalaMolly Sad: N-not that I want to hear any c-creepy laughs...
+
+OniSilver Annoyed: Let's just press on to the next room.
+
+
 
 @ACTNUM: ACT 4 (or 5)
 
 @LOCATIONcastle: MYSTERIOUS CASTLE
 
-%With Molly's friends kidnapped, she has braved through the haunted castle alone. With some newfound courage she gained throughout the journey, she finally reaches to the final room where the master of the castle awaits.
+%With UlalaMolly's friends kidnapped, she has braved through the haunted castle alone. With some newfound courage she gained throughout the journey, she finally reaches to the final room where the master of the castle awaits.
 
-UlalaMolly Sad: Okay, Molly. You can do this. This is the final confrontation... You got this far. Nothing can stop you now...
+UlalaUlalaMolly Sad: Okay, UlalaMolly. You can do this. This is the final confrontation... You got this far. Nothing can stop you now...
 
-%Molly finally reaches the end of the stairway and sees the villainous vampire sitting on their throne, drinking from what it appears to be blood in a wine glass.
+%UlalaMolly finally reaches the end of the stairway and sees the villainous vampire sitting on their throne, drinking from what it appears to be blood in a wine glass.
 
-UlalaMolly Angry: This is the monster that took my friends.. and their lives depend on me! W-what would Arrietty do if she was in my position...?
+UlalaUlalaMolly Angry: This is the monster that took my friends.. and their lives depend on me! W-what would WitchArrietty do if she was in my position...?
 
-%Molly enters into the room and immediately points at the vampire.
+%UlalaMolly enters into the room and immediately points at the vampire.
 
-UlalaMolly Annoyed: Die Monster! You don't belong in the world!
+UlalaUlalaMolly Annoyed: Die Monster! You don't belong in the world!
 
-UlalaMolly Shocked: (Whoops! Definitely not that!)
+UlalaUlalaMolly Shocked: (Whoops! Definitely not that!)
 
 ShadeMan: **[amused]** It was not by *my* hand that I'm once again given flesh. I was called here by *humans* who wish to pay me tribute.
 
-UlalaMolly Annoyed: (...Roll with it.)
+UlalaUlalaMolly Annoyed: (...Roll with it.)
 
-UlalaMolly: "Tribute"?! You steal men's souls, and make them your slaves!
+UlalaUlalaMolly: "Tribute"?! You steal men's souls, and make them your slaves!
 
 ShadeMan: What is a man?! **[gets hit in the face with a plastic whip, he drops his wine and it shatters on the floor spilling tomato juice everywhere]** ...
 
 ShadeMan Annoyed: What was that for?!
 
-UlalaMolly Angry: No, no, no! You did it wrong and got too ahead of the script, let's start over!
+UlalaUlalaMolly Angry: No, no, no! You did it wrong and got too ahead of the script, let's start over!
 
 ShadeMan Shocked: Fine, let's- wait! MY TOMATO JUICE! NO! **[looks around frantically, then starts licking the tomato juice off the floor]**
 
-UlalaMolly Annoyed: ...Gross.
+UlalaUlalaMolly Annoyed: ...Gross.
 
 ShadeMan Annoyed: Look at what you've done to my tomato juice! That was my last glass! Grrr... You little brat. Kyeh... I'll...
 
-UlalaMolly Annoyed: Should've memorized the script!
+UlalaUlalaMolly Annoyed: Should've memorized the script!
 
-ShadeMan Scary: Enough talk! **[eyes glows red as he lunges towards Molly]]** Have at you!
+ShadeMan Scary: Enough talk! **[eyes glows red as he lunges towards UlalaMolly]]** Have at you!
 
-UlalaMolly Shocked: EEK!!
+UlalaUlalaMolly Shocked: EEK!!
 
 %CHOMP!!
 
-UlalaMolly Shocked: ...
+UlalaUlalaMolly Shocked: ...
 
 ShadeMan Scary: ...
 
 ShadeMan Shocked: ***DSKJFAKJEWGKDSBPKDLEGP!! KYEHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!*** *GARLIC?! UAUGHJHJGKFLKGKLB* **[falls over all weakened]** *MY ENTIRE TEETH SUNK INTO GARLIC. WHY?! WHY DID WILY PROGRAM THIS WEAKNESS?! AUGH BLEHCK.*
 
-UlalaMolly Smug: Ha! I knew even robot vampires would be weak to my garlic shield!
+UlalaUlalaMolly Smug: Ha! I knew even robot vampires would be weak to my garlic shield!
 
 ShadeMan Annoyed: **[gagging hard]** You little brat! How did you even get that?! And *why* is it a shield, of all things?!
 
-UlalaMolly Smug: And they think I'm over prepared.
+UlalaUlalaMolly Smug: And they think I'm over prepared.
 
-WitchArrietty Angry: **[is in a cage that is hanging from the cieling]** Give me a break! It was a pain carrying that bag to the car!
+WitchWitchArrietty Angry: **[is in a cage that is hanging from the cieling]** Give me a break! It was a pain carrying that bag to the car!
 
-UlalaMolly Shocked: Arri?! You're alive!
+UlalaUlalaMolly Shocked: Arri?! You're alive!
 
-UlalaMolly Happy: *YOU'RE ALIVE!*
+UlalaUlalaMolly Happy: *YOU'RE ALIVE!*
 
 OniSilver: **[also in a cage]** That we are. Seems we have underestimated our foe, our apologies.
 
-UlalaMolly Happy: Fortunately, I've brought just about *every* monster weakness I can think of in that bag just for our safety!
+UlalaUlalaMolly Happy: Fortunately, I've brought just about *every* monster weakness I can think of in that bag just for our safety!
 
-WitchArrietty Angry: You told me it was full of candy, you liar!
+WitchWitchArrietty Angry: You told me it was full of candy, you liar!
 
-WitchArrietty: ...But I'm glad you've lied. I would've tossed the bag out if I were to find out sooner and this situation would've ended up nastier!
+WitchWitchArrietty: ...But I'm glad you've lied. I would've tossed the bag out if I were to find out sooner and this situation would've ended up nastier!
 
-UlalaMolly Sad: **[unlocking the cages, freeing the two]** Yeah, yeah. Next time let's choose a less shady location.
+UlalaUlalaMolly Sad: **[unlocking the cages, freeing the two]** Yeah, yeah. Next time let's choose a less shady location.
 
 ShadeMan Annoyed: **[mostly recovered]** Kyeh... Your decision to make a fool out of me is your ultimate demise, brat.
 
-UlalaMolly Smug: It's three against one now, Shade Man.
+UlalaUlalaMolly Smug: It's three against one now, Shade Man.
 
-WitchArrietty: You're finished!
+WitchWitchArrietty: You're finished!
 
 OniSilver: I would not assume with such haste, our state leaves us very vunerable.
 
-UlalaMolly Shocked: Eep, that's right! My bad.
+UlalaUlalaMolly Shocked: Eep, that's right! My bad.
 
 ShadeMan: **Kyeh Heh Heh!!** My spell renders you all hopeless against me. And now I'm done messing with you brats. **[an eerie aura slowly forms around him]**
 
-WitchArrietty Sad: Molly, do you have anything else?!
+WitchWitchArrietty Sad: UlalaMolly, do you have anything else?!
 
-UlalaMolly Shocked: **[frantically going through the bag]** There gotta be another garlic, where did I put it!?
+UlalaUlalaMolly Shocked: **[frantically going through the bag]** There gotta be another garlic, where did I put it!?
 
 ShadeMan Scary: Wily's wishes be damned. I shall end all of your mortal lives instead right now! **[his wings expands and his eyes glows red once again as the red glowy aura intensifies]**
 
-WitchArrietty Sad: We have little time! Throw whatevers in your hands and hope for the best!
+WitchWitchArrietty Sad: We have little time! Throw whatevers in your hands and hope for the best!
 
-UlalaMolly Happy: Aha! **[holds up a glass of Holy Water and quickly throws it at Shade Man]**
+UlalaUlalaMolly Happy: Aha! **[holds up a glass of Holy Water and quickly throws it at Shade Man]**
 
 SFX: **Kssh! Splash!**
 
 %Unfortunately, it had no effect as it is... really just water in a glass bottle.
 
-WitchArrietty Annoyed: You dolt, he's water proof!
+WitchWitchArrietty Annoyed: You dolt, he's water proof!
 
-UlalaMolly Shocked: I-I kinda knew that!
+UlalaUlalaMolly Shocked: I-I kinda knew that!
 
-WitchArrietty Sad: ...Might this be a good time to bring up the Laws of Robotics?
+WitchWitchArrietty Sad: ...Might this be a good time to bring up the Laws of Robotics?
 
 OniSilver Angry: Villains don't care about that!
 
@@ -394,11 +506,11 @@ ShadeMan Scary:  **Kyeh Heh Heh Heh!** Pathetic mortals, your struggle makes me 
 
 %As Shade Man gives them time to say their good byes, the entire castle around him begins to quake.
 
-WitchArrietty Sad: Molly, I've been wanting to say... I love you!
+WitchWitchArrietty Sad: UlalaMolly, I've been wanting to say... I love you!
 
-UlalaMolly Annoyed: ...We've been dating for months, Arri. We're girlfriends.
+UlalaUlalaMolly Annoyed: ...We've been dating for months, Arri. We're girlfriends.
 
-WitchArrietty Happy: I know right?? I just still can't believe it!!
+WitchWitchArrietty Happy: I know right?? I just still can't believe it!!
 
 OniSilver Angry: Brace yourselves for the worst. **[gets in a guarding stance]**
 
@@ -410,9 +522,9 @@ ShadeMan Shocked: **AHUSGKAGHJKADGG!!?!?**
 
 OniSilver Shocked: ...
 
-WitchArrietty Annoyed: ...What just happened?
+WitchWitchArrietty Annoyed: ...What just happened?
 
-UlalaMolly Shocked: Wasn't me. I had nothing else that would work in the bag!
+UlalaUlalaMolly Shocked: Wasn't me. I had nothing else that would work in the bag!
 
 OniSilver: Not I either!
 
@@ -420,13 +532,13 @@ OniSilver: Not I either!
 
 ShadeMan Damaged: Gah... s-springs. My one true weakness...
 
-UlalaMolly Shocked: U-um... A-A ghost spring?
+UlalaUlalaMolly Shocked: U-um... A-A ghost spring?
 
 %The spring morphs into into a menancing ghostly figure.
 
-UlalaMolly Shocked: **A-AAHHHHHHHHHHHHHHHH!! A-A REAL**
+UlalaUlalaMolly Shocked: **A-AAHHHHHHHHHHHHHHHH!! A-A REAL**
 
-WitchArrietty Shocked: **[hops excitedly]** Ghost!?
+WitchWitchArrietty Shocked: **[hops excitedly]** Ghost!?
 
 ShadeMan Shocked: WAUGHHHHH!?!?! **[hops off the ground and does a cartoonish run cycle while suspended in mid-air]** I'm out of here!!
 
@@ -434,19 +546,19 @@ ShadeMan Shocked: WAUGHHHHH!?!?! **[hops off the ground and does a cartoonish ru
 
 SFX: **CRASH!!**
 
-WitchArrietty Happy: I can't believe it, Molly! Ghosts really do exist! **[approaches slowly towards it]**
+WitchWitchArrietty Happy: I can't believe it, UlalaMolly! Ghosts really do exist! **[approaches slowly towards it]**
 
-OniSilver Angry: Stand back, Arrietty! **[glares right at the ghostly figure]** Identify yourself.
+OniSilver Angry: Stand back, WitchArrietty! **[glares right at the ghostly figure]** Identify yourself.
 
 SpookyGhost: ...
 
 SpookyGhost: Repent...
 
-UlalaMolly Shocked: **[visibly shakened]** AA-AAaaaaa.... R-R-R-Repent...???
+UlalaUlalaMolly Shocked: **[visibly shakened]** AA-AAaaaaa.... R-R-R-Repent...???
 
 SpookyGhost: **[points at the three]** Your three shall repent for your serious misdeeds...
 
-WitchArrietty Shocked: Oh no! We've angered the spirits of the graveyard!
+WitchWitchArrietty Shocked: Oh no! We've angered the spirits of the graveyard!
 
 SpookyGhost: Your misdeeds...
 
@@ -458,9 +570,9 @@ SpookyGhost: Was...
 
 Fake Angry: Making us wait outside for the past 2 hours!
 
-UlalaMolly Shocked: **[faints]**
+UlalaUlalaMolly Shocked: **[faints]**
 
-WitchArrietty Sad: Aw man... I thought you were a real ghost...
+WitchWitchArrietty Sad: Aw man... I thought you were a real ghost...
 
 Fake Snicker: You all should've seen the look on your faces!
 
@@ -468,9 +580,9 @@ Fake: But seriously! When's the party starting? And who was that vampire-looking
 
 OniSilver Happy: No, the party has just started.
 
-WitchArrietty Happy: Yeah! It's one spooky of a place for it, right Molly?
+WitchWitchArrietty Happy: Yeah! It's one spooky of a place for it, right UlalaMolly?
 
-WitchArrietty: ...Molly?
+WitchWitchArrietty: ...UlalaMolly?
 
 Fake Snicker: **[giggles at the fainted girl]** Hehe, well that's what we call a halloween scare!
 

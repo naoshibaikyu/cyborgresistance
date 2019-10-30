@@ -283,6 +283,11 @@ function getJsonData() {
 				"displayName": "GHOST",
 				"imagePathPrefix": "seasonal/ghost"
 			},
+			"AstroZombieg": {
+				"displayName": "Astro Zombieg",
+				"imagePathPrefix": "seasonal/zombieg"
+			},
+			
 	//Christmas Special
 			"ghostpast": {
 				"displayName": "Ghost of Christmas Past",
