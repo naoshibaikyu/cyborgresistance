@@ -348,15 +348,23 @@ AstroZombieg: Braaaaaaiiiiiinssss
 
 UlalaMolly: Wait a moment, you're a robot! Why do you want to eat brains? I don't think the ol' grey matter is a particularly efficient fuel for robots.
 
-UlalaMolly Annoyed: And on that note, doesn't "eating the brains out of humans" also severely violate the laws of robotics?
-
 AstroZombieg: ...
 
 UlalaMolly: ...
 
 AstroZombieg: Look, I'm a zombie, it's all part of the image, y'know?
 
-UlalaMolly: ...Huh?!?!?
+UlalaMolly: Oh, ok, carry on then.
+
+AstroZombieg: Brrraaaiiii-
+
+UlalaMolly: **[interrupting]** *ACTUALLY* wait a sec, doesn't "eating the brains out of humans" also severely violate the laws of robotics?
+
+AstroZombieg: ...
+
+UlalaMolly: ...
+
+AstroZombieg: You suck the fun out of everything, don't you?
 
 %The Astro Zombieg gets even closer!
 
@@ -364,17 +372,21 @@ AstroZombieg: Brrraaaiiiinnnnssss-
 
 WitchArrietty: Hey, how long is a robot zombie life anyways?
 
+AstroZombieg: ...
+
+WitchArrietty: ...
+
 AstroZombieg: Ugeeehhhh? **[suddenly collapses]**
 
 EVERYBODY: ...
 
-WitchArrietty Smug: Well, that answers it.
+WitchArrietty Smug: Not long enough apparently.
 
 MYSTERIOUS VOICE: KYEHH? You've already defeated my army of zombies???
 
 OniSilver: We did literally nothing.
 
-UlalaMolly Annoyed: Army?!? More like a wimp! That was pathetic, mysterious creepy voice!
+UlalaMolly Annoyed: And army?!? More like a wimp! That was pathetic, mysterious creepy voice!
 
 MYSTERIOUS VOICE: Kyeh! There was just one?! There were suppose to be a bunch of them! Where are they!?
 
