@@ -58,7 +58,7 @@ EpStart
  
 @EPNUM: Halloween Special '19
 
-@TITLE: 
+@TITLE: Terror in the Haunted Castle!
 
 @AUTHOR: By Arrietty and Molly
 
@@ -826,7 +826,19 @@ WitchArrietty: ...Molly?
 
 Fake Snicker: **[giggles at the fainted girl]** Hehe, well that's what we call a halloween scare!
 
-%The four meet up with the rest of the team and then they have their halloween party inside the castle.
+WitchArrietty Shocked: Oh hey, not that we need to transform anytime soon, but I can feel the curse being lifted off of us.
+
+OniSilver Happy: You're right! And the whole team is waiting for us, let's group up with them and finally begin our party.
+
+WitchArrietty Shocked: Hmmm... Oh! I forgot that I've somehow left all the party supplies on the graveyard! Hopefully nothing happened to it.
+
+UlalaMolly: **[slowly waking up]** Huhhh...? **[looks around and sees the three heading down the stairway]**
+
+UlalaMolly Shocked: H-Hey wait for me! **[runs and catches up with them]**
+
+%Eventually, Arrietty, Molly and Silver Dime told the team all about their crazy adventures and soon after they had their party.
+
+%The End!
 
 EpFin
 

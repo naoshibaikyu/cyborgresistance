@@ -14,27 +14,16 @@ EpStart
 
 @LOCATIONlightslab: DR. LIGHT'S LAB
 
-Molly: 
+Molly: Hey, we finally have an epilogue completed?!
 
-BupMan: 
+Arrietty Happy: No way! We do?! Like, 100% doneso?
 
-Hornet0 Glare: We're still working on this site. Go away!
+Molly Happy: Yeah! And it's a [Halloween Special]!(halloween.html)!
 
-Honey: Hey, don't be rude to our guests!
+Arrietty: Wait, we both wrote that.
 
-Galaxy Happy: Yeah! Let's welcome them to our forums while things are being set up!
 
 Magma0 Happy: That's right! [Join our forums!](http://cyborgresistance.proboards.com/)
-
-Galaxy0: Huh?
-
-Plug Annoyed: What the helllll are you guys doing in my townnnn...
-
-Arrietty: Playing
-
-Molly: Playing.
-
-BupMan: hey
 
 EpFin
 
