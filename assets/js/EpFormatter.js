@@ -291,6 +291,26 @@ function getJsonData() {
 				"displayName": "A group of Astro Zombiegs",
 				"imagePathPrefix": "seasonal/zombieg"
 			},
+			"gilliamknight": {
+				"displayName": "Gilliam Knight",
+				"imagePathPrefix": "seasonal/gknight"
+			},
+			"gilliamknightwolf": {
+				"displayName": "Gilliam Knight (Wolf Form)",
+				"imagePathPrefix": "seasonal/gknightwolf"
+			},
+			"ragger": {
+				"displayName": "Ragger",
+				"imagePathPrefix": "seasonal/ragger"
+			},
+			"battonm48": {
+				"displayName": "Batton M48",
+				"imagePathPrefix": "seasonal/battonm48"
+			},
+			"vanpookin": {
+				"displayName": "Van Pookin",
+				"imagePathPrefix": "seasonal/vanpookin"
+			},
 	//Christmas Special
 			"ghostpast": {
 				"displayName": "Ghost of Christmas Past",

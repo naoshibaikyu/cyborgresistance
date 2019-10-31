@@ -64,7 +64,7 @@ EpStart
 
 <!-- Epilogue -->
 
-@ACTNUM: ACT 1
+@ACTNUM: PROLOGUE
 
 @LOCATIONlightslab2: DR. LIGHT'S LAB
 
@@ -126,9 +126,9 @@ Molly Happy: Great! I'll rally up the rest of the team.
 
 Arrietty Happy: Great idea, and I'll ask Roy to drive us. Let's throw us one killer Halloween Party!
 
-%End of Act 1
+%End of Prologue
 
-@ACTNUM: ACT 2
+@ACTNUM: ACT 1
 
 @LOCATION: ABANDONED ROUTE
 
@@ -242,12 +242,6 @@ WitchArrietty: Calm yourself! There can be a backdoor exit or something. Besides
 
 UlalaMolly Sad: Somehow I have an inkling it's not going to be that simple...
 
-%End of Act 2
-
-@ACTNUM: ACT 3
-
-@LOCATIONcastle: MYSTERIOUS CASTLE
-
 MYSTERIOUS VOICE: **Kyeh Heh Heh!!** What do we have here?
 
 UlalaMolly Shocked: Zoinks!
@@ -300,25 +294,27 @@ WitchArrietty Angry: Powers or no powers, we're gonna kick your butt, whoever yo
 
 MYSTERIOUS VOICE: We'll see about that when you're all in such a vunerable state! I wonder what will happen in this thrilling hunt? My minions capturing you and you become my feast or you manage to get past all my minions but STILL become my feast upon entering my throne room.
 
-WitchArrietty Angry: Ugh, I really hate arrogant villains. Especially *cowardly* arrogant villains! Hasn't even told us his name!
+%End of Act 1
 
-OniSilver Angry: ...
+@ACTNUM: ACT 2
 
-%Minutes has past, Molly, Arrietty, and Silver soon see themselves wandering the dingy halls of the creepy castle.
+@LOCATIONcastle: MYSTERIOUS CASTLE
+
+%Minutes has past; Molly, Arrietty, and Silver soon see themselves wandering the dingy halls of the creepy castle.
 
 UlalaMolly Sad: M-maybe we should just leave...?
 
-WitchArrietty: Don't you remember? The door's broken, and all the ground level windows are sealed!
+WitchArrietty Annoyed: Don't you remember? The door's broken, and all the ground level windows are sealed!
 
 OniSilver: And because our electronics are jammed, we can't break out of here or call for help.
 
-WitchArrietty: We may as well try to fight our way out of here, since it is our only option.
+WitchArrietty Sad: We may as well try to fight our way out of here, since it is our only option.
 
-UlalaMolly: Oh, right. O-okay then...
+UlalaMolly Sad: Oh, right. O-okay then...
 
 %A few minutes pass, until suddenly...
 
-WitchArrietty: Hey, I think I hear something!
+WitchArrietty Shocked: Hey, I think I hear something!
 
 %Suddenly, out of a rickety old door, bursts a zombie!
 
@@ -346,7 +342,7 @@ OniSilver Shocked: I'm still working on that part of the plan!
 
 AstroZombieg: Braaaaaaiiiiiinssss
 
-UlalaMolly: Wait a moment, you're a robot! Why do you want to eat brains? I don't think the ol' grey matter is a particularly efficient fuel for robots.
+UlalaMolly Annoyed: Wait a moment, you're a robot! Why do you want to eat brains? I don't think the ol' grey matter is a particularly efficient fuel for robots.
 
 AstroZombieg: ...
 
@@ -358,7 +354,7 @@ UlalaMolly: Oh, ok, carry on then.
 
 AstroZombieg: Brrraaaiiii-
 
-UlalaMolly: **[interrupting]** *ACTUALLY* wait a sec, doesn't "eating the brains out of humans" also severely violate the laws of robotics?
+UlalaMolly Annoyed: **[interrupting]** *ACTUALLY* wait a sec, doesn't "eating the brains out of humans" also severely violate the laws of robotics?
 
 AstroZombieg: ...
 
@@ -366,11 +362,11 @@ UlalaMolly: ...
 
 AstroZombieg: You suck the fun out of everything, don't you?
 
-%The Astro Zombieg gets even closer!
+WitchArrietty: Hey, just curious... How long is a robot zombie life anyways?
 
-AstroZombieg: Brrraaaiiiinnnnssss-
+AstroZombieg: ...
 
-WitchArrietty: Hey, how long is a robot zombie life anyways?
+WitchArrietty: ...
 
 AstroZombieg: ...
 
@@ -385,6 +381,8 @@ WitchArrietty Smug: Not long enough apparently.
 MYSTERIOUS VOICE: KYEHH? You've already defeated my army of zombies???
 
 OniSilver: We did literally nothing.
+
+WitchArrietty: Except stalling its inevitable demise.
 
 UlalaMolly Annoyed: And army?!? More like a wimp! That was pathetic, mysterious creepy voice!
 
@@ -406,21 +404,255 @@ UlalaMolly Sad: N-not that I want to hear any c-creepy laughs...
 
 OniSilver Annoyed: Let's just press on to the next room.
 
+%After a few minutes of aimless wandering, the group finds a seemingly empty room.
 
+WitchArrietty: An empty room...?
 
-@ACTNUM: ACT 4 (or 5)
+UlalaMolly Sad: O-ohhh no, something scary is going to jump out at us, right?
 
-@LOCATIONcastle: MYSTERIOUS CASTLE
+OniSilver: This room might not be as empty as you think, look!
 
-%With Molly's friends kidnapped, she has braved through the haunted castle alone. With some newfound courage she gained throughout the journey, she finally reaches to the final room where the master of the castle awaits.
+%He points up to the ceiling of the room, where a black orb is dangling down.
 
-UlalaMolly Sad: Okay, Molly. You can do this. This is the final confrontation... You got this far. Nothing can stop you now...
+OniSilver: What do you think that could be?
+
+WitchArrietty: An evil disco ball??
+
+%The black orb unravels itself, revealing itself to be...
+
+UlalaMolly Happy: A Batton! And if my intuition is correct, it's specifically the Batton M48 model!
+
+WitchArriettyShocked: How on earth do you know all this??
+
+UlalaMolly Annoyed: ... Don't ask.
+
+BattonM48: **[flies around menacingly]**
+
+UlalaMolly Happy: Awwwww, isn't it cuuuuuute? 
+
+BattonM48: **[lands on Molly's arm]**
+
+WitchArrietty Shocked: Are you sure you should let it do that?
+
+UlalaMolly: Can we keep him?
+
+OniSilver Annoyed: I don't think that's a good idea...
+
+%**CHOMP!**
+
+UlalaMolly Shocked: ***OUCH!***
+
+BattonM48: **[has its tiny teeth sunk into Molly's arm]**
+
+UlalaMolly Angry: IT BIT ME! **[throws the batton m48 out of an expensive looking stained glass window in retaliation]**
+
+Mysterious Voice: KYAAAAHHH! You know how much I paid to get that window made?!?
+
+UlalaMolly Annoyed: Looked pretty cheap to me.
+
+OniSilver: Which is strange... You would think such a building wouldn't cheap out on stained glass windows of all things.
+
+WitchArrietty: Sounds like a cheapskate owner if you ask me.
+
+Mysterious Voice: I resent that!
+
+%Before the trio can continue, the door bursts open and a robotic knight speeds in!
+
+GilliamKnight: Greetings. I must apologize for my lateness. I do hope thee can forgive me.
+
+WitchArrietty Happy: You're forgiven.
+
+GilliamKnight: While I hold nothing against thee, my master has decreed that I try my best to slay thee.
+
+OniSilver: You seem like a true gentleman. Shall we have a duel?
+
+GilliamKnight: That sounds like a perfect idea! Stand back, fair maidens!
+
+WitchArrietty Annoyed: "Fair maidens?"
+
+%Silver and the knight both begin to engage in a duel. It appears that the two are evenly matched. Molly and Arrietty watch intently, rooting for Silver.
+
+UlalaMolly Shocked: W-wait a sec! I think I recognize this robot... it's a Gilliam Knight! 
+
+WitchArrietty Shocked: Seriously, how do you know so much?
+
+UlalaMolly Shocked: Be extra super careful, Dimey!!
+
+WitchArrietty Angry: Stop ignoring me, none of them have been a rhetorical question!
+
+%As clouds part in the sky, the full moon shines down into the room.
+
+GilliamKnight: **[some expression of mild despair]**
+
+%The Gilliam Knight immediately stops dueling, as he goes stiff and starts to tremble. Two wolf legs burst out from either side of his lower body, while a wolf head pops out between the new legs!
+
+WitchArrietty Annoyed: Ewwww, gross!
+
+UlalaMolly Angry: Ughhh, put that thing away!
+
+OniSilver Annoyed: I must admit, that does look a tad unsavory.
+
+%The Gilliam Knight bends over backwards as his arms and head become the wolf's hind legs and tail.
+
+GilliamKnightWolf: **[snarls, and lunges toward Silver!]**
+
+OniSilver: **[is fighting back against the attacking wolf]** Ughhh! Begone.... foul beast!!
+
+UlalaMolly: Dimey!!!
+
+%At the sound of Molly's voice, the transformed Gilliam Knight turns its attention towards her instead.
+
+UlalaMolly: Oh no no no, stay back!
+
+%The wolf lunges at Molly instead, pinning her down on the ground!
+
+UlalaMolly: Eeek!!! I'm trapped!
+
+GilliamKnightWolf: **[snarls]**
+
+%Free from the attacker, Silver looks around the room, and sees a bulky suit of armour. In it's grasp, is a long pointy spear. He takes it, and starts to inch carefully towards the wolf.
+
+OniSilver Angry: Now I say this again. BEGONE, foul beast!!! **[stabs the wolf through the midsection with the spear!]**
+
+GilliamKnightWolf: **[howls in pain, before falling to the side]**
+
+%With the Gilliam Knight defeated, Molly gets back up and brushes herself off.
+
+UlalaMolly Shocked: Th-th-that was absolutely TERRIFYING!!
+
+OniSilver Angry: Why didn't you warn me about that before?
+
+UlalaMolly Annoyed: Arri interrupted me!
+
+UlalaMolly Shocked: Speaking of which...
+
+%Silver and Molly look around the room.
+
+UlalaMolly Shocked: ...W-where did Arri go..?
+
+OniSilver Sad: I'm not sure...
+
+%End of Act 2
+
+@ACTNUM: ACT 3
+
+%An hour has now passed, after facing hoardes of monsters in the search for Arrietty with no luck. Eventually, the two face yet another door.
+
+OniSilver: **[peeks inside the room]** This room appears to be empty...
+
+%The two of them quickly dart into the room.
+
+UlalaMolly Happy: Ahhhh, finally! A break from all the monsters!
+
+OniSilver: Now that we are safe for a while, we must relax for a bit, recollect our mind and figure out how to rescue Arrietty.
+
+UlalaMolly Sad: I really hope she is doing okay...
+
+OniSilver: By the way, doesn't something about this castle bother you?
+
+UlalaMolly Annoyed: Yeeeeah... about that, I've had this strange feeling that it's not as old as it is apparently seeming to be...
+
+OniSilver: Mmhmm. That I've also gathered from my observation.
+
+UlalaMolly Annoyed: These walls... the material they're made of. It may LOOK the part of an old stone castle, but it's actually made of much cheaper and more "modern" materials!
+
+UlalaMolly Annoyed: And the robots we've been battling... Astro Zombieg, Ragger, Cyorown, Batton M48, Gilliam Knight... I know these models! These robots were created for an old amusement park's haunted house!
+
+OniSilver: So this isn't a real castle in any way?
+
+UlalaMolly: Far from it! And this specific selection of robots reminds me of someone in particular... The one behind all this is...
+
+UlalaMolly Angry: DWN-055!!
+
+OniSilver Annoyed: ...
+
+UlalaMolly: Shade Man!
+
+OniSilver Shocked: Oh!
+
+UlalaMolly Angry: And if it's Shade Man behind all this....
+
+OniSilver Angry: ... then that "master" he's been mentioning is likely Dr. Wily!
+
+UlalaMolly Angry: Yeah!
+
+ShadeMan: Well done, you've figured it out!
+
+UlalaMolly Angry: Shade Man!
+
+ShadeMan: It is I who has sent this army of robots against you, and it is I who rules over this castle! But I do believe, there is one of my most powerful minions who you have yet to meet!
+
+UlalaMolly: It must be...
+
+%Before Molly can finish, a gigantic jack o' lantern crashes through the ceiling, into the room!
+
+OniSilver: What's this? A giant pumpkin? This certainly shouldn't put up much of a fight!
+
+UlalaMolly: Not just any pumpkin, it's a Van Pookin!
+
+%As soon as Molly says that, the thrusters on the bottom of the large robot come to life, lifting it into the air!
+
+UlalaMolly: Eek! It's gonna crush us!!
+
+VanPookin: **[starts to fire small bouncing projectiles that explode brightly after several seconds]**
+
+UlalaMolly: Ack! What's going on???
+
+OniSilver: It appears this oversized gourd has quite the explosive abilities. Watch out!
+
+%The multiple bright flashes from the explosions disorient the duo!*
+
+UlalaMolly: Oh no!! I can't see!
+
+%In the confusion, Silver accidentally backs into a trick bookcase, which spins around, trapping him behind the wall!
+
+UlalaMolly: Wait a sec, I have an idea....
+
+VanPookin: **[starts to open up, revealing two smaller pumpkins, in order to deliver its final attack]**
+
+%Molly quickly picks up one of the bouncy explosives
+
+UlalaMolly: Now.... eat THIS!
+
+%Molly throws the explosive right into the mouth of the smallest pumpkin. it quickly explodes, causing Van Pookin to break apart and fall down with a huge crash
+
+UlalaMolly: Ha! That Van Pookin really was a dim bulb, right Dimey?
+
+%...
+
+UlalaMolly Annoyed: ... Uhhhh, Dimey? Helloooooooooo?
+
+%There is no response. Molly is completely alone.
+
+UlalaMolly Sad: **[thinking]** Okay, Dimey's gone. Arri's gone. You're on your own in a haunted castle. No time to panic...
+
+%Molly takes a deep breath and tries to focus on the situation at hand.
+
+UlalaMolly Annoyed: T-that,s right, I-I can't lose my mind here. My friends need me. I-I must find out where Dimey could have possible gone. This room isn't too big, so there should be a clue...
+
+%She examines around the place until she comes across a wall that looks a tad out of place.
+
+UlalaMolly Annoyed: Hmm. Wasn't there a bookshelf there? So it must be a...
+
+%As soon as she places her hand on the wall, it rotates with the wall pushing her into the room behind it, restoring the bookshelf's origin placement.
+
+UlalaMolly: **[fallen on the ground]** A rotating bookshelf! **[she gets herself up and looks at the stairway ahead of her, noticing big footprints followed with footprints of someone being dragged]**
+
+UlalaMolly Angry: Dimey must've been knocked unconcious as soon as he fell here. Shade Man or a minion of his must've been waiting for this trap to trigger. He's definitely been kidnapped.
+
+UlalaMolly Sad: And up ahead is the staircase... This likely leads to Shade Man's lair.
+
+%Molly takes another deep breath and begins walking forward cautiously.
+
+UlalaMolly Sad: Okay, Molly. You can do this. This is the final confrontation... You've gotten this far. Nothing can stop you now...
 
 %Molly finally reaches the end of the stairway and sees the villainous vampire sitting on their throne, drinking from what it appears to be blood in a wine glass.
 
-UlalaMolly Angry: This is the monster that took my friends.. and their lives depend on me! W-what would Arrietty do if she was in my position...?
+UlalaMolly Sad: **[gasp]** I-is that blood?! Augh! I hope my friends are really okay. I have to act as soon as possible because their lives depend on me! W-what would Arrietty do if she was in my position...?
 
-%Molly enters into the room and immediately points at the vampire.
+UlalaMolly Annoyed: ...
+
+%Molly rushes into the room and immediately points at the vampire, holding a plastic whip.
 
 UlalaMolly Annoyed: Die Monster! You don't belong in the world!
 
@@ -428,27 +660,27 @@ UlalaMolly Shocked: (Whoops! Definitely not that!)
 
 ShadeMan: **[amused]** It was not by *my* hand that I'm once again given flesh. I was called here by *humans* who wish to pay me tribute.
 
-UlalaMolly Annoyed: (...Roll with it.)
+UlalaMolly Annoyed: (...roll with it.)
 
 UlalaMolly: "Tribute"?! You steal men's souls, and make them your slaves!
 
-ShadeMan: What is a man?! **[gets hit in the face with a plastic whip, he drops his wine and it shatters on the floor spilling tomato juice everywhere]** ...
-
-ShadeMan Annoyed: What was that for?!
+ShadeMan: What is a man?! **[gets hit in the face with a whip, he drops his wine and it shatters on the floor spilling tomato juice everywhere]** Ow!
 
 UlalaMolly Angry: No, no, no! You did it wrong and got too ahead of the script, let's start over!
 
-ShadeMan Shocked: Fine, let's- wait! MY TOMATO JUICE! NO! **[looks around frantically, then starts licking the tomato juice off the floor]**
+ShadeMan Annoyed: Fine, let's- 
 
-UlalaMolly Annoyed: ...Gross.
+ShadeMan Shocked: Wait! MY TOMATO JUICE! NO! **[looks around frantically, then starts licking the tomato juice off the floor]**
 
-ShadeMan Annoyed: Look at what you've done to my tomato juice! That was my last glass! Grrr... You little brat. Kyeh... I'll...
+UlalaMolly Annoyed: **[disgusted look]** ...I'm just glad it isn't really blood after all.
+
+ShadeMan Annoyed: Look at what you've donwe! That was my last glass! Grrr... You little brat. Kyeh... I'll...
 
 UlalaMolly Annoyed: Should've memorized the script!
 
-ShadeMan Scary: Enough talk! **[eyes glows red as he lunges towards Molly]]** Have at you!
+ShadeMan Scary: Enough! **[eyes glows red as he lunges towards Molly]]** Have at you!
 
-UlalaMolly Shocked: EEK!!
+UlalaMolly Shocked: You did it wrong aga- **EEK!!**
 
 %CHOMP!!
 
@@ -460,45 +692,41 @@ ShadeMan Shocked: ***DSKJFAKJEWGKDSBPKDLEGP!! KYEHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!
 
 UlalaMolly Smug: Ha! I knew even robot vampires would be weak to my garlic shield!
 
-ShadeMan Annoyed: **[gagging hard]** You little brat! How did you even get that?! And *why* is it a shield, of all things?!
+ShadeMan Annoyed: **[gagging hard]** You little brat! How did you even get that?! And *why* is it a shield, of all things?! Where did you even get it from anyways?!
 
-UlalaMolly Smug: And they think I'm over prepared.
+UlalaMolly Smug: My backpack, where all of my other "monster repelents" are stored in!
 
-WitchArrietty Angry: **[is in a cage that is hanging from the cieling]** Give me a break! It was a pain carrying that bag to the car!
+WitchArrietty Angry: **[is in a cage that is hanging from the cieling]** Huh? The entire time, I just thought it was just a costume prop.
 
-UlalaMolly Shocked: Arri?! You're alive!
+UlalaMolly Annoyed: Ulala doesn't wear a backpack, Arri!
 
-UlalaMolly Happy: *YOU'RE ALIVE!*
+UlalaMolly Shocked: Wait! Arri?! You're alive!?
+
+UlalaMolly Happy: *YOU'RE ALIVE!!*
 
 OniSilver: **[also in a cage]** That we are. Seems we have underestimated our foe, our apologies.
 
-UlalaMolly Happy: Fortunately, I've brought just about *every* monster weakness I can think of in that bag just for our safety!
+UlalaMolly Happy: Fortunately, I've brought just about *every* monster weakness I can think of just for our safety! **[she pulls down the lever on the wall, bringing the cages down and frees the two]**
 
-WitchArrietty Angry: You told me it was full of candy, you liar!
+OniSilver Happy: You've thought of everything I see.
 
-WitchArrietty: ...But I'm glad you've lied. I would've tossed the bag out if I were to find out sooner and this situation would've ended up nastier!
-
-UlalaMolly Sad: **[unlocking the cages, freeing the two]** Yeah, yeah. Next time let's choose a less shady location.
+UlalaMolly: I'm just glad my fear of monsters paid off.
 
 ShadeMan Annoyed: **[mostly recovered]** Kyeh... Your decision to make a fool out of me is your ultimate demise, brat.
 
-UlalaMolly Smug: It's three against one now, Shade Man.
+WitchArrietty Smug: It's three against one now, Shade Man. You're finished!
 
-WitchArrietty: You're finished!
-
-OniSilver: I would not assume with such haste, our state leaves us very vunerable.
-
-UlalaMolly Shocked: Eep, that's right! My bad.
+OniSilver: I would not assume with such haste, our state still leaves us very vunerable.
 
 ShadeMan: **Kyeh Heh Heh!!** My spell renders you all hopeless against me. And now I'm done messing with you brats. **[an eerie aura slowly forms around him]**
 
-WitchArrietty Sad: Molly, do you have anything else?!
+WitchArrietty Shocked: Molly, do you have anything else?!
 
-UlalaMolly Shocked: **[frantically going through the bag]** There gotta be another garlic, where did I put it!?
+UlalaMolly Shocked: **[frantically going through the backpack]** There gotta be another garlic, which pocket did I put it in!?
 
-ShadeMan Scary: Wily's wishes be damned. I shall end all of your mortal lives instead right now! **[his wings expands and his eyes glows red once again as the red glowy aura intensifies]**
+ShadeMan Scary: I shall end all of your foolish mortal lives right now! **[his wings expands and his eyes glows red once again as the red glowy aura intensifies]**
 
-WitchArrietty Sad: We have little time! Throw whatevers in your hands and hope for the best!
+WitchArrietty Shocked: We have little time! Throw whatevers in your hands and hope for the best!
 
 UlalaMolly Happy: Aha! **[holds up a glass of Holy Water and quickly throws it at Shade Man]**
 
@@ -506,15 +734,11 @@ SFX: **Kssh! Splash!**
 
 %Unfortunately, it had no effect as it is... really just water in a glass bottle.
 
-WitchArrietty Annoyed: You dolt, he's water proof!
+UlalaMolly Sad: ...Might this be a good time to bring up the Laws of Robotics?
 
-UlalaMolly Shocked: I-I kinda knew that!
+WitchArrietty Annoyed: When do Wily's bots care about that?
 
-WitchArrietty Sad: ...Might this be a good time to bring up the Laws of Robotics?
-
-OniSilver Angry: Villains don't care about that!
-
-ShadeMan Scary:  **Kyeh Heh Heh Heh!** Pathetic mortals, your struggle makes me pity you, so I shall let you all have your last words. But make it quick...
+ShadeMan Scary: **Kyeh Heh Heh Heh!** Pathetic mortals, your struggle makes me pity you, so I shall let you all have your last words. But make it quick...
 
 %As Shade Man gives them time to say their good byes, the entire castle around him begins to quake.
 
@@ -562,21 +786,17 @@ WitchArrietty Happy: I can't believe it, Molly! Ghosts really do exist! **[appro
 
 OniSilver Angry: Stand back, Arrietty! **[glares right at the ghostly figure]** Identify yourself.
 
-SpookyGhost: ...
-
 SpookyGhost: Repent...
 
 UlalaMolly Shocked: **[visibly shakened]** AA-AAaaaaa.... R-R-R-Repent...???
 
-SpookyGhost: **[points at the three]** Your three shall repent for your serious misdeeds...
+SpookyGhost: **[points at the three]** You all shall repent for your serious misdeeds...
 
 WitchArrietty Shocked: Oh no! We've angered the spirits of the graveyard!
 
-SpookyGhost: Your misdeeds...
+UlalaMolly: B-but I just figured the graveyard was really part of the abandoned amusement park!
 
-OniSilver Angry: Get on with it!
-
-SpookyGhost: Was...
+SpookyGhost: Your misdeeds... was...
 
 %Immediately, the ghost stops glowing right before transforming quickly into a familiar face.
 
