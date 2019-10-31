@@ -738,27 +738,11 @@ UlalaMolly Shocked: **[frantically going through the backpack]** There gotta be 
 
 ShadeMan Scary: I shall end all of your foolish mortal lives right now! **[his wings expands and his eyes glows red once again as the red glowy aura intensifies]**
 
-WitchArrietty Shocked: We have little time! Throw whatevers in your hands and hope for the best!
+UlalaMolly Shocked: I have nothing else that could work!
 
-UlalaMolly Happy: Aha! **[holds up a glass of Holy Water and quickly throws it at Shade Man]**
+WitchArrietty Shocked: Nothing?!
 
-SFX: **Kssh! Splash!**
-
-%Unfortunately, it had no effect as it is... really just water in a glass bottle.
-
-UlalaMolly Sad: ...Might this be a good time to bring up the Laws of Robotics?
-
-WitchArrietty Annoyed: When do Wily's bots care about that?
-
-ShadeMan Scary: **Kyeh Heh Heh Heh!** Pathetic mortals, your struggle makes me pity you, so I shall let you all have your last words. But make it quick...
-
-%As Shade Man gives them time to say their good byes, the entire castle around him begins to quake.
-
-WitchArrietty Sad: Molly, I've been wanting to say... I love you!
-
-UlalaMolly Annoyed: ...We've been dating for months, Arri. We're girlfriends.
-
-WitchArrietty Happy: I know right?? I just still can't believe it!!
+%The entire castle around Shade Man begins to quake due to ever growing intense aura.
 
 OniSilver Angry: Brace yourselves for the worst. **[gets in a guarding stance]**
 
