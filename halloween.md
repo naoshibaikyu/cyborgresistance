@@ -448,7 +448,7 @@ UlalaMolly Shocked: ***OUCH!***
 
 BattonM48: **[has its tiny teeth sunk into Molly's arm]**
 
-UlalaMolly Angry: IT BIT ME! **[throws the batton m48 out of an expensive looking stained glass window in retaliation]**
+UlalaMolly Angry: IT BIT ME! **[throws the Batton M48 out of an expensive looking stained glass window in retaliation]**
 
 Mysterious Voice: KYAAAAHHH! You know how much I paid to get that window made?!?
 
@@ -542,7 +542,7 @@ UlalaMolly Shocked: Speaking of which...
 
 UlalaMolly Shocked: ...W-where did Arri go..?
 
-OniSilver Sad: I'm not sure...
+OniSilver: I'm not sure...
 
 %End of Act 2
 
