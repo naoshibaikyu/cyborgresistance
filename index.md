@@ -1,18 +1,6 @@
 EpStart
 
-<!-- Epilogue Info -->
- 
-@EPNUM: Season 0 Episode 0
-
-@TITLE: Title Sample
-
-@AUTHOR: By Huh Man and Sinistar's Cousin Joe
-
-<!-- Epilogue -->
-
-@ACTNUM: ACT 1
-
-@LOCATIONlightslab: DR. LIGHT'S LAB
+%October 31st, 2019
 
 Molly: Hey, we finally have an epilogue completed?!
 
@@ -22,8 +10,7 @@ Molly Happy: Yeah! And it's a [Halloween Special]!(halloween.html)!
 
 Arrietty: Wait, we both wrote that.
 
-
-Magma0 Happy: That's right! [Join our forums!](http://cyborgresistance.proboards.com/)
+Magma0 Happy: And while you're still waiting for the first season epilogues you can [join our forums!](http://cyborgresistance.proboards.com/)
 
 EpFin
 
