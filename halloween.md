@@ -832,7 +832,7 @@ OniSilver Happy: You're right! And the whole team is waiting for us, let's group
 
 WitchArrietty Shocked: Hmmm... Oh! I forgot that I've somehow left all the party supplies on the graveyard! Hopefully nothing happened to it.
 
-UlalaMolly: **[slowly waking up]** Huhhh...? **[looks around and sees the three heading down the stairway]**
+UlalaMolly Sad: **[slowly waking up]** Huhhh...? **[looks around and sees the three heading down the stairway]**
 
 UlalaMolly Shocked: H-Hey wait for me! **[runs and catches up with them]**
 
