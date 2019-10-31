@@ -500,15 +500,15 @@ GilliamKnightWolf: **[snarls, and lunges toward Silver!]**
 
 OniSilver: **[is fighting back against the attacking wolf]** Ughhh! Begone.... foul beast!!
 
-UlalaMolly: Dimey!!!
+UlalaMolly Shocked: Dimey!!!
 
 %At the sound of Molly's voice, the transformed Gilliam Knight turns its attention towards her instead.
 
-UlalaMolly: Oh no no no, stay back!
+UlalaMolly Shocked: Oh no no no, stay back!
 
 %The wolf lunges at Molly instead, pinning her down on the ground!
 
-UlalaMolly: Eeek!!! I'm trapped!
+UlalaMolly Shocked: Eeek!!! I'm trapped!
 
 GilliamKnightWolf: **[snarls]**
 
