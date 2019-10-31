@@ -324,7 +324,7 @@ WitchArrietty Shocked: Hey, I think I hear something!
 
 AstroZombieg: Ggggrrrrrreeehhhhh!!
 
-UlalaMolly: Eek! An Astro Zombieg!!
+UlalaMolly Shocked: Eek! An Astro Zombieg!!
 
 WitchArrietty Annoyed: How do you even know their name that specifically?
 
