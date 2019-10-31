@@ -300,8 +300,12 @@ function getJsonData() {
 				"imagePathPrefix": "seasonal/gknightwolf"
 			},
 			"ragger": {
-				"displayName": "Ragger",
+				"displayName": "Armor's Helmet",
 				"imagePathPrefix": "seasonal/ragger"
+			},
+			"cyorown": {
+				"displayName": "Cyorown",
+				"imagePathPrefix": "seasonal/cyorown"
 			},
 			"battonm48": {
 				"displayName": "Batton M48",

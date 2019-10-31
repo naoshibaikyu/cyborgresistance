@@ -160,6 +160,8 @@ UlalaMolly Happy: Oh! There it is!
 
 WitchArrietty Shocked: Look at the size of that castle!
 
+%In a distance, there is a huge decayed looking castle behind the graveyard. Then a flash of lightning from the clouds spooks Molly.
+
 UlalaMolly Shocked: C-Castle?! You didn't say there would be an abandoned castle!
 
 WitchArrietty Smug: Oh, now are *you* chickening out?
@@ -173,6 +175,8 @@ WitchArrietty: **[Getting off of the car with Molly and Silver]** Don't know, bu
 Magma0: Alright, don't get too scared! I’ll come back with the rest of the team when they’re done shopping. Be safe you three!
 
 %With that, Roy's car speeds off the scene, leaving the three at a huge graveyard with the castle in its surrounding. Soon, the three walk across the graveyard approaching the castle.
+
+Cyorown: **[squawks in the distance]**
 
 UlalaMolly Sad: **[looking around the surroundings, surveying a very unsettling atmosphere]** This is looking like w-what we've wanted, huh?
 
@@ -510,7 +514,15 @@ UlalaMolly: Eeek!!! I'm trapped!
 
 GilliamKnightWolf: **[snarls]**
 
-%Free from the attacker, Silver looks around the room, and sees a bulky suit of armour. In it's grasp, is a long pointy spear. He takes it, and starts to inch carefully towards the wolf.
+%Free from the attacker, Silver looks around the room, and sees a bulky suit of armor. In its grasp, is a long pointy spear. He pulls the spear out of the armor's grasp. Suddenly the helmet of said armor comes to life for a brief moment.
+
+Ragger: Hey, please remember to give that back once you're finished with it!
+
+OniSilver: Noted my friend.
+
+Ulala: **[in thought]** Was that a Ragger...?
+
+%Silver holds the spear at the ready as he inches carefully towards the transformed Gilliam Knight.
 
 OniSilver Angry: Now I say this again. BEGONE, foul beast!!! **[stabs the wolf through the midsection with the spear!]**
 
