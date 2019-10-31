@@ -520,7 +520,7 @@ Ragger: Hey, please remember to give that back once you're finished with it!
 
 OniSilver: Noted my friend.
 
-Ulala: **[in thought]** Was that a Ragger...?
+UlalaMolly Shocked: **[in thought]** Was that a Ragger...?
 
 %Silver holds the spear at the ready as he inches carefully towards the transformed Gilliam Knight.
 
@@ -547,6 +547,8 @@ OniSilver: I'm not sure...
 %End of Act 2
 
 @ACTNUM: ACT 3
+
+@LOCATIONcastle: MYSTERIOUS CASTLE
 
 %An hour has now passed, after facing hoardes of monsters in the search for Arrietty with no luck. Eventually, the two face yet another door.
 
@@ -666,7 +668,7 @@ UlalaMolly Annoyed: ...
 
 %Molly rushes into the room and immediately points at the vampire, holding a plastic whip.
 
-UlalaMolly Annoyed: Die Monster! You don't belong in the world!
+UlalaMolly Annoyed: Die Monster! You don't belong in this world!
 
 UlalaMolly Shocked: (Whoops! Definitely not that!)
 
