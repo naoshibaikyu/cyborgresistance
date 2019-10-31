@@ -6,7 +6,7 @@ Molly: Hey, we finally have an epilogue completed?!
 
 Arrietty Happy: No way! We do?! Like, 100% doneso?
 
-Molly Happy: Yeah! And it's a [Halloween Special]!(halloween.html)!
+Molly Happy: Yeah! And it's a [Halloween Special!](halloween.html)!
 
 Arrietty: Wait, we both wrote that.
 
