@@ -612,7 +612,7 @@ UlalaMolly: Ack! What's going on???
 
 OniSilver: It appears this oversized gourd has quite the explosive abilities. Watch out!
 
-%The multiple bright flashes from the explosions disorient the duo!*
+%The multiple bright flashes from the explosions disorient the duo!
 
 UlalaMolly: Oh no!! I can't see!
 
