@@ -70,19 +70,19 @@ EpStart
 
 Arrietty Sad: Pleaasssee?
 
-Light: No.
+Light Annoyed: No.
 
 Arrietty Angry: Come on!!
 
-Light: **[sigh]** I said no, it means no, Arrietty.
+Light Thinking: **[sigh]** I said no, it means no, Arrietty.
 
 Arrietty Annoyed: Seriously, what's the problem?
 
-Light: Because last year you all made a gigantic mess and it took poor Auto *weeks* to clean up the place.
+Light Annoyed: Because last year you all made a gigantic mess and it took poor Auto *weeks* to clean up the place.
 
 Arrietty Angry: What? Now you're just making up excuses, we've only been living with you for a *few months* at most.
 
-Light: Well, the answer is still no and that is final.
+Light Angry: Well, the answer is still no and that is final.
 
 Arrietty Angry: Alright, fine. **[slams the door on her way out]** Stuck up old geezer, the heck is his problem lately?
 
