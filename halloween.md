@@ -700,7 +700,7 @@ UlalaMolly Shocked: ...
 
 ShadeMan Scary: ...
 
-ShadeMan Shocked: ***DSKJFAKJEWGKDSBPKDLEGP!! KYEHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!*** *GARLIC?! UAUGHJHJGKFLKGKLB* **[falls over all weakened]** *MY ENTIRE TEETH SUNK INTO GARLIC. WHY?! WHY DID WILY PROGRAM THIS WEAKNESS?! AUGH BLEHCK.*
+ShadeMan Shocked: ***KYEHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH?!?!!*** *GARLIC?! AUGHHHHH* **[falls over all weakened]** *MY ENTIRE TEETH SUNK INTO GARLIC. WHY?! WHY DID WILY PROGRAM THIS WEAKNESS?! AUGH BLEHCK.*
 
 UlalaMolly Smug: Ha! I knew even robot vampires would be weak to my garlic shield!
 
@@ -764,7 +764,7 @@ OniSilver Angry: Brace yourselves for the worst. **[gets in a guarding stance]**
 
 ShadeMan Scary: Farewell, mortals! See you all in *HELL*! **KYAAAAAAAHHHHH HAAAAA-
 
-ShadeMan Shocked: **AHUSGKAGHJKADGG!!?!?** 
+ShadeMan Shocked: **AGUHHHHKCK!!?!?** 
 
 %Shade Man's aura suddenly gets cut short, then suddenly and inexplicably he falls to the ground, completely battered.
 
