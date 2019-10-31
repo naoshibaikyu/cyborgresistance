@@ -426,9 +426,7 @@ WitchArrietty: An evil disco ball??
 
 UlalaMolly Happy: A Batton! And if my intuition is correct, it's specifically the Batton M48 model!
 
-WitchArriettyShocked: How on earth do you know all this??
-
-UlalaMolly Annoyed: ... Don't ask.
+WitchArrietty Shocked: How can you tell?
 
 BattonM48: **[flies around menacingly]**
 
