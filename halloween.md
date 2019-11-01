@@ -536,13 +536,13 @@ UlalaMolly Shocked: An-anyways, th-that encounter was absolutely TERRIFYING!!
 
 OniSilver Angry: Why didn't you warn me about that before?
 
-UlalaMolly Annoyed: Arri interrupted me!
+UlalaMolly Annoyed: I didn't have the time!
 
-UlalaMolly Shocked: Speaking of which...
+UlalaMolly: Let's regroup and...
 
 %Silver and Molly look around the room.
 
-UlalaMolly Shocked: ...W-where did Arri go..?
+UlalaMolly Shocked: Wait... w-where did Arri go...?
 
 OniSilver: I'm not sure...
 
