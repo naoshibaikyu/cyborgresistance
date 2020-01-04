@@ -838,7 +838,7 @@ UlalaMolly Shocked: H-Hey wait for me! **[runs and catches up with them]**
 
 %Eventually, Arrietty, Molly and Silver Dime told the team all about their crazy adventures and soon after they had their party.
 
-%The End!
+@TITLE: The End!
 
 EpFin
 

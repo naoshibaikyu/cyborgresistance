@@ -1,40 +1,31 @@
 EpStart
 
-<!-- Epilogue Info -->
- 
-@EPNUM: Season 0 Episode 0
+@LOCATION: bup
 
-@TITLE: Title Sample
+@EPNUM: 1
 
-@AUTHOR: By Huh Man and Sinistar's Cousin Joe
+%October 31st, 2019
 
-<!-- Epilogue -->
+Molly: Hey, we finally have an epilogue completed?!
 
-@ACTNUM: ACT 1
+Arrietty: No way! We do?! Like, 100% doneso?
 
-@LOCATIONlightslab: DR. LIGHT'S LAB
+Molly Happy: Yeah! And it's a [Halloween Special!](halloween.html)!
 
-Molly: 
+Arrietty Shocked: Wait, we both wrote that.
 
-BupMan: 
+Magma0 Happy: And while you're still waiting for the first season epilogues you can [join our forums!](http://cyborgresistance.proboards.com/)
 
-Hornet0 Glare: We're still working on this site. Go away!
+% fuckin shit
 
-Honey: Hey, don't be rude to our guests!
+%stop making the bird poop
 
-Galaxy Happy: Yeah! Let's welcome them to our forums while things are being set up!
+%%you fucking idiot
 
-Magma0 Happy: That's right! [Join our forums!](http://cyborgresistance.proboards.com/)
+b%%
 
-Galaxy0: Huh?
+b
 
-Plug Annoyed: What the helllll are you guys doing in my townnnn...
-
-Arrietty: Playing
-
-Molly: Playing.
-
-BupMan: hey
 
 EpFin
 

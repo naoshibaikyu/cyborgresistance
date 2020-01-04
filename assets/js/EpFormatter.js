@@ -1,9 +1,20 @@
-insertDivs();
-//insertMugshots();
+formatMarkdown();
 
-//Replace all p tags with div class=dialogue tags
-function insertDivs()
+// Replace markdown with formatted HTML
+function formatMarkdown()
 {
+	// A dictionary of tags and class names
+	// Add to this dictionary to add new markdown tags
+	var tags = {
+		"@LOCATION": "location",
+		"@EPNUM:": "epnum",
+		"@TITLE:": "eptitle",
+		"@AUTHOR:": "author",
+		"@ACTNUM:": "actnum",
+		"%%": "description",
+		"%": "description",
+	};
+
 	var locationDirectory = "../../../cyborgresistance/assets/images/locations/";
 	var mugshotDirectory = "../../../cyborgresistance/assets/images/mugshots/";
 	var json = getJsonData();
@@ -13,50 +24,81 @@ function insertDivs()
 	document.body.innerHTML = document.body.innerHTML.replace("<p>EpStart</p>", "<div id='ep'>");
 	document.body.innerHTML = document.body.innerHTML.replace("<p>EpFin</p>", "</div>");
 
-	var pTags=document.getElementById('ep').getElementsByTagName('p');
+	var paragraphs = document.getElementById('ep').getElementsByTagName('p'); // Get all paragraph tags in the ep
+	var line;
+	var comment = false;
 
-	for(i=0;i<pTags.length;i++)
+	for(var i = 0; i < paragraphs.length; i++)
 	{
-	    var line = pTags[i];  
-	    var p = document.createElement('p');
-	    var div = document.createElement('div');
+		var p = document.createElement('p');
+		var div = document.createElement('div');
+		line = paragraphs[i].innerHTML;
 
-		// Add classes to divs
-	    if (line.innerHTML.startsWith("@LOCATION"))
-	    {
-			var locationLine = line.innerHTML;
-			var location = locationLine.substring(9, locationLine.lastIndexOf(':'));
-			if (location) {
-				div.style.backgroundImage = "url('" + locationDirectory + location + ".png')";
+		// single line parsing
+		// multi line parsing
+
+		// if any token matches
+
+		var state = setParsingState(line);
+
+		function setParsingState(line)
+		{
+			for (var token in tags)
+			{
+				if (line.startsWith(token))
+				{
+					if (tags[token] === "location")
+					{
+						return "location";
+					}
+					else if (tags[token])
+					{
+
+					}
+				}
 			}
+			
+			return "multi";
+			return "single";
+		}
+		
+		// Add classes to divs
+		for (var token in tags)
+		{
+			if (line.startsWith(token))
+			{
+				div.className = tags[token];
+				line = line.substr(token.length, line.length); // Remove the markdown
 
-			div.className = "location";
-	    }
-		else if (line.innerHTML.startsWith("@EPNUM:"))
-	    {
-	    	div.className = "epnum";
-	    }
-		else if (line.innerHTML.startsWith("@TITLE:"))
-	    {
-	    	div.className = "eptitle";
-	    }
-		else if (line.innerHTML.startsWith("@AUTHOR:"))
-	    {
-	    	div.className = "author";
-	    }
-		else if (line.innerHTML.startsWith("@ACTNUM:"))
-	    {
-	    	div.className = "actnum";
-	    }
-	    else if (line.innerHTML.startsWith("%"))
-	    {
-			div.className = "description";
-			line.innerHTML = line.innerHTML.substr(1);
-	    }
-	    else
+				// Set background image for locations
+				if (tags[token] === "location")
+				{
+					var location = line.substring(0, line.lastIndexOf(':'));
+					if (location) 
+					{
+						div.style.backgroundImage = "url('" + locationDirectory + location + ".png')";
+					}
+					line = line.substr(line.indexOf(":") + 1, line.length);
+				}
+				else if (token === "%%")
+				{
+					comment = true;
+				}
+
+				break;
+			}
+		}
+
+		if (comment === true)
+		{
+			continue;
+		}
+
+		// Dialogue styling
+	    if (!div.className)
 	    {
 			div.className = "dialogue";
-			var speaker = line.innerHTML.substr(0, line.innerHTML.indexOf(':')).toLowerCase();
+			var speaker = line.substr(0, line.indexOf(':')).toLowerCase();
 			var name = speaker;
 			var emote = "neutral"
 
@@ -67,7 +109,7 @@ function insertDivs()
 			}
 
 			var emoteIndex = emotes.indexOf(emote);
-			var displayname = line.innerHTML.substr(0, line.innerHTML.indexOf(':')).toLowerCase();
+			var displayname = line.substr(0, line.indexOf(':')).toLowerCase();
 			var imagePath = "";
 
 			if (name in characters)
@@ -78,65 +120,20 @@ function insertDivs()
 					imagePath = "<img id=double src=" + mugshotDirectory + characters[name].imagePathPrefix + emotes[emoteIndex] + ".png>"; 
 			}
 
-
 			var replace =  imagePath + " <p><profilename>" + displayname + "</profilename></br>";
 			find = new RegExp(speaker + ":", "gi");
-			line.innerHTML = line.innerHTML.replace(find, replace);	
-			div.innerHTML = line.innerHTML;
+			line = line.replace(find, replace);	
+			div.innerHTML = line;
 		}
-		
-		// Put story text in between divs
-		if (line.innerHTML.startsWith("@"))
+		else 
 		{
-			line.innerHTML = line.innerHTML.substr(line.innerHTML.indexOf(':') + 1);
-		}
-
-		//Surround inner HTML with p tags
-		if (div.className != "dialogue")
-		{
-			p.innerHTML = line.innerHTML;
+			p.innerHTML = line;
 			div.innerHTML = p.outerHTML;
 		}
 	    	
-
-	    line.parentNode.replaceChild(div, line);
+	    paragraphs[i].parentNode.replaceChild(div, paragraphs[i]);
 	}
 }
-
-// function insertMugshots(json)
-// {
-// 	var directory = "../../../cyborgresistance/assets/images/mugshots/";
-// 	var json = getJsonData();
-// 	var characters = json.names;
-// 	var emotes = json.emotes;
-// 	//TODO: make it work with brackets and spaces between the name and emote
-// 	//TODO: don't do a find/replace, do it line by line in the div checker
-// 	//Look at all name/emote combinations
-// 	for (var characterKey in characters)
-// 	{
-// 		for (var emoteKey in emotes)
-// 		{
-// 			var emoteSuffix = emotes[emoteKey];
-// 			if (emotes[emoteKey] === "neutral")
-// 				emoteSuffix = "";
-// 			var str = "<p>" + characterKey + emoteSuffix + ":";
-// 			var displayname = characters[characterKey].displayName;
-// 			var imagePath = directory + characters[characterKey].imagePathPrefix + emotes[emoteKey] + ".png"; 
-// 			var replace = "<img id=double src=" + imagePath + "> <p><profilename>" + displayname + "</profilename></br>";
-// 			var find = new RegExp(str, "gi");
-// 			//TODO: check and see if replace path exists, if not, bold name and continue, else...
-// 			document.body.innerHTML = document.body.innerHTML.replace(find, replace);	
-			
-// 			// TODO: Remove this - temp hack to allow spaces in between name and emote
-// 			str = "<p>" + characterKey + " " + emoteSuffix + ":";
-// 			find = new RegExp(str, "gi");
-// 			document.body.innerHTML = document.body.innerHTML.replace(find, replace);	
-// 		}
-// 	}
-
-// 	//Format
-// 	document.body.style.fontSize = "medium";
-// }
 
 // Showdown markdown functionality
 
