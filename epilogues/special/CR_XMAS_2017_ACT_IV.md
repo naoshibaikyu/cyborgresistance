@@ -38,7 +38,7 @@ Hornet Sleep: zZZ...zzz... Muh.... Huh?
 
 GhostFuture Angry: Hoorrrnnettttt....
 
-HornetShocked: What the?!
+Hornet Shocked: What the?!
 
 GhostFuture Angry: ...I have come for you... I am-
 
@@ -46,25 +46,25 @@ Hornet Angry: **DEATH!!**
 
 GhostFuture: Huh? Wait! Dude, I'm-
 
-GhostFuturePunched: *OOF!*
+GhostFuture Punched: *OOF!*
 
-GhostFutureDamaged: What the hell?!
+GhostFuture Damaged: What the hell?!
 
-HornetPissed: **YOU WILL NOT TAKE ME ALIVE!!**
+Hornet Pissed: **YOU WILL NOT TAKE ME ALIVE!!**
 
-GhostFutureDamaged: Stop it! I'm not-
+GhostFuture Damaged: Stop it! I'm not-
 
-GhostFuturePunched: *OW!!* STOP!!
+GhostFuture Punched: *OW!!* STOP!!
 
-HornetPissed: **I WILL DEFEAT YOU, DEATH!! DIE DEATH!!!** ***DIE DIE DIE!!!***
+Hornet Pissed: **I WILL DEFEAT YOU, DEATH!! DIE DEATH!!!** ***DIE DIE DIE!!!***
 
-GhostFuturePunched: *AUGHHHHHHH*
+GhostFuture Punched: *AUGHHHHHHH*
 
 Spike Aloof: ...
 
-HornetPissed: ***ATATATATATATATATATATATATA!!!*** *[rapidly punches "Death"]*
+Hornet Pissed: ***ATATATATATATATATATATATATA!!!*** *[rapidly punches "Death"]*
 
-GhostFuturePunched: *HELP ME! OH MY GOD MY FACE IS BEING SHATTERED HELP* ***HSDJFSDKGJSSKSFKLSDHGSDGHSHSD...***
+GhostFuture Punched: *HELP ME! OH MY GOD MY FACE IS BEING SHATTERED HELP* ***HSDJFSDKGJSSKSFKLSDHGSDGHSHSD...***
 
 Spike Aloof: ...
 
