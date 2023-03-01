@@ -14,19 +14,19 @@ EpStart
 
 @LOCATION: Hornet Man's bedroom... again
 
-Hornet Sleep: Zzzzzz...
+Hornet0 Sleep: Zzzzzz...
 
 %**SFX:** Footsteps
 
-Hornet Sleep: Zzzzzz... ZZZZZzzzz...
+Hornet0 Sleep: Zzzzzz... ZZZZZzzzz...
 
 %**SFX:** More Footsteps
 
-Hornet Sleep: ZZzzzZzZzZzZZzz...
+Hornet0 Sleep: ZZzzzZzZzZzZZzz...
 
 %**SFX:** Even More Footsteps*
 
-Hornet Sleep: ZZZZZZZZZZZZZZZZZZ
+Hornet0 Sleep: ZZZZZZZZZZZZZZZZZZ
 
 %**SFX:** Just get on with it already.
 
@@ -34,15 +34,15 @@ Hornet Sleep: ZZZZZZZZZZZZZZZZZZ
 
 GhostFuture Scary: **[looms over with an onimous sound playing in the background]** ...
 
-Hornet Sleep: zZZ...zzz... Muh.... Huh?
+Hornet0 Sleep: zZZ...zzz... Muh.... Huh?
 
 GhostFuture Angry: **[points directly at Hornet Man's face]** Hoorrrnnettttt....
 
-Hornet Shocked: **!**
+Hornet0 Shocked: **!**
 
 GhostFuture Angry: ...I have come for you... I am-
 
-Hornet Angry: **DEATH!!**
+Hornet0 Angry: **DEATH!!**
 
 GhostFuture: Death?
 
@@ -50,19 +50,19 @@ GhostFuture Punched: **OOF**
 
 GhostFuture Damaged: ...
 
-Hornet Pissed: **YOU WILL NOT TAKE ME ALIVE!!**
+Hornet0 Pissed: **YOU WILL NOT TAKE ME ALIVE!!**
 
 GhostFuture Damaged: Stop it! I'm not-
 
 GhostFuture Punched: **[face shatters more]**
 
-Hornet Pissed: **I WILL DEFEAT YOU, DEATH!! DIE DEATH!!!** ***DIE DIE DIE!!!***
+Hornet0 Pissed: **I WILL DEFEAT YOU, DEATH!! DIE DEATH!!!** ***DIE DIE DIE!!!***
 
 GhostFuture Punched: **AUGHHHHHHH**
 
 Spike Aloof: ...
 
-Hornet Pissed: ***ATATATATATATATATATATATATA!!!*** **[rapidly punches "Death"]**
+Hornet0 Pissed: ***ATATATATATATATATATATATATA!!!*** **[rapidly punches "Death"]**
 
 GhostFuture Punched: *HELP ME! OH MY GOD MY FACE IS BEING SHATTERED HELP* ***HSDJFSDKGJSSKSFKLSDHGSDGHSHSD...***
 
