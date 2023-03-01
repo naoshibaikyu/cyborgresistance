@@ -12,41 +12,41 @@ EpStart
 
 @ACTNUM: ACT IV
 
-@LOCATION: Hornet Man's bedroom... again</div>
+@LOCATION: Hornet Man's bedroom... again
 
 Hornet Sleep: Zzzzzz...
 
-%**SFX:** *Footsteps*
+%**SFX:** Footsteps
 
 Hornet Sleep: Zzzzzz... ZZZZZzzzz...
 
-%**SFX:** *More Footsteps*
+%**SFX:** More Footsteps
 
 Hornet Sleep: ZZzzzZzZzZzZZzz...
 
-<div class="narration"><b>SFX: </b>*Even More Footsteps*</div>
+%**SFX:** Even More Footsteps*
 
 Hornet Sleep: ZZZZZZZZZZZZZZZZZZ
 
-%**SFX:** Holy shit just get on with it already
+%**SFX:** Just get on with it already.
 
 %A robed shaped shadow casts over Hornet Man.
 
-GhostFuture Scary: *[looms over]* ...
+GhostFuture Scary: **[looms over with an onimous sound playing in the background]** ...
 
 Hornet Sleep: zZZ...zzz... Muh.... Huh?
 
-GhostFuture Angry: Hoorrrnnettttt....
+GhostFuture Angry: **[points directly at Hornet Man's face]** Hoorrrnnettttt....
 
-Hornet Shocked: What the?!
+Hornet Shocked: **!**
 
 GhostFuture Angry: ...I have come for you... I am-
 
 Hornet Angry: **DEATH!!**
 
-GhostFuture: Huh?
+GhostFuture: Death?
 
-GhostFuture Punched: *OOF!*
+GhostFuture Punched: **OOF**
 
 GhostFuture Damaged: ...
 
@@ -54,15 +54,15 @@ Hornet Pissed: **YOU WILL NOT TAKE ME ALIVE!!**
 
 GhostFuture Damaged: Stop it! I'm not-
 
-GhostFuture Punched: *OW!!* STOP!!
+GhostFuture Punched: **[face shatters more]**
 
 Hornet Pissed: **I WILL DEFEAT YOU, DEATH!! DIE DEATH!!!** ***DIE DIE DIE!!!***
 
-GhostFuture Punched: *AUGHHHHHHH*
+GhostFuture Punched: **AUGHHHHHHH**
 
 Spike Aloof: ...
 
-Hornet Pissed: ***ATATATATATATATATATATATATA!!!*** *[rapidly punches "Death"]*
+Hornet Pissed: ***ATATATATATATATATATATATATA!!!*** **[rapidly punches "Death"]**
 
 GhostFuture Punched: *HELP ME! OH MY GOD MY FACE IS BEING SHATTERED HELP* ***HSDJFSDKGJSSKSFKLSDHGSDGHSHSD...***
 
