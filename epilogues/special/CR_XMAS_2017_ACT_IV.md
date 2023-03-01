@@ -44,11 +44,11 @@ GhostFuture Angry: ...I have come for you... I am-
 
 Hornet Angry: **DEATH!!**
 
-GhostFuture: Huh? Wait! Dude, I'm-
+GhostFuture: Huh?
 
 GhostFuture Punched: *OOF!*
 
-GhostFuture Damaged: What the hell?!
+GhostFuture Damaged: ...
 
 Hornet Pissed: **YOU WILL NOT TAKE ME ALIVE!!**
 
