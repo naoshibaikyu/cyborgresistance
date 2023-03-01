@@ -80,25 +80,23 @@ GhostPresent: Umm... I don't think Concrete-
 
 %"*OH GOD! HE RIPPED MY <b>ARMS</b> OFF!* FOR THE LOVE OF THAT IS EVERYTHING... **HELLPPP MEEEEEEEE**"
 
-GhostPresentShocked: EEP! *[hides back in the box]*
+GhostPresent Shocked: EEP! *[hides back in the box]*
 
-FakeShocked: Uhhh, so sh-
+Fake Shocked: Uhhh, so sh-
 
 FutureHornet: Yes, we *absolutely* should.
 
 %The two barges into the room and all they see is the room in a big mess coupled with pieces of Galaxy Man's parts.
 
-GhostPastShocked: *[disguising herself as one of the ghosts]* Holy-
+GhostPast Shocked: *[disguising herself as one of the ghosts]* Holy-
 
-GhostFutureDamaged: *[leaking a lot of oil]* I don't want to be on Earth anymore...
+GhostFuture Damaged: *[leaking a lot of oil]* I don't want to live on this planet anymore...
 
-HornetGiddy: YES! I'VE DEFEATED DEATH! NOW NO ONE CAN STOP ME! I AM IMMORTAL! *I AM IMMORTAL!!!*
+Hornet Giddy: YES! I'VE DEFEATED *DEATH*! NOW NO ONE CAN STOP ME! I AM IMMORTAL! **I AM IMMORTAL!!!**
 
 GhostPastShocked: ...
 
 Spike Aloof: ...
-
-HornetGiddy: HAHAHAHAHA! NOW I CAN-
 
 Tornado Annoyed: Violent. Oil. Acknowledge that Hornet harmed the Space Man. Yes?
 
@@ -106,7 +104,7 @@ GhostPast: What is wrong with you?!
 
 GhostPresentShocked: I-I think I'm going to be sick!
 
-HornetSad: What do you two idiots want? I've already told you to scram!
+Hornet Sad: What do you two idiots want? I've already told you to scram!
 
 GhostPast: Do you have any idea what you've done?!
 
@@ -120,63 +118,61 @@ GhostPast: No! That was the Christmas Ghost of the Future!
 
 Hornet: No, I'm pretty sure that was death. Now I'm immortal! Ha!
 
-GhostPast Annoyed: Are you really this fucking self absorbed?
-
-GhostPresentShocked: No! We're Christmas Ghosts! No swearing in this Christian Holiday!
+GhostPast Annoyed: ...
 
 GhostFutureDamaged: *[still leaking lots of oil]* Can anyone help already...
 
-HornetGlare: *[was completely paying no attention]* Huh, did you guys say something? ...Wait, hmm? *[turns around]*
+HornetGlare: *[was completely paying no attention]* Huh, did you guys say something? ...Wait, hmm? **[turns around]**
 
 FutureHornet: ...!
 
-HornetGlare:  *[sees his "Future" self]* What the? Grey hair and beard? Despite my immortality, I still age in the future apparently...
+HornetGlare:  **[sees his "Future" self]** What the? Grey hair and beard? Despite my immortality, I'm still aging...?!
 
-FutureHornet: Um, uh. *[coughs]* I am 30 years old and I'm so old and I don't feel good and... *[cough]*
+FutureHornet: Um, uh. **[coughs]** I am 30 years old and I'm so old and I don't feel good and... **[cough]**
 
 Hornet: ...?!
 
-FutureHornet: ... and... death finally caught up and got its revenge on me... *[collapses "dead"]*
+FutureHornet: ... and... death finally caught up and got its revenge on me... **[collapses "dead"]**
 
 HornetShocked: W-What?! NO! NO NO! MY IMMORTALITY... WHAT HAPPENED?!
 
-GhostFutureDamaged: Guys... I think I can't feel my arms...
+GhostFuture Damaged: Guys... I think I can't feel my arms...
 
-GhostFuturePunched: **OW**
+GhostFuture Punched: **OW**
 
-GhostFutureDamaged: Nevermind... There it is...
+GhostFuture Damaged: Nevermind... There it is...
 
 HornetGlare: Shut up! I've clearly haven't punched you hard enough!
 
-GhostPresentShocked: Stop!
+GhostPresent Shocked: Stop!
 
-Hornet: Eh?
+Hornet Annoyed: What!?
 
 GhostPast: Yeah! You've... uh... Lost your immortality, so your life expectancy has significantly shortened as a result!
 
-HornetShocked: At the age of 30? Wait... oh god, that's next year! I'm going to die next year?!
+Hornet Shocked: At the age of 30? Wait... oh god, that's next year! I'm going to die next year?!
 
-HornetSad: Where have I go wrong...
+Hornet Sad: Where have I gone wrong...
 
-GhostFutureDamaged: For starters.. you're a big fat jerk-
+GhostFuture Damaged: For starters.. you're a big fat jerk-
 
-GhostFuturePunched: **AUGH**
+GhostFuture Punched: **AUGH**
 
-GhostPast: "Death" is right! Your lack of goodwill and deeds has made you lose your immortality! Only those with good heart would keep their immortality!
+GhostPast: "Death" is right! Your lack of goodwill and good deeds has caught up to you! Only those with good heart will keep their immortality!
 
 HornetGlare: Wow. Not worth it.
 
-FutureHornet: [pretends to rot]
+FutureHornet: **[pretends to rot]*
 
-HornetShocked: But I don't wanna die! I must change!
+Hornet Shocked: But I don't wanna die! I must change!
 
 %To his horror, Hornet Man bolts out of the room.
 
 FutureHornet: Uhh...
 
-GhostPastShocked: Can I take what I've said about the prank backfiring back?
+GhostPast Shocked: I take what I've said about backfire back.
 
-GhostFutureDamaged: ...
+GhostFuture Damaged: ...
 
 GhostPast Annoyed: ...
 
