@@ -14,35 +14,35 @@ EpStart
 
 @LOCATION: Hornet Man's bedroom... again</div>
 
-HornetSleep: Zzzzzz...
+Hornet Sleep: Zzzzzz...
 
 %**SFX:** *Footsteps*
 
-HornetSleep: Zzzzzz... ZZZZZzzzz...
+Hornet Sleep: Zzzzzz... ZZZZZzzzz...
 
 %**SFX:** *More Footsteps*
 
-HornetSleep: ZZzzzZzZzZzZZzz...
+Hornet Sleep: ZZzzzZzZzZzZZzz...
 
 <div class="narration"><b>SFX: </b>*Even More Footsteps*</div>
 
-HornetSleep: ZZZZZZZZZZZZZZZZZZ
+Hornet Sleep: ZZZZZZZZZZZZZZZZZZ
 
 %**SFX:** Holy shit just get on with it already
 
 %A robed shaped shadow casts over Hornet Man.
 
-GhostFutureScary: *[looms over]* ...
+GhostFuture Scary: *[looms over]* ...
 
-HornetSleep: zZZ...zzz... Muh.... Huh?
+Hornet Sleep: zZZ...zzz... Muh.... Huh?
 
-GhostFutureAngry: Hoorrrnnettttt....
+GhostFuture Angry: Hoorrrnnettttt....
 
 HornetShocked: What the?!
 
-GhostFutureAngry: ...I have come for you... I am-
+GhostFuture Angry: ...I have come for you... I am-
 
-HornetAngry: **DEATH!!**
+Hornet Angry: **DEATH!!**
 
 GhostFuture: Huh? Wait! Dude, I'm-
 
@@ -60,21 +60,21 @@ HornetPissed: **I WILL DEFEAT YOU, DEATH!! DIE DEATH!!!** ***DIE DIE DIE!!!***
 
 GhostFuturePunched: *AUGHHHHHHH*
 
-SpikeAloof: ...
+Spike Aloof: ...
 
 HornetPissed: ***ATATATATATATATATATATATATA!!!*** *[rapidly punches "Death"]*
 
 GhostFuturePunched: *HELP ME! OH MY GOD MY FACE IS BEING SHATTERED HELP* ***HSDJFSDKGJSSKSFKLSDHGSDGHSHSD...***
 
-SpikeAloof: ...
+Spike Aloof: ...
 
 %Outside the room...
 
-GhostPresentAnnoyed: *[peeps out of a giant empty gift box]* What's taking him so long?
+GhostPresent Annoyed: *[peeps out of a giant empty gift box]* What's taking him so long?
 
 FutureHornet: I wish he can hurry up so this can be over with...
 
-FakeSnicker: *[as a Christmas star]* Don't worry, I sent Concrete Man to make sure everything will be okay!
+Fake Snicker: *[as a Christmas star]* Don't worry, I sent Concrete Man to make sure everything will be okay!
 
 GhostPresent: Umm... I don't think Concrete-
 
@@ -96,11 +96,11 @@ HornetGiddy: YES! I'VE DEFEATED DEATH! NOW NO ONE CAN STOP ME! I AM IMMORTAL! *I
 
 GhostPastShocked: ...
 
-SpikeAloof: ...
+Spike Aloof: ...
 
 HornetGiddy: HAHAHAHAHA! NOW I CAN-
 
-TornadoAnnoyed: Violent. Oil. Acknowledge that Hornet harmed the Space Man. Yes?
+Tornado Annoyed: Violent. Oil. Acknowledge that Hornet harmed the Space Man. Yes?
 
 GhostPast: What is wrong with you?!
 
@@ -112,7 +112,7 @@ GhostPast: Do you have any idea what you've done?!
 
 Hornet: Yes! Immortality is MINE!
 
-GhostPresentAnnoyed: He was one of us!
+GhostPresent Annoyed: He was one of us!
 
 Hornet: Death was one of you?!
 
@@ -120,7 +120,7 @@ GhostPast: No! That was the Christmas Ghost of the Future!
 
 Hornet: No, I'm pretty sure that was death. Now I'm immortal! Ha!
 
-GhostPastAnnoyed: Are you really this fucking self absorbed?
+GhostPast Annoyed: Are you really this fucking self absorbed?
 
 GhostPresentShocked: No! We're Christmas Ghosts! No swearing in this Christian Holiday!
 
@@ -178,7 +178,7 @@ GhostPastShocked: Can I take what I've said about the prank backfiring back?
 
 GhostFutureDamaged: ...
 
-GhostPastAnnoyed: ...
+GhostPast Annoyed: ...
 
 %Part four, end.
 
