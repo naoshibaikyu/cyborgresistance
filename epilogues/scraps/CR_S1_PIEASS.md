@@ -526,7 +526,7 @@ Police Bot 1: Well, we're ready to fire, commander!
 
 Police Commander Bot: **[over at the intercom]** What? Land pirates?! That's just ridiculous! Whatever they are-
 
-**FWOOOOM**
+%**FWOOOOM**
 
 Police Bots: **AUGHHHH!!!**
 
@@ -534,7 +534,7 @@ Police Commander Bot: **[over at the intercom]** What's going on?! Over!
 
 Police Bot 3: 2 men down! 2 men down! OH NO! 
 
-**FWOOOOOOOM**
+%**FWOOOOOOOM**
 
 Police Bot 4: EEK!
 
