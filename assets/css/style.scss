@@ -181,10 +181,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 { 
   font-size: 150%;
   text-align: center;
-  text-shadow: 		-2px -2px 0 #000,
-		2px -2px 0 #000,
-		-2px 2px 0 #000,
-		2px 2px 0 #000;
+  text-shadow: -2px 2px #000;
   color: #FCFCFC;
   border-radius: 4px;
   padding-top: 8px;
@@ -194,7 +191,7 @@ src: url("../fonts/Nintendo-DS-BIOS.ttf");
 .location:before{
   font-size: 50%;
   text-align: center;
-  text-shadow: -2px 1px #080808;
+  text-shadow: -2px 1px #000;
   color: #FCFCFC;
   border-radius: 4px;
   font-family: 'Mega Man 6 Stats';
