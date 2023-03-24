@@ -1,78 +1,82 @@
 EpStart
 
-<div class=""><center>
-<h4>Season 1 Episode ?</h4>
-<h2>PIEASS</h2>
-<h6>Written by Psycho The Mantis</h6>
-</center>
+<!-- Epilogue Info -->
+ 
+@EPNUM: Lost Chronicles #40
 
-<div class="narration"><b>LOCATION:</b> Team Base
+@TITLE: PIEASS
 
-HornetGlare: [flipping through channels] Meh. Nothing good is on TV today...
+@AUTHOR: By Arrietty
 
-FakeAnnoyed: Then stop flipping channels, you've been at it for 30 minutes.
+<!-- Epilogue -->
 
-HornetGlare: [keeps pressing the button on the remote] But I'm hoping to catch a good show on! You can just mind your own damned business.
+@LOCATIONlightslab2: DR. LIGHT'S LAB
 
-FakeShocked: But you've cycled through all the channels 5 times...
+Hornet Glare: [flipping through channels] Meh. Nothing good is on TV today...
 
-HornetGlare: Meh. Still nothing good... [still flipping]
+Fake Annoyed: Then stop flipping channels, you've been at it for 30 minutes.
 
-FakeAnnoyed: Make that 6.
+Hornet Glare: [keeps pressing the button on the remote] But I'm hoping to catch a good show on! You can just mind your own damned business.
 
-HornetGlare: Oh, shut it. Not like you have any better ideas.
+Fake Shocked: But you've cycled through all the channels 5 times...
+
+Hornet Glare: Meh. Still nothing good... [still flipping]
+
+Fak eAnnoyed: Make that 6.
+
+Hornet Glare: Oh, shut it. Not like you have any better ideas.
 
 Fake: ...
 
-FakeSnicker: Well, I've managed to snag a copy of the Nintendo Wii U Classic.
+Fake Snicker: Well, I've managed to snag a copy of the Nintendo Wii U Classic.
 
 Hornet: ...
 
-FakeAnnoyed: ...
+Fake Annoyed: ...
 
-SpikeAloof: ...
+Spike Aloof: ...
 
 Hornet: When did you get in here? Whatever. Not interested anyways.
 
 %Hornet stops channel flipping and ends up at a channel displaying a show called "Super Salmon Ninja Squad".
 
-HornetGlare: Oh god...
+Hornet Glare: Oh god...
 
 Fake: What's wrong? It's a popular show amongst kids and even adults like us!
 
-Hornet: Well, count me out on being part this stupid trash's braindead audience. Nowadays all the popular shows are about Ninjas, Samurais and whatever else. But never pirates. Pirates!!!
+Hornet: Well, count me out on being part this stupid trash's braindead audience. Nowadays all the popular shows are about Ninjas. But never pirates. Pirates!!!
 
-Fake: Maybe Pirates are just not appealing to-
+Fake: Maybe Pirates are just not the flavor of the mon-
 
-HornetAngry: WRONG! So so wrong. What do you even know about Pirates? You're not a sheep to the modern mainstream, are you Fakette!? ARE YOU?!
+Hornet Angry: WRONG! So so wrong. What do you even know about Pirates? You're not a sheep to the modern mainstream, are you Fakette!? ARE YOU?!
 
-FakeShocked: Yeesh, taking it a bit personal there. I didn't even stated my perference.
+Fake Shocked: Yeesh, taking it a bit personal there. I didn't even stated my perference.
 
-HornetGlare: So?! It's personal when Ninjas are somehow the "in" to everyone now. 
+Hornet Glare: So what?! It's personal when Ninjas are somehow the "in" to everyone now. 
 
-FakeAnnoyed: They have always been popular, Hornet.
+Fake Annoyed: They have always been popular, Hornet.
 
-HornetAngry: FAKETTE, DON'T YOU UNDERSTAND?! NINJAS ARE TRASH!! **T-R-A-S-H**
+Hornet Angry: FAKETTE, DON'T YOU UNDERSTAND?! NINJAS ARE TRASH!! **T-R-A-S-H**
 
 %Elsewhere in the Team's base.
 
 Splash: And that is how you-
 
-SplashShocked: **!!**
+Splash Shocked: **!!**
 
-PlugShocked: Sacre bleu, what's wrong?
+Plug Shocked: Sacre bleu, what's wrong?
 
-SplashNani: I've sensed some serious *dishonor* from the living room...
+Splash Nani: I've sensed some serious *dishonor* from the living room...
 
 %Splash Man immediately darts out of his room with Plug Man following.
 
-HornetGlare: [watched bits of the show right before deciding to flip channels again] How do these Salmon even walk? They don't have legs anyways!
+Hornet Glare: [watched bits of the show right before deciding to flip channels again] How do these Salmon even walk? They don't have legs anyways!
 
-FakeAnnoyed: It's a cartoon... You're suppose to suspend disbelief!
+Fake Annoyed: It's a cartoon... You're suppose to suspend disbelief!
 
 %Suddenly Splash Man zooms into the scene with Plug Man arriving a few seconds later.
 
-SplashAngry: Alright, who was it?! Who uttered such a dishonorable thing around here?!
+Splash Angry: Alright, who was it?! Who uttered such a dishonorable thing around here?!
 
 HornetGlare: What are you talkin' about?
 
@@ -340,4 +344,4 @@ HornetAnnoyed: Arr...
 
 EpFin
 
-<script src="assets/js/EpFormatter.js"></script>
+<script src="{{ '/assets/js/EpFormatter.js' | relative_url }}"></script>
