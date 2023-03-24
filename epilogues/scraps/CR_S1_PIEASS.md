@@ -344,7 +344,7 @@ Hornet Annoyed: Arr...
 
 @ACTNUM: ACT 2
 
-**LOCATION:** Pirate Ship
+@LOCATIONocean: PIRATE SHIP
 
 Magma: Alright, mateys. Listen up! As pirates, ye' all do as I say as I am the captain of the crew. We are gon' get that booty and become rich!
 
@@ -646,7 +646,7 @@ Hornet Glare: What is the treasure anyways? You've never told us anything about 
 
 Magma: That's the exciting part! I don't know what's the treasure!
 
-Hornet: What? Are you serious?!
+Hornet Angry: What? Are you serious?!
 
 Magma: Yar! I know nothin' about the treasure other than it's right there **[points at an abandoned warehouse on the map]** in ye ol' abandoned warehouse in the middle of nowhere!
 
