@@ -12,11 +12,11 @@ EpStart
 
 @LOCATIONlightslab: DR. LIGHT'S LAB
 
-Hornet Glare: **[flipping through channels]** Meh. Nothing good is on TV today...
+Hornet Glare: **[flipping through channels]**<br>Meh. Nothing good is on TV today...
 
 Fake Annoyed: Then stop flipping channels, you've been at it for 30 minutes.
 
-Hornet Glare: **[keeps pressing the button on the remote]** But I'm hoping to catch a good show on! You can just mind your own damned business.
+Hornet Glare: **[keeps pressing the button on the remote]**<br>But I'm hoping to catch a good show on! You can just mind your own damned business.
 
 Fake Shocked: But you've cycled through all the channels 5 times...
 
@@ -70,7 +70,7 @@ Splash Nani: I've sensed some serious *dishonor* from the living room...
 
 %Splash Man immediately darts out of his room with Plug Man following.
 
-Hornet Glare: **[watched bits of the show right before deciding to flip channels again]** How do these Salmon even walk? They don't have legs anyways!
+Hornet Glare: **[watched bits of the show right before deciding to flip channels again]**<br>How do these Salmon even walk? They don't have legs anyways!
 
 Fake Annoyed: It's a cartoon... You're suppose to suspend disbelief!
 
@@ -212,7 +212,7 @@ Hornet Annoyed: ...
 
 Hornet: What's in it.
 
-Fake Happy: **[holding a regular Wii U box with a paper taped onto it with written in a marker]** 30 amazing games it says!
+Fake Happy: **[holding a regular Wii U box with a paper taped onto it with written in a marker]**<br>30 amazing games it says!
 
 Hornet Glare: Bullshit. There's only less than half of that.
 
@@ -280,7 +280,7 @@ Hornet Annoyed: Oh what?! Well, I still want my wish!
 
 Magma Happy: And we still need a pirate ship for our crew!
 
-Hornet Glare: Then it's on...!! **[grabs the wishbone and holds it up in front of Magma Man]**
+Hornet Glare: Then it's on...!!<br>**[grabs the wishbone and holds it up in front of Magma Man]**
 
 Magma Annoyed: **[grabs the wishbone from the other side]**
 
@@ -292,11 +292,11 @@ Hornet Angry: Fuck!
 
 %Suddenly right outside their lawn, the pirate ship appears from thin air in the sky!
 
-Galaxy Shocked: **[wakes up and sees a pirate ship dropping onto the pool]** (°o°) ... **(°ロ°)!**
+Galaxy Shocked: **[wakes up and sees a pirate ship dropping onto the pool]**<br>(°o°) ... **(°ロ°)!**
 
-Plug Happy: **[peeks out the window]** Wow, it really worked!!
+Plug Happy: **[peeks out the window]**<br>Wow, it really worked!!
 
-Magma Happy: **[peeks out the window]** Yarr!! There it is, lads! All aboard the S.S. Magma!
+Magma Happy: **[peeks out the window]**<br>Yarr!! There it is, lads! All aboard the S.S. Magma!
 
 Hornet Sad: Meh.
 
