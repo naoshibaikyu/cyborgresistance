@@ -344,7 +344,7 @@ Hornet Annoyed: Arr...
 
 @ACTNUM: ACT 2
 
-@LOCATIONocean: <font color="orange"><b>PIRATE SHIP</b></font>
+@LOCATIONocean: <font color="orange">PIRATE SHIP</font>
 
 Magma: Alright, mateys. Listen up! As pirates, ye' all do as I say as I am the captain of the crew. We are gon' get that booty and become rich!
 
