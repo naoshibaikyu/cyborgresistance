@@ -12,15 +12,15 @@ EpStart
 
 @LOCATIONlightslab: DR. LIGHT'S LAB
 
-Hornet Glare: [flipping through channels] Meh. Nothing good is on TV today...
+Hornet Glare: **[flipping through channels]** Meh. Nothing good is on TV today...
 
 Fake Annoyed: Then stop flipping channels, you've been at it for 30 minutes.
 
-Hornet Glare: [keeps pressing the button on the remote] But I'm hoping to catch a good show on! You can just mind your own damned business.
+Hornet Glare: **[keeps pressing the button on the remote]** But I'm hoping to catch a good show on! You can just mind your own damned business.
 
 Fake Shocked: But you've cycled through all the channels 5 times...
 
-Hornet Glare: Meh. Still nothing good... [still flipping]
+Hornet Glare: Meh. Still nothing good... **[still flipping]**
 
 Fake Annoyed: Make that 6.
 
@@ -70,7 +70,7 @@ Splash Nani: I've sensed some serious *dishonor* from the living room...
 
 %Splash Man immediately darts out of his room with Plug Man following.
 
-Hornet Glare: [watched bits of the show right before deciding to flip channels again] How do these Salmon even walk? They don't have legs anyways!
+Hornet Glare: **[watched bits of the show right before deciding to flip channels again]** How do these Salmon even walk? They don't have legs anyways!
 
 Fake Annoyed: It's a cartoon... You're suppose to suspend disbelief!
 
@@ -100,7 +100,7 @@ Spike Aloof: ...
 
 Splash Angry: First off, we're not inferior! We hide and strike our foes at the right moment before they know what hit 'em! And second of-
 
-Hornet Glare: [interrupts] Wow. So impressive. **NOT!** Sounds like a bunch of miserable cowards in spandexes that jump around like idiots.
+Hornet Glare: **[interrupts]** Wow. So impressive. **NOT!** Sounds like a bunch of miserable cowards in spandexes that jump around like idiots.
 
 Splash Angry: Fool! It's called stealth and there's a lot of work and skills involved, so it's not cowardice you ignorant-
 
@@ -186,7 +186,7 @@ Splash Annoyed: You just don't wanna admit-
 
 Hornet Glare: Go home!
 
-Splash Angry: Fine! I'm out! [heads back to his room]
+Splash Angry: Fine! I'm out! **[heads back to his room]**
 
 Galaxy Happy: Well, guess I'm gonna go do some grocery shopping.
 
@@ -212,7 +212,7 @@ Hornet Annoyed: ...
 
 Hornet: What's in it.
 
-Fake Happy: [holding a regular Wii U box with a paper taped onto it with written in a marker] 30 amazing games it says!
+Fake Happy: **[holding a regular Wii U box with a paper taped onto it with written in a marker]** 30 amazing games it says!
 
 Hornet Glare: Bullshit. There's only less than half of that.
 
@@ -222,11 +222,11 @@ Hornet: ...How much are you willing to sell it for?
 
 Fake: Uh... $500?
 
-Hornet: **Sold!** [takes out his wallet and hands over his $500]
+Hornet: **Sold!** **[takes out his wallet and hands over his $500]**
 
-Fake Shocked: O-Oh. Well, I didn't expect an actual sale. Aheh.... [hands over the box]
+Fake Shocked: O-Oh. Well, I didn't expect an actual sale. Aheh.... **[hands over the box]**
 
-Hornet: Whatever! Hooking it up now! [opens the box]
+Hornet: Whatever! Hooking it up now! **[opens the box]**
 
 %Suddenly Magma Man barges in from his trip outdoors.
 
@@ -236,15 +236,15 @@ Hornet: Shut up! I'm trying to boot up the Wii U Classic Mini!!
 
 Hornet Glare: ...Hmm, the mini system is the exact size as the original...
 
-Magma: I'm now a pirate for no reason! Arrrr!! [pirate hat and eyepatch suddenly appears]
+Magma: I'm now a pirate for no reason! Arrrr!! **[pirate hat and eyepatch suddenly appears]**
 
-Plug Happy: Oh! Oh! Can I be a Pirate too? [pirate hat appears too] Yeah!
+Plug Happy: Oh! Oh! Can I be a Pirate too? **[pirate hat appears too]** Yeah!
 
-Hornet Angry: WHAT!? WHAT ABOUT ME?! [same]
+Hornet Angry: WHAT!? WHAT ABOUT ME?! **[same]**
 
-Hornet: FUCK YEAH!!!! [throws the GamePad out of the window]
+Hornet: FUCK YEAH!!!! **[throws the GamePad out of the window]**
 
-Galaxy Angry: [gets hit in the head by the Mini GamePad] (x0x) **KOed**
+Galaxy Angry: **[gets hit in the head by the Mini GamePad]** (x0x) **KOed**
 
 Magma: Arrr! Let's find some lost treasure!!
 
@@ -252,7 +252,7 @@ Plug: Arrr!
 
 Hornet: ARRR!!!
 
-Spike Annoyed: [shakes head no position]
+Spike Annoyed: **[shakes head no position]**
 
 Plug: I don't think Concrete Man likes fun.
 
@@ -262,7 +262,7 @@ SpikeAloof: ...
 
 Hornet Angry: You know what? EAT THIS!! *shoots out tons of killer bees towards him*
 
-Spike Aloof: [manages to rolls away successfully, but accidentally leaves behind a wishbone he had from a turkey dinner]
+Spike Aloof: **[manages to rolls away successfully, but accidentally leaves behind a wishbone he had from a turkey dinner]**
 
 Hornet: Dammit!
 
@@ -280,23 +280,23 @@ Hornet Annoyed: Oh what?! Well, I still want my wish!
 
 Magma Happy: And we still need a pirate ship for our crew!
 
-Hornet Glare: Then it's on...!! [grabs the wishbone and holds it up in front of Magma Man]
+Hornet Glare: Then it's on...!! **[grabs the wishbone and holds it up in front of Magma Man]**
 
-Magma Annoyed: [grabs the wishbone from the other side]
+Magma Annoyed: **[grabs the wishbone from the other side]**
 
 %Both had a dramatic staredown right before pulling the wishbone to their direction. And... <b>SNAP!!</b>
 
-Magma Giddy: YEAH! [holds the longer piece up]
+Magma Giddy: YEAH! **[holds the longer piece up]**
 
 Hornet Angry: Fuck!
 
 %Suddenly right outside their lawn, the pirate ship appears from thin air in the sky!
 
-Galaxy Shocked: [wakes up and sees a pirate ship dropping onto the pool] (°o°) ... **(°ロ°)!**
+Galaxy Shocked: **[wakes up and sees a pirate ship dropping onto the pool]** (°o°) ... **(°ロ°)!**
 
-Plug Happy: [peeks out the window] Wow, it really worked!!
+Plug Happy: **[peeks out the window]** Wow, it really worked!!
 
-Magma Happy: [peeks out the window] Yarr!! There it is, lads! All aboard the S.S. Magma!
+Magma Happy: **[peeks out the window]** Yarr!! There it is, lads! All aboard the S.S. Magma!
 
 Hornet Sad: Meh.
 
