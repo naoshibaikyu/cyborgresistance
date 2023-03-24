@@ -398,11 +398,11 @@ Hornet: Oh, shut your stupid annoying face.
 
 Galaxy Angry: Hey!!
 
-Hornet Annoyed: I said shut up!
+Hornet Annoyed: I said shut up.
 
 Galaxy Pissed: (`д´#)
 
-Hornet Annoyed: Are you trying to scare me? Cuz' it ain't working motha fucka.
+Hornet Annoyed: Are you trying to scare me? Cause it's not working.
 
 Galaxy Pissed: o(-`д´- ｡)
 
@@ -410,11 +410,11 @@ Hornet Annoyed: Still ain't working!
 
 Galaxy Pissed: щ(ಠ益ಠщ)
 
-Hornet Annoyed: STILL NOT WORKING!!!!!!
+Hornet Annoyed: *Still not working!*
 
 Galaxy Angry: (>_<)
 
-Hornet Glare: Wow, you just gave up there.
+Hornet: Wow, you just gave up there.
 
 Galaxy Pissed: THAT'S IT! ＼(｀0´)／ **[takes out a pirate sword and stabs it through Hornet Man's stomach twice]**
 
@@ -424,11 +424,11 @@ Galaxy Pissed: **[grabs Hornet Man's head and twists it to snap his neck]**
 
 Hornet Shocked: GACK **[falls over dead]**
 
-%(That didn't happen)
+%That didn't happen.
 
 %*FWOOOSH*
 
-Hornet: Well...?
+Hornet Glare: What are you staring at?
 
 Galaxy Pissed: ＼(｀0´)／ **[tries stabbing him with the pirate sword but it shatters on impact instead]**
 
@@ -440,13 +440,13 @@ Hornet Glare: ...
 
 Galaxy Pissed: (ｏ`皿′ｏ)
 
-Hornet: Get off!! **[throws him into a barrel]**
+Hornet Angry: Get off!! **[throws him into a barrel]**
 
 Galaxy Annoyed: *glubglubglub*
 
 %The ship eventually reaches the city of Robotropolis, hitting a filled parking lot.
 
-PlugScared: **[at the crow's nest]** SACRE BLEU! We're going to hit a bunch of boats!!!!
+Plug Scared: **[at the crow's nest]** SACRE BLEU! We're going to hit a bunch of boats!!!!
 
 Hornet: Now we're talking!!
 
@@ -466,11 +466,11 @@ Civilian3: My car!!! THAT WAS MY CAR!!
 
 Magma Shocked: What was that?
 
-Hornet Glare: 'unno. I guess some really chatty seagulls?
+Hornet Glare: 'unno. I guess some seagulls?
 
 Galaxy: *glubglubglub*
 
-Hornet: I told ya to shut up!
+Hornet Glare: I told you to shut up!
 
 Galaxy Angry: **[tries to wiggle out of the barrel but to not avail]** *glub...*
 
@@ -482,11 +482,11 @@ Plug Annoyed: OH MON DIEU!!
 
 Hornet: Now what?
 
-PlugScared: This is not good I don't think, but it looks like there's rival pirate boats coming our way!
+Plug Scared: This is not good I don't think, but it looks like there's some marines coming our way!
 
-Magma Annoyed: Weird! Why would they use boats? They should be using a ship like ours!!!
+Magma Shocked: T-the Marines?!
 
-PlugScared: **[using the binoculars and sees the police cars gaining up and eventually getting near the sides of the ship]** Oh non! Ai think they're tryeng to get on ze ship!
+Plug Scared: **[using the binoculars and sees the police cars gaining up and eventually getting near the sides of the ship]**<br>Oh non! Ai think they're tryeng to get on ze ship!
 
 Hornet Glare: Okay.
 
@@ -494,7 +494,7 @@ Magma Angry: Let 'em come. Sinistar HUNGERS!
 
 %The police opens the top of their special vehicle, sending out police bots to grapple and climb onto the ship.
 
-PlugScared: Here they come from both sides!!
+Plug Scared: Here they come from both sides!!
 
 Magma: Arrr! **[draws out his sword]** Alright, lads. Hornet, you take care of the right side, I take care of the left. Plug, you scout and let us know of any incoming attacks! And... where is Galaxy?
 
@@ -502,9 +502,9 @@ Galaxy Angry: **[wiggles more and eventually gets the barrel knocked over to the
 
 Hornet Glare: **[looks at the moving barrel and then shrugs]** Must be inspecting all of the rum or somethin'.
 
-Magma Angry: Ah, good for that lad. Looking out for our ship in such dire times!
+Magma Happy: Ah, good for that lad. Looking out for our ship in such dire times!
 
-Hornet: Yeah, we can take them on ourseives anyways!
+Hornet: Yeah, we can take them on ourselves anyways!
 
 Magma Happy: Yer right. Arr! **ATTACK!!!**
 
@@ -516,7 +516,7 @@ Police Bot 1: We have our target on sight!
 
 %All the police bots on the left side of the ship aims their gun at Magma Man
 
-Magma: Arr, ye ain't going to steal my ship and get my treasure! That's one thing for certain! **[aims both of his arm cannon at the police bots]**
+Magma: Arr, ye ain't going to take me ship and get me treasure, that's one thing for certain! **[aims both of his arm cannon at the police bots]**
 
 Police Bot 2: Uhhh...
 
@@ -548,7 +548,7 @@ Police Bot 2: THEY WERE OUR HANDS!!
 
 Magma: Ye shouldn't have messed with me pirate crew and now ye shall pay the price!
 
-Police Bot 3: There's more than the 4 of us here! You won't get away with this!!
+Police Bot 3: We got back up! You won't get away with this!!
 
 Hornet: Yo, sup?
 
@@ -558,7 +558,7 @@ Police Bot 4: Eep!!
 
 Magma: Aha! Great work there!
 
-Hornet Glare: They were nothing. Can I finish these idiots off?
+Hornet Glare: They were nothing. Can I finish these idiots off? If there's anything I hate more than Galaxy Man are Sea Cops.
 
 Police Bot 1: N-no! We swear we'll do anything!!
 
@@ -578,29 +578,33 @@ Police Bot 3: We're saved!
 
 %6 more Police Bots parachutes from the helicopter above, all towards the spot where the 4 Police Bots are!
 
-Magma Annoyed: Parachuting pirates...?!
+Magma Annoyed: Parachuting marines...?!
 
 Hornet: Oh goody, more carnage! 
 
-Police Bot 5: You're outnumbered! 10 to 3!
+Police Bot 5: You're outnumbered!
 
-Hornet Annoyed: Are you blind or are you stupid? Or both? We've took on larger numbers than 10, plus the 4 of your pals are already disarmed so that makes it 6 you stupid idiot!
+Hornet Annoyed: Are you blind or are you stupid? Or both? We've took on more than that and there's still only 10 of you.
 
-Police Bot 6: Who's to say we weren't counting the 4 on the crow's nest?
+Police Bot 6: Who said there were only 10?
 
 Police Bot 7: Yeah!
 
-%Magma Man and Hornet Man looks at the crow's nest where Plug Man, is surrounded by 4 Police Guard Bots.
+%Magma Man and Hornet Man looks at the crow's nest where Plug Man, is surrounded by 4 additional Police Guard Bots.
 
 Police Bot 8: If ya want your friend to get out of this alive, you should surrender!
 
-Police Bot 9: No one can defeat the Robotropolis Po-
+Police Bot 9: No one can stop the Robotropolis Po-
 
 Plug Angry: **[electricutes all the surrounding Police Guard Bots around him]**
 
 Police Guard Bots: **AIEEEEEEEE!!!!** **[all off the crows nest and smashes on the floor]**
 
-Plug Happy: You can say these pirates were in quite a SHOCK, mon amis. **[shrugs]**
+Plug Happy:  **[shrugs]** You can say ze police were in quite a SHOCK.
+
+Hornet: Marines.
+
+Plug Annoyed: Same difference!
 
 Police Bot 10: O-oh...
 
@@ -612,13 +616,13 @@ Hornet: **[throws the barrel towards the group of 10 bots]**
 
 Galaxy Shocked: *GLUB GLUB???*
 
-Police Bots: Yikes!
+Police Bots: Run!
 
 %As they're about to run, the barrel strikes them all out like bowling pins.
 
-Galaxy Shocked: *GLUB GLUBBBBBBB...* **[falls out of the ship]**
-
 Hornet: **Strike!**
+
+Galaxy Shocked: *GLUB GLUBBBBBBB...* **[falls out of the ship]**
 
 Magma Annoyed: What was that weird noise just now?
 
@@ -626,21 +630,21 @@ Hornet Glare: No one important. Let's finish this mess! **[points at the police 
 
 Magma Angry: Yeah! Let's make sure they don't come back!! **[shoots several wave of magma at the police cars on the road]** 
 
-Hornet: Yeah, destroy them all!! Hmhmhmhmhmhmhm!!! **[sends swarm of bees towards the police cars as well]**
+Hornet: Fuck the marines!! **[sends swarm of bees towards the police cars as well]**
 
 %Several police cars explodes from the magma attack while the rest gets harassed by swarm of bees. The police force eventually loses momentum with the ship and eventually retreats.
 
 Plug Happy: **[looking at the road with the telescope]** Looks like they're all backing off now! We did it!!!!
 
-Magma Happy: Great job, ny crew! I'm proud of ye.
+Magma Happy: Great job, me crew! I'm proud of ye.
 
 %The ship eventually makes its way out of the city and into the fields.
 
-Hornet: Now it's boring again! FUCK!
+Hornet Sad: Now it's boring again...
 
 Plug Happy: Least we're closer to le treasure now, right?
 
-Magma Happy: **[holding the map]** That we are! Those rival pirates were hardly a challenge either and nothing will stop us from getting our treasure! We will be the greatest pirates that has ever lived!
+Magma Happy: **[holding the map]** That we are! Those marines were hardly a challenge either and nothing will stop us from getting our treasure! We will be the greatest pirates that has ever lived!
 
 Hornet Glare: What is the treasure anyways? You've never told us anything about it!
 
@@ -648,11 +652,11 @@ Magma: That's the exciting part! I don't know what's the treasure!
 
 Hornet Angry: What? Are you serious?!
 
-Magma: Yar! I know nothin' about the treasure other than it's right there **[points at an abandoned warehouse on the map]** in ye ol' abandoned warehouse in the middle of nowhere!
+Magma: Yar! I know nothin' about the treasure other than it's right there **[points at an abandoned warehouse on the map]** in ye ol' cove in the middle of the ocean!
 
 Hornet Annoyed: Of all the-
 
-PlugScared: Eep! **[takes hands off of the telescope and points at the forest]** Wé're abut to cross zé mystairious green sea!
+Plug Scared: Eep! **[takes hands off of the telescope and points at the forest]** Wé're abut to cross zé green sea!
 
 Magma: Looks like we're about to cross the unknown territory, lads! Brace yourselves! **[heads back to navigating the ship]**
 
