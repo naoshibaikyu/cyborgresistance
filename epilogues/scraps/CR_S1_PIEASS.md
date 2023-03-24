@@ -564,7 +564,9 @@ Police Bot 1: N-no! We swear we'll do anything!!
 
 Police Bot 4: Please just don't kill us!
 
-Hornet: Hmmmm... Nah!
+Hornet Glare: Hmmmm...
+
+Hornet: Nah!
 
 %Suddenly, a light from above shines on the ship!
 
@@ -580,11 +582,13 @@ Police Bot 3: We're saved!
 
 Magma Annoyed: Parachuting marines...?!
 
+Magma Shocked: ...And flying boats?!
+
 Hornet: Oh goody, more carnage! 
 
 Police Bot 5: You're outnumbered!
 
-Hornet Annoyed: Are you blind or are you stupid? Or both? We've took on more than that and there's still only 10 of you.
+Hornet Annoyed: Pfft... We've took on more than that and there's still only 10 of you.
 
 Police Bot 6: Who said there were only 10?
 
@@ -592,9 +596,9 @@ Police Bot 7: Yeah!
 
 %Magma Man and Hornet Man looks at the crow's nest where Plug Man, is surrounded by 4 additional Police Guard Bots.
 
-Police Bot 8: If ya want your friend to get out of this alive, you should surrender!
+Police Bot 8: If ya want your friend to live, you should surrender!
 
-Police Bot 9: No one can stop the Robotropolis Po-
+Police Bot 9: No one messes with the Robotropolis Po-
 
 Plug Angry: **[electricutes all the surrounding Police Guard Bots around him]**
 
@@ -604,11 +608,11 @@ Plug Happy:  **[shrugs]** You can say ze police were in quite a SHOCK.
 
 Hornet: Marines.
 
-Plug Annoyed: Same difference!
+Plug Annoyed: What's ze difference?
 
 Police Bot 10: O-oh...
 
-Hornet Glare: Meh. **[grabs a barrel]**
+Hornet Glare: Meh. **[grabs a barrel containing Galaxy Man]**
 
 Galaxy: *glub glub?*
 
