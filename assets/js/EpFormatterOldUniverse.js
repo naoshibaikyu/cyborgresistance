@@ -169,7 +169,7 @@ function getJsonData() {
 			},
 			"concrete": {
 				"displayName": "Concrete Man",
-				"imagePathPrefix": "classiccr/concrete0"
+				"imagePathPrefix": "classiccr/spike"
 			},
 			"galaxy": {
 				"displayName": "Galaxy Man",
