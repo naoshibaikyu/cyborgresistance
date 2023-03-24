@@ -163,42 +163,32 @@ function getJsonData() {
 	return ({
 		"names": {
 //Classic Cyborg Resistance
-			"magma": {
-				"displayName": "Magma Man",
-				"imagePathPrefix": "classiccr/magma0"
-			},
-			"concrete": {
-				"displayName": "Concrete Man",
-				"imagePathPrefix": "classiccr/spike"
-			},
-			"galaxy": {
-				"displayName": "Galaxy Man",
-				"imagePathPrefix": "classiccr/galaxy0"
-			},
-			"hornet": {
-				"displayName": "Hornet Man",
-				"imagePathPrefix": "classiccr/hornet0"
-			},
-			"plug": {
-				"displayName": "Plug Man",
-				"imagePathPrefix": "classiccr/plug0"
-			},
-			"tornado": {
-				"displayName": "Tornado Man",
-				"imagePathPrefix": "tornado"
-			},
-			"fake": {
-				"displayName": "Fakette",
-				"imagePathPrefix": "fake"
-			},
-			"jewel": {
-				"displayName": "Jewel Woman",
-				"imagePathPrefix": "jewel"
-			},
-			"splash": {
-				"displayName": "Splash Man",
-				"imagePathPrefix": "splash"
-			},
+			"magma": {"displayName": "Magma Man",
+				"imagePathPrefix": "classiccr/magma0"},
+
+			"concrete": {"displayName": "Concrete Man",
+				"imagePathPrefix": "classiccr/spike"},
+
+			"galaxy": {"displayName": "Galaxy Man",
+				"imagePathPrefix": "classiccr/galaxy0"},
+
+			"hornet": {"displayName": "Hornet Man",
+				"imagePathPrefix": "classiccr/hornet0"},
+			
+			"plug": {"displayName": "Plug Man",
+				"imagePathPrefix": "classiccr/plug0"},
+
+			"tornado": {"displayName": "Tornado Man",
+				"imagePathPrefix": "tornado"},
+			
+			"fake": {"displayName": "Fakette",
+				"imagePathPrefix": "fake"},
+				
+			"jewel": {"displayName": "Jewel Woman",
+				"imagePathPrefix": "jewel"},
+				
+			"splash": {"displayName": "Splash Man",
+				"imagePathPrefix": "splash"},
 			
 //Supporting Characters
 	//Narrator
