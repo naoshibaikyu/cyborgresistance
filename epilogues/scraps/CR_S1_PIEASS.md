@@ -34,7 +34,7 @@ Hornet: ...
 
 Fake Annoyed: ...
 
-Spike Aloof: ...
+Concrete Aloof: ...
 
 Hornet: When did you get in here? Whatever. Not interested anyways.
 
@@ -96,7 +96,7 @@ Hornet: I dare, loser. Pirates are and will always be superior to your dumb litt
 
 Splash Nani: ...
 
-Spike Aloof: ...
+Concrete Aloof: ...
 
 Splash Angry: First off, we're not inferior! We hide and strike our foes at the right moment before they know what hit 'em! And second of-
 
@@ -156,11 +156,11 @@ Splash Happy: Good! Glad someone agrees... even with a basic understanding.
 
 Hornet Annoyed: Hmph.
 
-Spike Aloof: ...
+Concrete Aloof: ...
 
 Hornet: ...
 
-Spike Aloof: ...
+Concrete Aloof: ...
 
 Hornet Glare: ...
 
@@ -252,17 +252,17 @@ Plug: Arrr!
 
 Hornet: ARRR!!!
 
-Spike Annoyed: **[shakes head no position]**
+Concrete Annoyed: **[shakes head no position]**
 
 Plug: I don't think Concrete Man likes fun.
 
 Hornet Annoyed: Yeah! What crawled up your ass and died!?
 
-SpikeAloof: ...
+Concrete Aloof: ...
 
 Hornet Angry: You know what? EAT THIS!! *shoots out tons of killer bees towards him*
 
-Spike Aloof: **[manages to rolls away successfully, but accidentally leaves behind a wishbone he had from a turkey dinner]**
+Concrete Aloof: **[manages to rolls away successfully, but accidentally leaves behind a wishbone he had from a turkey dinner]**
 
 Hornet: Dammit!
 
@@ -284,7 +284,7 @@ Hornet Glare: Then it's on...!!<br>**[grabs the wishbone and holds it up in fron
 
 Magma Annoyed: **[grabs the wishbone from the other side]**
 
-%Both had a dramatic staredown right before pulling the wishbone to their direction. And... <b>SNAP!!</b>
+%Both had a dramatic staredown right before pulling the wishbone to their direction. And... **SNAP!!**
 
 Magma Giddy: YEAH! **[holds the longer piece up]**
 
