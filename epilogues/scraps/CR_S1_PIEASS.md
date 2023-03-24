@@ -2,7 +2,7 @@ EpStart
 
 <!-- Epilogue Info -->
  
-@EPNUM: Lost Chronicles #40
+@EPNUM: Lost Chronicles #40454654
 
 @TITLE: PIEASS
 
@@ -10,7 +10,7 @@ EpStart
 
 <!-- Epilogue -->
 
-@LOCATIONlightslab2: DR. LIGHT'S LAB
+@LOCATIONlightslab: DR. LIGHT'S LAB
 
 Hornet Glare: [flipping through channels] Meh. Nothing good is on TV today...
 
@@ -22,7 +22,7 @@ Fake Shocked: But you've cycled through all the channels 5 times...
 
 Hornet Glare: Meh. Still nothing good... [still flipping]
 
-Fak eAnnoyed: Make that 6.
+Fake Annoyed: Make that 6.
 
 Hornet Glare: Oh, shut it. Not like you have any better ideas.
 
@@ -78,145 +78,145 @@ Fake Annoyed: It's a cartoon... You're suppose to suspend disbelief!
 
 Splash Angry: Alright, who was it?! Who uttered such a dishonorable thing around here?!
 
-HornetGlare: What are you talkin' about?
+Hornet Glare: What are you talkin' about?
 
-PlugScared: Honestly, I don't know either!!
+Plug Scared: Honestly, I don't know either!!
 
-FakeSnicker: Oh, you mean what Hornet Man had said about Ninjas?
+Fake Snicker: Oh, you mean what Hornet Man had said about Ninjas?
 
-HornetGlare: Oh yeah. That. They suck, who cares?
+Hornet Glare: Oh yeah. That. They suck, who cares?
 
-FakeAnnoyed: But didn't you get all flared up over for...
+Fake Annoyed: But didn't you get all flared up over for...
 
-HornetGlare: ...
+Hornet Glare: ...
 
-SplashAngry: You dare dishonor our caste?
+Splash Angry: You dare dishonor our caste?
 
 Hornet: I dare, loser. Pirates are and will always be superior to your dumb little inferior clan.
 
-SplashNani: ...
+Splash Nani: ...
 
-SpikeAloof: ...
+Spike Aloof: ...
 
-SplashAngry: First off, we're not inferior! We hide and strike our foes at the right moment before they know what hit 'em! And second of-
+Splash Angry: First off, we're not inferior! We hide and strike our foes at the right moment before they know what hit 'em! And second of-
 
-HornetGlare: [interrupts] Wow. So impressive. **NOT!** Sounds like a bunch of miserable cowards in spandexes that jump around like idiots.
+Hornet Glare: [interrupts] Wow. So impressive. **NOT!** Sounds like a bunch of miserable cowards in spandexes that jump around like idiots.
 
-SplashAngry: Fool! It's called stealth and there's a lot of work and skills involved, so it's not cowardice you ignorant-
+Splash Angry: Fool! It's called stealth and there's a lot of work and skills involved, so it's not cowardice you ignorant-
 
 Hornet: Spare me the insults. Pirates are infinitely cooler because they have guns, cannons, and parrots! They also raid islands and villages, then become rich from stealing treasure! Oh and not to mention they fight badass monsters like krakens!
 
-SplashAnnoyed: All I'm getting from this is they destroy innocent lives for profit! They have no redeemable qualities whatsoever!
+Splash Annoyed: All I'm getting from this is they destroy innocent lives for profit! They have no redeemable qualities whatsoever!
 
 Hornet: Yeah, right! They become rich!
 
-SplashAnnoyed: I said *redeemable* qualities. And krakens don't exist you disgraceful idiot!
+Splash Annoyed: I said *redeemable* qualities. And krakens don't exist you disgraceful idiot!
 
-HornetAnnoyed: What did you say?!
+Hornet Annoyed: What did you say?!
 
 Splash: Face it! Pirates will never be as popular as Ninjas will ever be because they lack honor and dignity! They're just a bunch of corrupt inhumane fools!
 
-HornetAngry: *Bullshit.* ***BULLSHIT.*** ***B U L L S H I T!***
+Hornet Angry: *Bullshit.* ***BULLSHIT.*** ***B U L L S H I T!***
 
 Splash: Sorry, but it's the truth.
 
-HornetAnnoyed: Well yeah?! Cranch, what do you think?
+Hornet Annoyed: Well yeah?! Cranch, what do you think?
 
 Plug: Ummm... I was always partial to pir-
 
-SplashAngry: ...
+Splash Angry: ...
 
-PlugHappy: On second thought!
+Plug Happy: On second thought!
 
-HornetAngry: **...**
+Hornet Angry: **...**
 
-PlugAnnoyed: Uhm... Actually
+Plug Annoyed: Uhm... Actually
 
-SplashNani: **...**
+Splash Nani: **...**
 
-PlugScared: That is...
+Plug Scared: That is...
 
-HornetPissed: <font color="red"><b>...</b></font>
+Hornet Pissed: <font color="red"><b>...</b></font>
 
-PlugShocked: **EEK!!** Sorry, my friend but I ch-choose pirates.
+Plug Shocked: **EEK!!** Sorry, my friend but I ch-choose pirates.
 
 Splash: *Sigh*
 
-HornetGlare: Good.
+Hornet Glare: Good.
 
-GalaxyHappy: Hoi! May I chime in to the conversion?
+Galaxy Happy: Hoi! May I chime in to the conversion?
 
-SplashHappy: Yes!
+Splash Happy: Yes!
 
-HornetGlare: No.
+Hornet Glare: No.
 
-GalaxyHappy: Well, personally, I prefer Ninjas. They're so sneaky and cool! They even have these cool little star throwing sharp thingies!
+Galaxy Happy: Well, personally, I prefer Ninjas. They're so sneaky and cool! They even have these cool little star throwing sharp thingies!
 
-SplashHappy: Good! Glad someone agrees... even with a basic understanding.
+Splash Happy: Good! Glad someone agrees... even with a basic understanding.
 
-HornetAnnoyed: Hmph.
+Hornet Annoyed: Hmph.
 
-SpikeAloof: ...
+Spike Aloof: ...
 
 Hornet: ...
 
-SpikeAloof: ...
+Spike Aloof: ...
 
-HornetGlare: ...
+Hornet Glare: ...
 
-SplashAnnoyed: You know he isn't gonna talk. Don't bother.
+Splash Annoyed: You know he isn't gonna talk. Don't bother.
 
-HornetGlare: Yeah, I know.
+Hornet Glare: Yeah, I know.
 
-FakeHappy: Well, personally I prefer Pirate Ninjas!
+Fake Happy: Well, personally I prefer Pirate Ninjas!
 
 Hornet: There's no such thing!
 
-FakeSnicker: Yes there is!
+Fake Snicker: Yes there is!
 
-SplashAnnoyed: Ugh. Fakette, please don't group up Ninjas with such disgraceful and hateful things... 
+Splash Annoyed: Ugh. Fakette, please don't group up Ninjas with such disgraceful and hateful things... 
 
 Fake: I take it you don't get along with Pirates, huh?
 
-SplashAnnoyed: I don't want to talk about it.
+Splash Annoyed: I don't want to talk about it.
 
 Hornet: Whatever! This conversation is over!
 
-SplashAnnoyed: You just don't wanna admit-
+Splash Annoyed: You just don't wanna admit-
 
-HornetGlare: Go home!
+Hornet Glare: Go home!
 
-SplashAngry: Fine! I'm out! [heads back to his room]
+Splash Angry: Fine! I'm out! [heads back to his room]
 
-GalaxyHappy: Well, guess I'm gonna go do some grocery shopping.
+Galaxy Happy: Well, guess I'm gonna go do some grocery shopping.
 
 Fake: ...But you do this every day. We have so much food already!
 
-GalaxyAnnoyed: Huh? You're right but whatever!
+Galaxy Annoyed: Huh? You're right but whatever!
 
 %As Galaxy Man heads out to the outdoors, Fakette turns to Hornet wanting to go back to the previous conversation
 
 Fake: So... would you rather talk about the Wii U Classic Mini?
 
-HornetGlare: But I thought they've stopped at the Gamecube.
+Hornet Glare: But I thought they've stopped at the Gamecube.
 
-FakeAnnoyed: Oh no. They've just actually decided to make a Classic Mini Edition of your favorite system.
+Fake Annoyed: Oh no. They've just actually decided to make a Classic Mini Edition of your favorite system.
 
-HornetAnnoyed: Piss off. I've hated it.
+Hornet Annoyed: Piss off. I've hated it.
 
 Fake: Ya sureee?
 
-HornetGlare: Yes.
+Hornet Glare: Yes.
 
-HornetAnnoyed: ...
+Hornet Annoyed: ...
 
 Hornet: What's in it.
 
-FakeHappy: [holding a regular Wii U box with a paper taped onto it with written in a marker] 30 amazing games it says!
+Fake Happy: [holding a regular Wii U box with a paper taped onto it with written in a marker] 30 amazing games it says!
 
-HornetGlare: Bullshit. There's only less than half of that.
+Hornet Glare: Bullshit. There's only less than half of that.
 
-FakeSnicker: Yeah? I bet you've never heard of Funky Barn!
+Fake Snicker: Yeah? I bet you've never heard of Funky Barn!
 
 Hornet: ...How much are you willing to sell it for?
 
@@ -224,7 +224,7 @@ Fake: Uh... $500?
 
 Hornet: **Sold!** [takes out his wallet and hands over his $500]
 
-FakeShocked: O-Oh. Well, I didn't expect an actual sale. Aheh.... [hands over the box]
+Fake Shocked: O-Oh. Well, I didn't expect an actual sale. Aheh.... [hands over the box]
 
 Hornet: Whatever! Hooking it up now! [opens the box]
 
@@ -234,17 +234,17 @@ Magma: Guess what!?
 
 Hornet: Shut up! I'm trying to boot up the Wii U Classic Mini!!
 
-HornetGlare: ...Hmm, the mini system is the exact size as the original...
+Hornet Glare: ...Hmm, the mini system is the exact size as the original...
 
 Magma: I'm now a pirate for no reason! Arrrr!! [pirate hat and eyepatch suddenly appears]
 
-PlugHappy: Oh! Oh! Can I be a Pirate too? [pirate hat appears too] Yeah!
+Plug Happy: Oh! Oh! Can I be a Pirate too? [pirate hat appears too] Yeah!
 
-HornetAngry: WHAT!? WHAT ABOUT ME?! [same]
+Hornet Angry: WHAT!? WHAT ABOUT ME?! [same]
 
 Hornet: FUCK YEAH!!!! [throws the GamePad out of the window]
 
-GalaxyAngry: [gets hit in the head by the Mini GamePad] (x0x) **KOed**
+Galaxy Angry: [gets hit in the head by the Mini GamePad] (x0x) **KOed**
 
 Magma: Arrr! Let's find some lost treasure!!
 
@@ -252,71 +252,71 @@ Plug: Arrr!
 
 Hornet: ARRR!!!
 
-SpikeAnnoyed: [shakes head no position]
+Spike Annoyed: [shakes head no position]
 
 Plug: I don't think Concrete Man likes fun.
 
-HornetAnnoyed: Yeah! What crawled up your ass and died!?
+Hornet Annoyed: Yeah! What crawled up your ass and died!?
 
 SpikeAloof: ...
 
-HornetAngry: You know what? EAT THIS!! *shoots out tons of killer bees towards him*
+Hornet Angry: You know what? EAT THIS!! *shoots out tons of killer bees towards him*
 
-SpikeAloof: [manages to rolls away successfully, but accidentally leaves behind a wishbone he had from a turkey dinner]
+Spike Aloof: [manages to rolls away successfully, but accidentally leaves behind a wishbone he had from a turkey dinner]
 
 Hornet: Dammit!
 
-HornetGlare: Wait, what the hell did he just dropped?
+Hornet Glare: Wait, what the hell did he just dropped?
 
-PlugHappy: Oh, look! A wishbone! We can make a wish by snapping it in half!
+Plug Happy: Oh, look! A wishbone! We can make a wish by snapping it in half!
 
 Hornet: I want a pet parrot before we get a ship!
 
-MagmaHappy: Yar! And I want a pirate ship for me journey!
+Magma Happy: Yar! And I want a pirate ship for me journey!
 
-PlugScared: But, a wishbone only grants one wish! So, whoever gets the longer piece gets their wish granted!
+Plug Scared: But, a wishbone only grants one wish! So, whoever gets the longer piece gets their wish granted!
 
-HornetAnnoyed: Oh what?! Well, I still want my wish!
+Hornet Annoyed: Oh what?! Well, I still want my wish!
 
-MagmaHappy: And we still need a pirate ship for our crew!
+Magma Happy: And we still need a pirate ship for our crew!
 
-HornetGlare: Then it's on...!! [grabs the wishbone and holds it up in front of Magma Man]
+Hornet Glare: Then it's on...!! [grabs the wishbone and holds it up in front of Magma Man]
 
-MagmaAnnoyed: [grabs the wishbone from the other side]
+Magma Annoyed: [grabs the wishbone from the other side]
 
 %Both had a dramatic staredown right before pulling the wishbone to their direction. And... <b>SNAP!!</b>
 
-MagmaGiddy: YEAH! [holds the longer piece up]
+Magma Giddy: YEAH! [holds the longer piece up]
 
-HornetAngry: Fuck!
+Hornet Angry: Fuck!
 
 %Suddenly right outside their lawn, the pirate ship appears from thin air in the sky!
 
-GalaxyShocked: [wakes up and sees a pirate ship dropping onto the pool] (°o°) ... **(°ロ°)!**
+Galaxy Shocked: [wakes up and sees a pirate ship dropping onto the pool] (°o°) ... **(°ロ°)!**
 
-PlugHappy: [peeks out the window] Wow, it really worked!!
+Plug Happy: [peeks out the window] Wow, it really worked!!
 
-MagmaHappy: [peeks out the window] Yarr!! There it is, lads! All aboard the S.S. Magma!
+Magma Happy: [peeks out the window] Yarr!! There it is, lads! All aboard the S.S. Magma!
 
-HornetSad: Meh.
+Hornet Sad: Meh.
 
 %The three goes to board the ship, unknowingly with Galaxy Man curiously trailing behind them.
 
-PlugShocked: This is bigger than I expected!
+Plug Shocked: This is bigger than I expected!
 
-MagmaAnnoyed: Yeah. I think we might need a bigger crew than this.
+Magma Annoyed: Yeah. I think we might need a bigger crew than this.
 
-HornetGlare: Too bad everyone else preferred Ninjas...
+Hornet Glare: Too bad everyone else preferred Ninjas...
 
-MagmaAngry: Well they ain't belonging to our crew for sure!!
+Magma Angry: Well they ain't belonging to our crew for sure!!
 
 Hornet: Exactly!
 
-GalaxyHappy: Hi.
+Galaxy Happy: Hi.
 
-MagmaHappy: Ahoy!
+Magma Happy: Ahoy!
 
-HornetAnnoyed: Get lost!
+Hornet Annoyed: Get lost!
 
 Galaxy: Huh. I just wanted to see what you all are upto...
 
@@ -324,19 +324,19 @@ Hornet: You picked Ninjas! Get out!
 
 Magma: Even if he did, look at it this way. He will realize the errors of his ways and become a true pirate!
 
-HornetAnnoyed: But you just... Ugh. *Fine...*
+Hornet Annoyed: But you just... Ugh. *Fine...*
 
-MagmaHappy: Welcome to the crew, Galaxy Man!
+Magma Happy: Welcome to the crew, Galaxy Man!
 
-GalaxyHappy: Yay!!
+Galaxy Happy: Yay!!
 
-MagmaHappy: And now with that out of the way, I think we can do with the four of us for now! So it is time to set sail, lads! Arrr!!
+Magma Happy: And now with that out of the way, I think we can do with the four of us for now! So it is time to set sail, lads! Arrr!!
 
-PlugHappy: Arr!!
+Plug Happy: Arr!!
 
-GalaxyHappy: Arr!!
+Galaxy Happy: Arr!!
 
-HornetAnnoyed: Arr...
+Hornet Annoyed: Arr...
 
 %The pirate ship slowly sails towards out of the pool and drags itself across the land, creating a huge earth-destroying trail behind.
 
