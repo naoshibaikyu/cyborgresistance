@@ -370,7 +370,7 @@ Galaxy: G...Get it? Get the pun?
 
 Magma Angry: ...
 
-Galaxy Shocked: Nevermind! I didn't say anything!!
+Galaxy Shocked: Nevermind...
 
 Hornet: Hey, you chucklefucks! What am I suppose to do?!
 
@@ -378,7 +378,7 @@ Plug: Same.
 
 Magma: Cranchio, you scout on the Crow's Nest and tell us when there's a threat nearby! We can't afford to be unguarded out in the dangerous sea!
 
-Hornet Angry: HEY! I SAID WHAT ABOUT ME?!
+Hornet Angry: That was my question!!
 
 Magma: Dunno, do whatever ya want.
 
@@ -390,15 +390,17 @@ Hornet Glare: Fuck.
 
 Galaxy: Huh?
 
+%Later... 
+
 Hornet Glare: This is so *boring*. Nothing exciting is even happening.
 
-Galaxy Annoyed: Dude, we've only just started sailing 3 minutes ago.
+Galaxy Annoyed: Dude, we've only just started sailing minutes ago.
 
-Hornet: Oh, shut your stupid annoying face.
+Hornet Glare: Shut up.
 
 Galaxy Angry: Hey!!
 
-Hornet Annoyed: I said shut up.
+Hornet Annoyed: I said shut up!
 
 Galaxy Pissed: (`д´#)
 
@@ -420,11 +422,11 @@ Galaxy Pissed: THAT'S IT! ＼(｀0´)／ **[takes out a pirate sword and stabs i
 
 Hornet Shocked: HURK!!!
 
-Galaxy Pissed: **[grabs Hornet Man's head and twists it to snap his neck]**
+Galaxy Pissed: **[grabs Hornet Man's head and snaps his neck]**
 
-Hornet Shocked: GACK **[falls over dead]**
+Hornet Shocked: GACK **[spits oil and falls over dead]**
 
-%That didn't happen.
+%But that didn't happen.
 
 %*FWOOOSH*
 
