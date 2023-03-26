@@ -50,7 +50,7 @@ Fake: Maybe Pirates are just not the flavor of the mon-
 
 Hornet Angry: WRONG! So so wrong. What do you even know about Pirates? You're not a sheep to the modern mainstream, are you Fakette!? ARE YOU?!
 
-Fake Shocked: Yeesh, taking it a bit personal there. I didn't even stated my perference.
+Fake Shocked: Yeesh, taking it a bit personal there. I didn't even stated my preference.
 
 Hornet Glare: So what?! It's personal when Ninjas are somehow the "in" to everyone now. 
 
@@ -318,7 +318,7 @@ Magma Happy: Ahoy!
 
 Hornet Annoyed: Get lost!
 
-Galaxy: Huh. I just wanted to see what you all are upto...
+Galaxy: Huh. I just wanted to see what you all are up to...
 
 Hornet: You picked Ninjas! Get out!
 
